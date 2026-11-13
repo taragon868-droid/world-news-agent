@@ -1,4 +1,263 @@
 {
- "updated": "2026-11-13T12:01:06.955778+00:00",
- "stories": []
+ "updated": "2026-11-13T12:06:11.682050+00:00",
+ "stories": [
+  {
+   "id": "bbb154b9ce3d",
+   "headline": "US officials meet Putin and Zelenskyy after Abu Dhabi talks, agree prisoner swap and plan European involvement",
+   "summary": "U.S. envoys met Russian President Vladimir Putin in Moscow following Abu Dhabi peace talks that produced a Russia‑Ukraine prisoner‑exchange agreement. The meetings set the stage for further negotiations, including the prospect of European participation in the next round of talks.",
+   "country": "Ukraine",
+   "regions": [
+    "Russia",
+    "United States",
+    "European Union",
+    "Ireland"
+   ],
+   "inside": "Ukrainians could see the release of captured soldiers and civilians, easing personal suffering and raising hopes for a broader de‑escalation of the war.",
+   "beyond": "The talks involve the United States and Europe, influencing NATO strategy, EU security policy, and the overall geopolitical balance between Russia and the West.",
+   "category": "Politics & law",
+   "importance": 82,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 7
+   },
+   "sources": [
+    {
+     "name": "NPR",
+     "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks"
+    },
+    {
+     "name": "NPR",
+     "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+     "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+    },
+    {
+     "name": "DW",
+     "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
+     "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "DW",
+     "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+     "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "BBC News",
+     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+     "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
+     "url": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations"
+    }
+   ],
+   "published": "2026-11-12T09:38:46+00:00",
+   "updated": "2026-11-13T12:06:11.682050+00:00"
+  },
+  {
+   "id": "15c4515e563c",
+   "headline": "Global Microsoft outage disrupts email, collaboration tools in 74 countries",
+   "summary": "Microsoft’s Outlook, Teams and Copilot services suffered a widespread outage affecting users in 74 countries. The disruption halted email, online meetings and school communications for businesses, governments and educational institutions, and the company attributes the issue to elevated infrastructure loads.",
+   "country": "Global",
+   "regions": [
+    "Various (74 countries)"
+   ],
+   "inside": "People in the affected nations lost access to email, online meetings and school platforms, interrupting daily work, education and government communications.",
+   "beyond": "The outage hampered international business and cross‑border collaboration, delaying communications and transactions that rely on Microsoft’s cloud services worldwide.",
+   "category": "Technology",
+   "importance": 70,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 6,
+    "cross_border": 8,
+    "durability": 5
+   },
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Live: Local services, schools hit by global Microsoft outage as disruption continues",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Microsoft hit by global outages: What happened and why?",
+     "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "What we know about the global Microsoft outage",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Live: Microsoft struggles to restore services as outage hits global users",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-13T03:44:22+00:00",
+   "updated": "2026-11-13T12:06:11.682050+00:00"
+  },
+  {
+   "id": "df288b099f8e",
+   "headline": "Israeli airstrike hits Gaza's Nasser Hospital, killing six and injuring dozens",
+   "summary": "An Israeli airstrike struck the Nasser Hospital in Khan Younis, Gaza, killing six people—including a surgeon—and wounding around 28 others. The attack caused extensive damage to one of the few remaining medical facilities in the enclave, worsening the humanitarian crisis.",
+   "country": "Palestine",
+   "regions": [
+    "Israel",
+    "Middle East"
+   ],
+   "inside": "Gaza residents lost six lives and dozens were injured, and the hospital's ability to treat patients has been severely compromised.",
+   "beyond": "The strike escalates tensions between Israel and the broader Arab world, drawing international condemnation and raising the risk of wider regional conflict.",
+   "category": "Conflict",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168796"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
+     "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
+    }
+   ],
+   "published": "2026-11-12T12:00:00+00:00",
+   "updated": "2026-11-13T12:06:11.682050+00:00"
+  },
+  {
+   "id": "15c4515e563c",
+   "headline": "Microsoft works to restore global Outlook and Teams outage affecting businesses and public services",
+   "summary": "Microsoft is scrambling to fix a widespread outage that has taken down Outlook, Teams and other services for users worldwide. The disruption has impacted hospitals, schools, police forces and many businesses, though the company says there is no evidence of a cyber‑attack.",
+   "country": "Global",
+   "regions": [
+    "United Kingdom"
+   ],
+   "inside": "In the UK the outage halted email for hospitals, general practitioners, schools and police, forcing staff to rely on alternative communication methods and delaying routine operations.",
+   "beyond": "The outage affected millions of users in other countries, interrupting corporate communications, remote work and online collaboration across the globe.",
+   "category": "Technology",
+   "importance": 74,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 9,
+    "durability": 4
+   },
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "🔴 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
+     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+    }
+   ],
+   "published": "2026-11-13T09:18:23+00:00",
+   "updated": "2026-11-13T12:06:11.682050+00:00"
+  },
+  {
+   "id": "ff8180ddaf74",
+   "headline": "WFP chief warns funding cuts deepen hunger crisis for millions in Sudan",
+   "summary": "The new Executive Director of the World Food Programme says that reduced funding is worsening the hunger emergency in Sudan after visiting displaced families. Millions of Sudanese face severe food insecurity and rely on aid as the crisis deepens.",
+   "country": "Sudan",
+   "regions": [
+    "South Sudan",
+    "Chad",
+    "Ethiopia"
+   ],
+   "inside": "Sudanese families, especially those displaced by conflict, are experiencing worsening food shortages and heightened risk of starvation without increased aid.",
+   "beyond": "The deteriorating humanitarian situation could trigger larger refugee flows and regional instability, affecting neighboring countries and international aid commitments.",
+   "category": "Health",
+   "importance": 74,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 4,
+    "durability": 7
+   },
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168793"
+    }
+   ],
+   "published": "2026-11-12T12:00:00+00:00",
+   "updated": "2026-11-13T12:06:11.682050+00:00"
+  },
+  {
+   "id": "11f8b08f00bc",
+   "headline": "World leaders at COP31 focus on cities and climate impacts amid activist pressure",
+   "summary": "At COP31, UN officials highlighted the human cost of climate change, from flooded homes to melting Himalayan glaciers, and urged action to protect cities and vulnerable communities. Activists pressed governments for stronger commitments, while leaders discussed policies to address urban climate risks.",
+   "country": "Global",
+   "regions": [],
+   "inside": "Communities worldwide are experiencing flooding, glacier melt and other climate‑related hazards that were emphasized at the summit.",
+   "beyond": "Decisions taken at COP31 will influence climate policies, financing and adaptation measures in many nations, shaping emissions trajectories and city resilience across borders.",
+   "category": "Climate & disasters",
+   "importance": 87,
+   "confidence": 7,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168792"
+    }
+   ],
+   "published": "2026-11-12T12:00:00+00:00",
+   "updated": "2026-11-13T12:06:11.682050+00:00"
+  },
+  {
+   "id": "304879f3b6f1",
+   "headline": "UN report says over 1,000 killed in Haiti in third quarter amid gang violence",
+   "summary": "A United Nations human‑rights report says more than 1,000 people were killed in Haiti between July and September as armed gangs continue to terrorise Port‑au‑Prince and other areas. The killings highlight a deepening security and humanitarian crisis on the island.",
+   "country": "Haiti",
+   "regions": [
+    "Dominican Republic",
+    "Caribbean region"
+   ],
+   "inside": "Haitians are living under constant threat from armed gangs, with thousands killed and many more displaced, disrupting daily life and basic services.",
+   "beyond": "The violence risks spilling over borders, prompting refugee flows to the Dominican Republic and raising regional security concerns.",
+   "category": "Conflict",
+   "importance": 70,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 9,
+    "cross_border": 4,
+    "durability": 8
+   },
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168789"
+    }
+   ],
+   "published": "2026-11-12T12:00:00+00:00",
+   "updated": "2026-11-13T12:06:11.682050+00:00"
+  }
+ ]
 }
