@@ -3,107 +3,185 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
 <title>Ripple: news that crosses borders</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Atkinson+Hyperlegible+Next:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root{--paper:#edf1f4;--ink:#0f1e2b;--muted:#566674;--line:#c5d0d9;--accent:#2447d6;--across:#0e7f73;--surface:#f8fafb;
-  --head:"Familjen Grotesk","Segoe UI",system-ui,sans-serif;--body:"Atkinson Hyperlegible Next","Segoe UI",system-ui,sans-serif}
-@media (prefers-color-scheme:dark){:root{--paper:#0b131a;--ink:#e8eef3;--muted:#93a3b1;--line:#243442;--accent:#8aa2ff;--across:#46c8b6;--surface:#111c25}}
+:root{--void:#020604;--panel:rgba(2,9,5,.93);--g:#00ff41;--gdim:#0c7a2c;--text:#c8ffd9;--muted:#79bb90;--line:#0f4a22;--cyan:#5cf0ff;--amber:#ffd23f;
+  --head:"Chakra Petch","Segoe UI",system-ui,sans-serif;--mono:"IBM Plex Mono",ui-monospace,Consolas,monospace}
 *{box-sizing:border-box}
-body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body)}
-a{color:var(--accent)} a:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
-.wrap{max-width:860px;margin:0 auto;padding:32px 20px 64px}
-header h1{font:700 clamp(2.2rem,6vw,3.4rem)/1.05 var(--head);margin:0 0 8px;letter-spacing:-.02em}
-header p{margin:0;color:var(--muted);max-width:52ch}
-.bar{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px;padding:14px 0;border-block:1px solid var(--line)}
-.bar input,.bar select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-height:44px}
-.bar input{flex:1 1 200px}
-.status{color:var(--muted);font-size:.9rem;margin:8px 0 0}
-.story{display:grid;grid-template-columns:84px 1fr;gap:4px 20px;padding:28px 0;border-bottom:1px solid var(--line)}
-.rank{color:var(--accent);text-align:center;font-size:.8rem;color:var(--muted)}
-.rank svg{display:block;margin:0 auto 4px;color:var(--accent)}
-.story h2{font:700 1.45rem/1.2 var(--head);margin:0 0 8px;letter-spacing:-.01em}
-.story .sum{margin:0 0 16px;max-width:62ch}
-.impact{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);background:var(--surface);border-radius:4px 14px 4px 14px}
-.pane{padding:14px 16px}
-.pane+.pane{border-left:3px solid var(--across)}
-.pane h3{font:700 .95rem var(--head);margin:0 0 4px}
-.pane:last-child h3{color:var(--across)}
-.pane p{margin:0;font-size:.95rem}
-.meta{display:flex;flex-wrap:wrap;gap:6px 16px;margin-top:12px;font-size:.88rem;color:var(--muted)}
-.tag{font-weight:600;color:var(--ink)}
-.empty{padding:48px 0;color:var(--muted)}
-@media (max-width:640px){.story{grid-template-columns:1fr}.rank{display:flex;gap:10px;align-items:center;text-align:left}.rank svg{margin:0}
-  .impact{grid-template-columns:1fr}.pane+.pane{border-left:0;border-top:3px solid var(--across)}}
+html{color-scheme:dark}
+body{margin:0;background:var(--void);color:var(--text);font:15px/1.6 var(--mono);min-height:100vh}
+#rain{position:fixed;inset:0;width:100%;height:100%;opacity:.3;pointer-events:none;z-index:0}
+a{color:var(--g)} button,input,select{font:inherit}
+:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+.ticker{position:relative;z-index:2;overflow:hidden;border-bottom:1px solid var(--line);background:var(--panel);white-space:nowrap;color:var(--muted);font-size:.85rem;padding:7px 0}
+.track{display:inline-block;animation:scroll 90s linear infinite}
+.ticker:hover .track{animation-play-state:paused}
+.track span{margin:0 22px}.track b{color:var(--g);font-weight:500}
+@keyframes scroll{to{transform:translateX(-50%)}}
+.wrap{position:relative;z-index:1;max-width:980px;margin:0 auto;padding:36px 18px 72px}
+h1{font:700 clamp(3rem,10vw,5.5rem)/1 var(--head);margin:0;color:var(--g);text-shadow:0 0 18px rgba(0,255,65,.55)}
+.lede{max-width:56ch;margin:10px 0 6px;color:var(--text)}
+.status{margin:0;color:var(--muted);font-size:.85rem}
+.status i{display:inline-block;width:8px;height:8px;background:var(--g);border-radius:50%;margin-right:8px;box-shadow:0 0 8px var(--g)}
+.tabs{display:flex;gap:4px;margin:26px 0 0;border-bottom:1px solid var(--line);overflow-x:auto}
+.tabs button{background:none;border:0;border-bottom:3px solid transparent;color:var(--muted);padding:12px 16px;cursor:pointer;font:500 1rem var(--head);white-space:nowrap}
+.tabs button:hover{color:var(--text)}
+.tabs button[aria-selected=true]{color:var(--g);border-bottom-color:var(--g);text-shadow:0 0 10px rgba(0,255,65,.5)}
+.panel{padding-top:22px}
+.bar{display:flex;flex-wrap:wrap;gap:10px}
+.bar input,.bar select{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:2px;padding:9px 12px;min-height:44px}
+.bar input{flex:1 1 220px}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px}
+.chips button{background:var(--panel);color:var(--muted);border:1px solid var(--line);border-radius:99px;padding:6px 14px;cursor:pointer}
+.chips button[aria-pressed=true]{color:var(--void);background:var(--g);border-color:var(--g);font-weight:500}
+.count{color:var(--muted);font-size:.85rem;margin:12px 0}
+.story{display:grid;gap:0 20px;background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--g);margin:0 0 18px;padding:18px 20px}
+.story.has-photo{grid-template-columns:230px 1fr}
+.photo{position:relative;display:block;align-self:start;overflow:hidden;border:1px solid var(--line);background:#000}
+.photo img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;filter:grayscale(1) contrast(1.15) brightness(.85);transition:filter .3s}
+.photo::after{content:"";position:absolute;inset:0;background:var(--g);mix-blend-mode:multiply;opacity:.6;transition:opacity .3s;pointer-events:none}
+.photo:hover img,.photo:focus-visible img{filter:none}.photo:hover::after,.photo:focus-visible::after{opacity:0}
+.credit{position:absolute;left:0;bottom:0;z-index:1;background:rgba(0,0,0,.8);color:var(--muted);font-size:.72rem;padding:2px 8px}
+.top{display:flex;align-items:flex-end;gap:14px;color:var(--muted);font-size:.85rem;margin-bottom:6px}
+.bars{display:flex;align-items:flex-end;gap:3px;height:31px}
+.bars span{width:6px;background:var(--line)}.bars span.on{background:var(--g);box-shadow:0 0 6px var(--g)}
+.cat{color:var(--g)}
+.story h2{font:700 1.4rem/1.2 var(--head);margin:0 0 8px;color:#e8fff0}
+.sum{margin:0 0 14px}
+.impact{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line)}
+.pane{padding:12px 14px}.pane+.pane{border-left:1px solid var(--cyan)}
+.pane h3{font:700 .95rem var(--head);margin:0 0 4px;color:var(--g)}.pane+.pane h3{color:var(--cyan)}
+.pane p{margin:0;font-size:.9rem}
+.meta{display:flex;flex-wrap:wrap;gap:4px 16px;margin-top:12px;font-size:.82rem;color:var(--muted)}
+.early{color:var(--amber)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.country{text-align:left;background:var(--panel);border:1px solid var(--line);color:var(--text);padding:14px 16px;cursor:pointer}
+.country:hover{border-color:var(--g)}
+.country b{display:block;font:700 1.2rem var(--head);color:var(--g)}
+.country small{display:block;color:var(--muted);margin:2px 0 8px}
+.about{background:var(--panel);border:1px solid var(--line);padding:6px 22px 20px;max-width:70ch}
+.about h2{font:700 1.15rem var(--head);color:var(--g);margin:20px 0 6px}.about p,.about li{margin:6px 0}
+.empty{background:var(--panel);border:1px solid var(--line);padding:24px;color:var(--muted)}
+[hidden]{display:none!important}
+@media (max-width:700px){.story.has-photo{grid-template-columns:1fr}.photo{margin-bottom:14px}.impact{grid-template-columns:1fr}.pane+.pane{border-left:0;border-top:1px solid var(--cyan)}}
+@media (prefers-reduced-motion:reduce){.track{animation:none}.photo img,.photo::after{transition:none}}
 </style>
 </head>
 <body>
+<canvas id="rain" aria-hidden="true"></canvas>
+<div class="ticker" aria-hidden="true"><div class="track" id="track"></div></div>
 <div class="wrap">
   <header>
     <h1>Ripple</h1>
-    <p>Only the stories that change lives inside a country, or send effects across its borders. Chosen by an AI agent that reads world news around the clock.</p>
+    <p class="lede">Only the stories that change lives inside a country, or send effects across its borders. Picked by an AI agent that reads world news around the clock.</p>
+    <p class="status" id="status" role="status"></p>
   </header>
-  <div class="bar">
-    <input id="q" type="search" placeholder="Search stories" aria-label="Search stories">
-    <select id="country" aria-label="Filter by country"><option value="">All countries</option></select>
-    <select id="sort" aria-label="Sort stories"><option value="importance">Most important</option><option value="newest">Newest</option></select>
-  </div>
-  <p class="status" id="status" role="status"></p>
-  <main id="feed"></main>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button role="tab" id="t-feed" aria-selected="true" aria-controls="p-feed">Live feed</button>
+    <button role="tab" id="t-countries" aria-selected="false" aria-controls="p-countries">Countries</button>
+    <button role="tab" id="t-about" aria-selected="false" aria-controls="p-about">How it works</button>
+  </nav>
+  <section class="panel" id="p-feed" role="tabpanel" aria-labelledby="t-feed">
+    <div class="bar">
+      <input id="q" type="search" placeholder="Search stories" aria-label="Search stories">
+      <select id="country" aria-label="Filter by country"><option value="">All countries</option></select>
+      <select id="sort" aria-label="Sort stories"><option value="importance">Most important</option><option value="newest">Newest</option></select>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Filter by topic"></div>
+    <p class="count" id="count"></p>
+    <div id="feed"></div>
+  </section>
+  <section class="panel" id="p-countries" role="tabpanel" aria-labelledby="t-countries" hidden>
+    <div class="grid" id="countries"></div>
+  </section>
+  <section class="panel" id="p-about" role="tabpanel" aria-labelledby="t-about" hidden>
+    <div class="about">
+      <h2>What gets published</h2>
+      <p>An agent reads world news and official feeds every two hours. It groups reports about the same event, then rates each story on how many people it affects, how severe it is, whether it reaches other countries, and whether it will still matter next month. Only high scorers appear here.</p>
+      <h2>Reading a story</h2>
+      <p>The signal bars show impact from 1 to 5. Each story splits into what changes inside the country and what spills across borders. “Early report” means few outlets have confirmed it so far.</p>
+      <h2>Read this carefully</h2>
+      <ul><li>Summaries are written by an AI from headlines and short feed text, so check the linked sources for details.</li>
+      <li>Photos belong to the outlets that published them. They are shown as small previews with credit and link to the original report.</li></ul>
+      <h2>Sources monitored</h2>
+      <p id="sources">Loading…</p>
+    </div>
+  </section>
 </div>
 <script>
-const $ = s => document.querySelector(s);
-let stories = [];
-
-function el(tag, cls, text){ const e=document.createElement(tag); if(cls) e.className=cls; if(text!=null) e.textContent=text; return e; }
-function ago(iso){
-  const m=Math.round((Date.now()-new Date(iso))/60000), r=new Intl.RelativeTimeFormat("en",{numeric:"auto"});
-  return m<60 ? r.format(-m,"minute") : m<1440 ? r.format(-Math.round(m/60),"hour") : r.format(-Math.round(m/1440),"day");
-}
-function rings(level){
-  const ns="http://www.w3.org/2000/svg", s=document.createElementNS(ns,"svg");
-  s.setAttribute("viewBox","0 0 48 48"); s.setAttribute("width","48"); s.setAttribute("height","48");
-  s.setAttribute("role","img"); s.setAttribute("aria-label",`Impact ${level} of 5`);
-  for(let i=1;i<=5;i++){ const c=document.createElementNS(ns,"circle");
-    c.setAttribute("cx","24"); c.setAttribute("cy","24"); c.setAttribute("r",String(i*4.5)); c.setAttribute("fill","none");
-    c.setAttribute("stroke","currentColor"); c.setAttribute("stroke-width","2"); c.setAttribute("opacity", i<=level?"1":"0.15"); s.appendChild(c); }
-  return s;
-}
+const $=s=>document.querySelector(s);
+const el=(t,c,x)=>{const e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;};
+let stories=[],cat="";
+function ago(iso){const m=Math.max(0,Math.round((Date.now()-new Date(iso))/60000)),r=new Intl.RelativeTimeFormat("en",{numeric:"auto"});
+  return m<60?r.format(-m,"minute"):m<1440?r.format(-Math.round(m/60),"hour"):r.format(-Math.round(m/1440),"day");}
+function bars(l){const b=el("div","bars");b.setAttribute("role","img");b.setAttribute("aria-label",`Impact ${l} of 5`);
+  for(let i=1;i<=5;i++){const s=el("span",i<=l?"on":"");s.style.height=(7+i*5)+"px";b.appendChild(s);}return b;}
 function card(s){
-  const a=el("article","story"), lvl=Math.max(1,Math.min(5,Math.round(s.importance/20)));
-  const rank=el("div","rank"); rank.appendChild(rings(lvl)); rank.appendChild(el("span",null,`Impact ${lvl} of 5`)); a.appendChild(rank);
-  const body=el("div"); body.appendChild(el("h2",null,s.headline)); body.appendChild(el("p","sum",s.summary));
-  const imp=el("div","impact"), p1=el("div","pane"), p2=el("div","pane");
-  p1.appendChild(el("h3",null,s.country==="Global"?"Worldwide":"Inside "+s.country)); p1.appendChild(el("p",null,s.inside||"No direct effect described."));
-  p2.appendChild(el("h3",null,"Across borders")); p2.appendChild(el("p",null,s.beyond||"No effects on other countries identified."));
-  imp.append(p1,p2); body.appendChild(imp);
-  const meta=el("div","meta"); meta.appendChild(el("span","tag",s.category)); meta.appendChild(el("span",null,ago(s.updated)));
-  if((s.confidence??10)<7) meta.appendChild(el("span",null,"Early report: confirmation is limited"));
-  const src=el("span",null,"Sources: ");
-  s.sources.forEach((x,i)=>{ const l=el("a",null,x.name); l.href=x.url; l.rel="noopener"; l.target="_blank"; if(i) src.append(", "); src.appendChild(l); });
-  meta.appendChild(src); body.appendChild(meta); a.appendChild(body); return a;
-}
-function render(){
-  const q=$("#q").value.toLowerCase(), c=$("#country").value, by=$("#sort").value;
-  let list=stories.filter(s=>(!c||s.country===c||(s.regions||[]).includes(c)) &&
+  const lvl=Math.max(1,Math.min(5,Math.round(s.importance/20))),a=el("article","story"+(s.image?" has-photo":""));
+  if(s.image){const f=el("a","photo");f.href=s.image_link||s.sources[0].url;f.target="_blank";f.rel="noopener";f.setAttribute("aria-label","Open the original report");
+    const im=document.createElement("img");im.src=s.image.replace(/^http:\/\//,"https://");im.alt="";im.loading="lazy";im.referrerPolicy="no-referrer";
+    im.onerror=()=>{a.classList.remove("has-photo");f.remove();};f.appendChild(im);f.appendChild(el("span","credit","Photo: "+(s.image_credit||"source")));a.appendChild(f);}
+  const body=el("div"),top=el("div","top");top.appendChild(bars(lvl));top.appendChild(el("span","cat",s.category));top.appendChild(el("span",null,ago(s.updated)));
+  body.appendChild(top);body.appendChild(el("h2",null,s.headline));body.appendChild(el("p","sum",s.summary));
+  const imp=el("div","impact"),p1=el("div","pane"),p2=el("div","pane");
+  p1.appendChild(el("h3",null,s.country==="Global"?"Worldwide":"Inside "+s.country));p1.appendChild(el("p",null,s.inside||"No direct effect described."));
+  p2.appendChild(el("h3",null,"Across borders"));p2.appendChild(el("p",null,s.beyond||"No effects on other countries identified."));
+  imp.append(p1,p2);body.appendChild(imp);
+  const meta=el("div","meta");if((s.confidence??10)<7)meta.appendChild(el("span","early","Early report: limited confirmation"));
+  const src=el("span",null,"Sources: ");s.sources.forEach((x,i)=>{const l=el("a",null,x.name);l.href=x.url;l.rel="noopener";l.target="_blank";if(i)src.append(", ");src.appendChild(l);});
+  meta.appendChild(src);body.appendChild(meta);a.appendChild(body);return a;}
+function renderFeed(){
+  const q=$("#q").value.toLowerCase(),c=$("#country").value,by=$("#sort").value;
+  const list=stories.filter(s=>(!c||s.country===c||(s.regions||[]).includes(c))&&(!cat||s.category===cat)&&
     (!q||[s.headline,s.summary,s.country,...(s.regions||[])].join(" ").toLowerCase().includes(q)));
-  list.sort((a,b)=> by==="newest" ? new Date(b.updated)-new Date(a.updated) : b.importance-a.importance);
-  const feed=$("#feed"); feed.replaceChildren(...list.map(card));
-  if(!list.length) feed.appendChild(el("p","empty", stories.length ? "No stories match these filters." : "No stories yet. The agent runs every two hours; start it now from the Actions tab of your repository."));
-}
+  list.sort((a,b)=>by==="newest"?new Date(b.updated)-new Date(a.updated):b.importance-a.importance);
+  $("#feed").replaceChildren(...list.map(card));
+  $("#count").textContent=stories.length?`Showing ${list.length} of ${stories.length} stories`:"";
+  if(!list.length)$("#feed").appendChild(el("p","empty",stories.length?"No stories match these filters.":"No stories yet. The agent runs every two hours; start it now from the Actions tab of your repository."));}
+function renderChips(){
+  const box=$("#chips"),cats=[...new Set(stories.map(s=>s.category))].sort();box.replaceChildren();
+  ["",...cats].forEach(c=>{const b=el("button",null,c||"All topics");b.setAttribute("aria-pressed",String(c===cat));b.onclick=()=>{cat=c;renderChips();renderFeed();};box.appendChild(b);});}
+function renderCountries(){
+  const map={};stories.forEach(s=>(map[s.country]??=[]).push(s));
+  const names=Object.keys(map).sort((a,b)=>map[b].length-map[a].length||a.localeCompare(b));
+  $("#countries").replaceChildren(...names.map(n=>{const top=map[n].sort((a,b)=>b.importance-a.importance)[0],b=el("button","country");
+    b.appendChild(el("b",null,n));b.appendChild(el("small",null,map[n].length+(map[n].length===1?" story":" stories")));b.appendChild(el("span",null,top.headline));
+    b.onclick=()=>{$("#country").value=n;setTab("feed");renderFeed();};return b;}));
+  if(!names.length)$("#countries").appendChild(el("p","empty","No countries yet. They appear once the agent publishes stories."));}
+function setTab(n){["feed","countries","about"].forEach(t=>{$("#t-"+t).setAttribute("aria-selected",String(t===n));$("#p-"+t).hidden=t!==n;});history.replaceState(null,"","#"+n);}
+["feed","countries","about"].forEach(t=>$("#t-"+t).onclick=()=>setTab(t));
+["input","change"].forEach(ev=>document.querySelectorAll(".bar input,.bar select").forEach(n=>n.addEventListener(ev,renderFeed)));
 async function init(){
-  try{
-    const d=await (await fetch("data/stories.json",{cache:"no-store"})).json(); stories=d.stories||[];
-    $("#status").textContent=d.updated?`Last checked ${ago(d.updated)}. ${stories.length} stories from the past week.`:"";
-    const set=new Set(); stories.forEach(s=>{set.add(s.country); (s.regions||[]).forEach(r=>set.add(r));});
-    [...set].filter(Boolean).sort().forEach(n=>{const o=el("option",null,n); o.value=n; $("#country").appendChild(o);});
-  }catch(e){ $("#status").textContent="Couldn’t load data/stories.json. Open this page from GitHub Pages, or run “python -m http.server” in the repository folder."; }
-  render();
+  let d={stories:[]};
+  try{d=await (await fetch("data/stories.json",{cache:"no-store"})).json();}
+  catch(e){$("#status").textContent="Couldn’t load data/stories.json. Open this page from GitHub Pages, or run “python -m http.server” in the repository folder.";}
+  stories=d.stories||[];
+  if(d.updated){const i=el("i");$("#status").replaceChildren(i,document.createTextNode(`Last sweep ${ago(d.updated)}. ${stories.length} stories from the past week.`));}
+  const set=new Set();stories.forEach(s=>{set.add(s.country);(s.regions||[]).forEach(r=>set.add(r));});
+  [...set].filter(Boolean).sort().forEach(n=>{const o=el("option",null,n);o.value=n;$("#country").appendChild(o);});
+  const heads=[...stories].sort((a,b)=>b.importance-a.importance).slice(0,10).map(s=>s.headline);
+  if(heads.length){const t=heads.map(h=>`<span><b>&gt;</b> ${h.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}</span>`).join("");$("#track").innerHTML=t+t;}
+  else $("#track").textContent="Waiting for the first sweep";
+  const names=[...new Set(stories.flatMap(s=>s.sources.map(x=>x.name)))].sort();
+  $("#sources").textContent=names.length?names.join(", ")+".":"BBC News, Al Jazeera, The Guardian, DW, France 24, NPR, UN News, WHO.";
+  renderChips();renderFeed();renderCountries();
+  const h=location.hash.slice(1);if(["countries","about"].includes(h))setTab(h);
 }
-["input","change"].forEach(ev=>document.querySelectorAll(".bar input,.bar select").forEach(n=>n.addEventListener(ev,render)));
 init();
+/* digital rain */
+(function(){
+  const c=$("#rain"),x=c.getContext("2d"),chars="ｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉ0123456789",size=16;let w,h,drops;
+  function fit(){w=c.width=innerWidth;h=c.height=innerHeight;drops=Array.from({length:Math.ceil(w/size)},()=>Math.random()*h/size);}
+  function frame(){x.fillStyle="rgba(2,6,4,.1)";x.fillRect(0,0,w,h);x.fillStyle="#00ff41";x.font=size+"px monospace";
+    drops.forEach((d,i)=>{x.fillText(chars[Math.floor(Math.random()*chars.length)],i*size,d*size);drops[i]=d*size>h&&Math.random()>.975?0:d+.55;});}
+  fit();addEventListener("resize",fit);
+  if(matchMedia("(prefers-reduced-motion: reduce)").matches){for(let i=0;i<90;i++)frame();return;}
+  let last=0;(function loop(t){if(t-last>42){frame();last=t;}requestAnimationFrame(loop);})(0);
+})();
 </script>
 </body>
 </html>
