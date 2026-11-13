@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-13T12:30:36.508365+00:00",
+ "updated": "2026-11-13T19:43:38.668017+00:00",
  "stories": [
+  {
+   "id": "bdd0e4592905",
+   "headline": "Iran claims it struck US radar in Bahrain in retaliation for US airstrike",
+   "summary": "Iran's Islamic Revolutionary Guard Corps says it destroyed a US early‑warning radar in Bahrain as retaliation for a US strike on a communications tower in the Strait of Hormuz. The United States reported intercepting the attack, and the incident heightens regional tensions over the strategic waterway.",
+   "country": "Iran",
+   "regions": [
+    "Bahrain",
+    "United States",
+    "Gulf states",
+    "Strait of Hormuz"
+   ],
+   "inside": "The attack puts US personnel and infrastructure in Bahrain at risk and signals Iran's willingness to engage directly with US forces, affecting Iranian public perception of its military strength.",
+   "beyond": "The strike escalates Iran‑US tensions and could disrupt oil shipments through the Strait of Hormuz, impacting global energy markets and neighboring Gulf countries.",
+   "category": "Conflict",
+   "importance": 74,
+   "confidence": 7,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 8,
+    "durability": 6
+   },
+   "image": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+     "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+    },
+    {
+     "name": "DW",
+     "title": "Iran targeted US radar system in Bahrain",
+     "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf"
+    }
+   ],
+   "published": "2026-11-13T13:52:11+00:00",
+   "updated": "2026-11-13T19:43:38.668017+00:00"
+  },
+  {
+   "id": "103108477fca",
+   "headline": "UN urges rapid delivery of winter aid to Gaza amid deadly rains",
+   "summary": "The United Nations and partner agencies issued an urgent appeal for winter humanitarian supplies to be allowed into the Gaza Strip after deadly rainfall caused casualties and damage. They warned that lives are at stake and called for swift entry of food, water, medical and shelter aid.",
+   "country": "Palestine",
+   "regions": [
+    "Israel",
+    "Egypt",
+    "Middle East"
+   ],
+   "inside": "Residents of Gaza need immediate food, water, medical care and shelter as the recent rains have caused deaths, injuries and infrastructure damage.",
+   "beyond": "The humanitarian crisis adds pressure on neighboring Israel and Egypt, potentially affecting regional stability and prompting international diplomatic responses.",
+   "category": "Other",
+   "importance": 74,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 5,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/07-11-2026-UNNews-Gaza-Winter.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168799"
+    }
+   ],
+   "published": "2026-11-13T12:00:00+00:00",
+   "updated": "2026-11-13T19:43:38.668017+00:00"
+  },
+  {
+   "id": "5863602333ba",
+   "headline": "UN launches initiative to ensure reliable climate information from AI",
+   "summary": "The United Nations announced new guidance under COP31 to help people obtain trustworthy climate‑change data from artificial intelligence and to understand AI’s environmental impact. The effort aims to improve the quality of climate information worldwide.",
+   "country": "Global",
+   "regions": [],
+   "inside": "People worldwide will receive clearer, more reliable climate data through AI tools, helping them make informed personal and community decisions about adaptation and mitigation.",
+   "beyond": "The guidance supports international cooperation by standardising climate‑information practices, aiding governments and organizations across borders in their climate strategies.",
+   "category": "Climate & disasters",
+   "importance": 65,
+   "confidence": 7,
+   "scores": {
+    "scale": 7,
+    "severity": 5,
+    "cross_border": 8,
+    "durability": 6
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/14-09-2026_Adobe_AI.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31: New initiative targets AI and reliable climate change information",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168798"
+    }
+   ],
+   "published": "2026-11-13T12:00:00+00:00",
+   "updated": "2026-11-13T19:43:38.668017+00:00"
+  },
+  {
+   "id": "3f7bf1b8e45a",
+   "headline": "Armed attacks hinder Ebola response in DRC, worsening outbreak",
+   "summary": "The United Nations says the Ebola outbreak in the Democratic Republic of Congo is expanding as armed groups repeatedly target civilians and frontline health workers, blocking containment measures. The violence endangers thousands of Congolese and raises the risk of the disease spreading to neighboring states.",
+   "country": "Democratic Republic of the Congo",
+   "regions": [
+    "Uganda",
+    "Rwanda",
+    "Burundi",
+    "South Sudan",
+    "Central African Republic"
+   ],
+   "inside": "Congolese communities face a higher chance of infection and reduced access to medical care as health workers are attacked and health facilities are disrupted.",
+   "beyond": "The outbreak threatens neighboring countries, which could see cross‑border transmission and must allocate resources to prevent spread, while regional stability is undermined by the ongoing conflict.",
+   "category": "Health",
+   "importance": 78,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 6,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/27-10-2026_WHO_DRC_Ebola_Survivor.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168797"
+    }
+   ],
+   "published": "2026-11-13T12:00:00+00:00",
+   "updated": "2026-11-13T19:43:38.668017+00:00"
+  },
   {
    "id": "6307c8deb173",
    "headline": "UN launches platform to mobilize $3 bn for climate disaster risk financing",
