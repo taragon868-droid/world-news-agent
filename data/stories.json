@@ -1,6 +1,39 @@
 {
- "updated": "2026-11-13T12:06:11.682050+00:00",
+ "updated": "2026-11-13T12:19:53.641728+00:00",
  "stories": [
+  {
+   "id": "6307c8deb173",
+   "headline": "UN launches platform to mobilize $3 bn for climate disaster risk financing",
+   "summary": "UN agencies unveiled a joint platform at COP31 to secure more than $3 billion in risk financing, aiming to protect 75 million people and their livelihoods from climate‑related shocks and natural hazards by 2030. The initiative seeks to provide pre‑disaster funding mechanisms that can be deployed quickly across vulnerable regions.",
+   "country": "Global",
+   "regions": [
+    "Developing nations",
+    "Climate‑vulnerable regions"
+   ],
+   "inside": "People in climate‑vulnerable countries will gain access to pre‑disaster financing, helping safeguard their livelihoods and reduce the impact of extreme weather events.",
+   "beyond": "The platform will shape international climate‑finance flows, influencing donor countries, global financial markets, and multilateral climate agreements.",
+   "category": "Climate & disasters",
+   "importance": 68,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 6,
+    "durability": 5
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "New platform aims to get money moving before disaster strikes",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168794"
+    }
+   ],
+   "published": "2026-11-12T12:00:00+00:00",
+   "updated": "2026-11-13T12:19:53.641728+00:00"
+  },
   {
    "id": "bbb154b9ce3d",
    "headline": "US officials meet Putin and Zelenskyy after Abu Dhabi talks, agree prisoner swap and plan European involvement",
