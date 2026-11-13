@@ -39,13 +39,15 @@ PROVIDERS = [
         "name": "gemini",
         "key": os.getenv("GEMINI_API_KEY"),
         "url": "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
-        "model": os.getenv("GEMINI_MODEL", "gemini-2.5-flash"),
+        "model": os.getenv("GEMINI_MODEL", "gemini-3.8-flash"),
+        "prefer": ["flash"],
     },
     {
         "name": "groq",
         "key": os.getenv("GROQ_API_KEY"),
         "url": "https://api.groq.com/openai/v1/chat/completions",
         "model": os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile"),
+        "prefer": ["llama-3.3-70b", "llama-3.1-8b", "gpt-oss-120b", "qwen"],
     },
 ]
 
@@ -60,30 +62,60 @@ NOW = dt.datetime.now(dt.timezone.utc)
 
 
 # ---------- model access ----------
+def discover_model(p):
+    """Ask the provider which models exist and pick the best match (model names change often)."""
+    try:
+        r = requests.get(
+            p["url"].rsplit("/chat/completions", 1)[0] + "/models",
+            headers={"Authorization": f"Bearer {p['key']}"},
+            timeout=30,
+        )
+        ids = [m["id"].replace("models/", "") for m in r.json().get("data", [])]
+    except Exception as e:
+        print("  could not list models:", e)
+        return None
+    bad = ("whisper", "guard", "tts", "embed", "image", "live", "audio", "compound", "orpheus", "playai", "lite", "vision", "robotics", "computer", "safeguard")
+    ids = [i for i in ids if not any(b in i for b in bad)]
+    version = lambda i: [int(n) for n in re.findall(r"\d+", i)]
+    for pref in p["prefer"]:
+        found = sorted((i for i in ids if pref in i), key=version, reverse=True)
+        if found:
+            return found[0]
+    return None
+
+
 def llm(system, prompt):
     last = "no API keys set (add GEMINI_API_KEY and/or GROQ_API_KEY as GitHub secrets)"
     for p in PROVIDERS:
         if not p["key"]:
             continue
-        try:
-            r = requests.post(
-                p["url"],
-                headers={"Authorization": f"Bearer {p['key']}"},
-                json={
-                    "model": p["model"],
-                    "temperature": 0.2,
-                    "messages": [
-                        {"role": "system", "content": system},
-                        {"role": "user", "content": prompt},
-                    ],
-                },
-                timeout=90,
-            )
-            if r.status_code == 200:
-                return r.json()["choices"][0]["message"]["content"]
-            last = f"{p['name']} returned {r.status_code}: {r.text[:200]}"
-        except Exception as e:  # network errors, bad JSON, etc.
-            last = f"{p['name']} failed: {e}"
+        for attempt in range(2):
+            try:
+                r = requests.post(
+                    p["url"],
+                    headers={"Authorization": f"Bearer {p['key']}"},
+                    json={
+                        "model": p["model"],
+                        "temperature": 0.2,
+                        "messages": [
+                            {"role": "system", "content": system},
+                            {"role": "user", "content": prompt},
+                        ],
+                    },
+                    timeout=90,
+                )
+                if r.status_code == 200:
+                    return r.json()["choices"][0]["message"]["content"]
+                last = f"{p['name']} ({p['model']}) returned {r.status_code}: {r.text[:200]}"
+                if r.status_code in (400, 404) and attempt == 0:
+                    new = discover_model(p)
+                    if new and new != p["model"]:
+                        print(f"  model {p['model']} unavailable, switching to {new}")
+                        p["model"] = new
+                        continue
+            except Exception as e:  # network errors, bad JSON, etc.
+                last = f"{p['name']} failed: {e}"
+            break
         print("  provider problem ->", last)
     raise RuntimeError(last)
 
