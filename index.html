@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ripple: news that crosses borders</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500;700&family=Atkinson+Hyperlegible+Next:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#edf1f4;--ink:#0f1e2b;--muted:#566674;--line:#c5d0d9;--accent:#2447d6;--across:#0e7f73;--surface:#f8fafb;
+  --head:"Familjen Grotesk","Segoe UI",system-ui,sans-serif;--body:"Atkinson Hyperlegible Next","Segoe UI",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root{--paper:#0b131a;--ink:#e8eef3;--muted:#93a3b1;--line:#243442;--accent:#8aa2ff;--across:#46c8b6;--surface:#111c25}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.55 var(--body)}
+a{color:var(--accent)} a:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+.wrap{max-width:860px;margin:0 auto;padding:32px 20px 64px}
+header h1{font:700 clamp(2.2rem,6vw,3.4rem)/1.05 var(--head);margin:0 0 8px;letter-spacing:-.02em}
+header p{margin:0;color:var(--muted);max-width:52ch}
+.bar{display:flex;flex-wrap:wrap;gap:10px;margin:28px 0 8px;padding:14px 0;border-block:1px solid var(--line)}
+.bar input,.bar select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:8px 10px;min-height:44px}
+.bar input{flex:1 1 200px}
+.status{color:var(--muted);font-size:.9rem;margin:8px 0 0}
+.story{display:grid;grid-template-columns:84px 1fr;gap:4px 20px;padding:28px 0;border-bottom:1px solid var(--line)}
+.rank{color:var(--accent);text-align:center;font-size:.8rem;color:var(--muted)}
+.rank svg{display:block;margin:0 auto 4px;color:var(--accent)}
+.story h2{font:700 1.45rem/1.2 var(--head);margin:0 0 8px;letter-spacing:-.01em}
+.story .sum{margin:0 0 16px;max-width:62ch}
+.impact{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);background:var(--surface);border-radius:4px 14px 4px 14px}
+.pane{padding:14px 16px}
+.pane+.pane{border-left:3px solid var(--across)}
+.pane h3{font:700 .95rem var(--head);margin:0 0 4px}
+.pane:last-child h3{color:var(--across)}
+.pane p{margin:0;font-size:.95rem}
+.meta{display:flex;flex-wrap:wrap;gap:6px 16px;margin-top:12px;font-size:.88rem;color:var(--muted)}
+.tag{font-weight:600;color:var(--ink)}
+.empty{padding:48px 0;color:var(--muted)}
+@media (max-width:640px){.story{grid-template-columns:1fr}.rank{display:flex;gap:10px;align-items:center;text-align:left}.rank svg{margin:0}
+  .impact{grid-template-columns:1fr}.pane+.pane{border-left:0;border-top:3px solid var(--across)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Ripple</h1>
+    <p>Only the stories that change lives inside a country, or send effects across its borders. Chosen by an AI agent that reads world news around the clock.</p>
+  </header>
+  <div class="bar">
+    <input id="q" type="search" placeholder="Search stories" aria-label="Search stories">
+    <select id="country" aria-label="Filter by country"><option value="">All countries</option></select>
+    <select id="sort" aria-label="Sort stories"><option value="importance">Most important</option><option value="newest">Newest</option></select>
+  </div>
+  <p class="status" id="status" role="status"></p>
+  <main id="feed"></main>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+let stories = [];
+
+function el(tag, cls, text){ const e=document.createElement(tag); if(cls) e.className=cls; if(text!=null) e.textContent=text; return e; }
+function ago(iso){
+  const m=Math.round((Date.now()-new Date(iso))/60000), r=new Intl.RelativeTimeFormat("en",{numeric:"auto"});
+  return m<60 ? r.format(-m,"minute") : m<1440 ? r.format(-Math.round(m/60),"hour") : r.format(-Math.round(m/1440),"day");
+}
+function rings(level){
+  const ns="http://www.w3.org/2000/svg", s=document.createElementNS(ns,"svg");
+  s.setAttribute("viewBox","0 0 48 48"); s.setAttribute("width","48"); s.setAttribute("height","48");
+  s.setAttribute("role","img"); s.setAttribute("aria-label",`Impact ${level} of 5`);
+  for(let i=1;i<=5;i++){ const c=document.createElementNS(ns,"circle");
+    c.setAttribute("cx","24"); c.setAttribute("cy","24"); c.setAttribute("r",String(i*4.5)); c.setAttribute("fill","none");
+    c.setAttribute("stroke","currentColor"); c.setAttribute("stroke-width","2"); c.setAttribute("opacity", i<=level?"1":"0.15"); s.appendChild(c); }
+  return s;
+}
+function card(s){
+  const a=el("article","story"), lvl=Math.max(1,Math.min(5,Math.round(s.importance/20)));
+  const rank=el("div","rank"); rank.appendChild(rings(lvl)); rank.appendChild(el("span",null,`Impact ${lvl} of 5`)); a.appendChild(rank);
+  const body=el("div"); body.appendChild(el("h2",null,s.headline)); body.appendChild(el("p","sum",s.summary));
+  const imp=el("div","impact"), p1=el("div","pane"), p2=el("div","pane");
+  p1.appendChild(el("h3",null,s.country==="Global"?"Worldwide":"Inside "+s.country)); p1.appendChild(el("p",null,s.inside||"No direct effect described."));
+  p2.appendChild(el("h3",null,"Across borders")); p2.appendChild(el("p",null,s.beyond||"No effects on other countries identified."));
+  imp.append(p1,p2); body.appendChild(imp);
+  const meta=el("div","meta"); meta.appendChild(el("span","tag",s.category)); meta.appendChild(el("span",null,ago(s.updated)));
+  if((s.confidence??10)<7) meta.appendChild(el("span",null,"Early report: confirmation is limited"));
+  const src=el("span",null,"Sources: ");
+  s.sources.forEach((x,i)=>{ const l=el("a",null,x.name); l.href=x.url; l.rel="noopener"; l.target="_blank"; if(i) src.append(", "); src.appendChild(l); });
+  meta.appendChild(src); body.appendChild(meta); a.appendChild(body); return a;
+}
+function render(){
+  const q=$("#q").value.toLowerCase(), c=$("#country").value, by=$("#sort").value;
+  let list=stories.filter(s=>(!c||s.country===c||(s.regions||[]).includes(c)) &&
+    (!q||[s.headline,s.summary,s.country,...(s.regions||[])].join(" ").toLowerCase().includes(q)));
+  list.sort((a,b)=> by==="newest" ? new Date(b.updated)-new Date(a.updated) : b.importance-a.importance);
+  const feed=$("#feed"); feed.replaceChildren(...list.map(card));
+  if(!list.length) feed.appendChild(el("p","empty", stories.length ? "No stories match these filters." : "No stories yet. The agent runs every two hours; start it now from the Actions tab of your repository."));
+}
+async function init(){
+  try{
+    const d=await (await fetch("data/stories.json",{cache:"no-store"})).json(); stories=d.stories||[];
+    $("#status").textContent=d.updated?`Last checked ${ago(d.updated)}. ${stories.length} stories from the past week.`:"";
+    const set=new Set(); stories.forEach(s=>{set.add(s.country); (s.regions||[]).forEach(r=>set.add(r));});
+    [...set].filter(Boolean).sort().forEach(n=>{const o=el("option",null,n); o.value=n; $("#country").appendChild(o);});
+  }catch(e){ $("#status").textContent="Couldn’t load data/stories.json. Open this page from GitHub Pages, or run “python -m http.server” in the repository folder."; }
+  render();
+}
+["input","change"].forEach(ev=>document.querySelectorAll(".bar input,.bar select").forEach(n=>n.addEventListener(ev,render)));
+init();
+</script>
+</body>
+</html>
