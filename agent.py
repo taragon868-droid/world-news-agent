@@ -145,6 +145,19 @@ def clean(text, n=400):
     return re.sub(r"\s+", " ", text).strip()[:n]
 
 
+def image_of(e):
+    """Best-effort photo URL from an RSS entry (media tags, enclosures, or an <img> in the summary)."""
+    for key in ("media_thumbnail", "media_content"):
+        for m in e.get(key) or []:
+            if m.get("url"):
+                return m["url"]
+    for l in list(e.get("links") or []) + list(e.get("enclosures") or []):
+        if str(l.get("type", "")).startswith("image") and (l.get("href") or l.get("url")):
+            return l.get("href") or l.get("url")
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)', e.get("summary", "") or "")
+    return m.group(1) if m else None
+
+
 def fetch_articles():
     articles = []
     for source, url in FEEDS.items():
@@ -167,6 +180,7 @@ def fetch_articles():
                             "summary": clean(e.get("summary")),
                             "url": link,
                             "when": when,
+                            "image": image_of(e),
                             "tok": tokens(title),
                         }
                     )
@@ -250,6 +264,7 @@ def score(c):
     )
     if importance < MIN_IMPORTANCE or r.get("confidence", 0) < MIN_CONFIDENCE:
         return None
+    pic = next((a for a in c["articles"] if a.get("image")), None)
     return {
         "id": hashlib.sha1(arts[0]["url"].encode()).hexdigest()[:12],
         "headline": r.get("headline", arts[0]["title"]),
@@ -262,6 +277,9 @@ def score(c):
         "importance": importance,
         "confidence": r.get("confidence"),
         "scores": s,
+        "image": pic["image"] if pic else None,
+        "image_credit": pic["source"] if pic else None,
+        "image_link": pic["url"] if pic else None,
         "sources": [{"name": a["source"], "title": a["title"], "url": a["url"]} for a in arts],
         "published": min(a["when"] for a in arts).isoformat(),
         "updated": NOW.isoformat(),
