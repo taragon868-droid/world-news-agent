@@ -1,6 +1,202 @@
 {
- "updated": "2026-11-13T19:43:38.668017+00:00",
+ "updated": "2026-11-14T00:53:52.906854+00:00",
  "stories": [
+  {
+   "id": "2d49a6ce3971",
+   "headline": "Israeli leader Eisenkot accuses Netanyahu of racist campaign against Arab citizens",
+   "summary": "Prominent Israeli politician Gadi Eisenkot publicly condemned Prime Minister Benjamin Netanyahu for a campaign he says marginalizes Arab Israelis by linking them to Hamas. The criticism underscores internal political tensions over the treatment and rights of Israel’s Arab minority.",
+   "country": "Israel",
+   "regions": [
+    "Palestinian territories",
+    "Middle East"
+   ],
+   "inside": "Arab Israelis feel targeted by rhetoric that ties them to Hamas, raising concerns about discrimination, political marginalisation and potential impacts on their civil rights.",
+   "beyond": "The accusations could heighten tensions between Israel and neighboring Arab states and influence the broader Israeli‑Palestinian conflict.",
+   "category": "Politics & law",
+   "importance": 54,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 6,
+    "cross_border": 4,
+    "durability": 5
+   },
+   "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+     "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
+     "url": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority"
+    }
+   ],
+   "published": "2026-11-13T18:04:22+00:00",
+   "updated": "2026-11-14T00:53:52.906854+00:00"
+  },
+  {
+   "id": "9ae854f934fa",
+   "headline": "FAA issues nationwide ground stop for U.S. flights due to communication problem",
+   "summary": "The Federal Aviation Administration halted thousands of flights across the United States after a communication issue disrupted operations. The agency is investigating the cause while airlines cancel or delay nearly 7,000 flights, affecting both domestic and international travelers.",
+   "country": "United States",
+   "regions": [
+    "Canada",
+    "Mexico",
+    "United Kingdom",
+    "Europe",
+    "Asia"
+   ],
+   "inside": "U.S. passengers face widespread delays, cancellations, and uncertainty as flights are grounded nationwide, impacting travel plans and causing economic disruption for airlines and related businesses.",
+   "beyond": "International flights are delayed or canceled, affecting travelers and airlines in other countries and potentially straining cross‑border travel and commerce.",
+   "category": "Economy & trade",
+   "importance": 64,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 5,
+    "durability": 4
+   },
+   "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "FAA grounds US flights nationwide after ‘communication issue’",
+     "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+    }
+   ],
+   "published": "2026-11-13T21:32:08+00:00",
+   "updated": "2026-11-14T00:53:52.906854+00:00"
+  },
+  {
+   "id": "4dc27bca1944",
+   "headline": "FAA imposes nationwide ground stop in the United States due to communications outage, halting thousands of flights",
+   "summary": "The Federal Aviation Administration halted all departures at U.S. airports after a communications outage, delaying or canceling more than 11,000 flights. The disruption affected both domestic and international travel, with authorities seeing no evidence of a security breach.",
+   "country": "United States",
+   "regions": [
+    "Canada",
+    "United Kingdom",
+    "Europe",
+    "Asia"
+   ],
+   "inside": "U.S. travelers were stranded or faced significant delays as flights were grounded nationwide, impacting personal plans and business travel.",
+   "beyond": "International passengers and airlines experienced cancellations and delays, creating ripple effects on global air traffic and airline schedules.",
+   "category": "Economy & trade",
+   "importance": 64,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 6,
+    "durability": 3
+   },
+   "image": "https://i.guim.co.uk/img/media/65cfe750f8f356c4184de878849ed7c03107aa6f/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=7860155056d5c7f957fb63c5ba52237d",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "What to know about the rare nationwide ground stop issued by the FAA",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+     "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights"
+    }
+   ],
+   "published": "2026-11-13T22:02:07+00:00",
+   "updated": "2026-11-14T00:53:52.906854+00:00"
+  },
+  {
+   "id": "3446f253b8be",
+   "headline": "UN Security Council meets as Iran's near‑closure of the Strait of Hormuz raises global shipping threats",
+   "summary": "The UN Security Council convened at Bahrain's request to discuss rising attacks on shipping in the Strait of Hormuz, where Iran has effectively shut the waterway that carries about one‑fifth of the world’s oil. The meeting underscores lingering regional tensions after Israeli and US strikes on Iran and the risk of a broader conflict that could disrupt global oil supplies.",
+   "country": "Iran",
+   "regions": [
+    "Bahrain",
+    "United Arab Emirates",
+    "Saudi Arabia",
+    "Oman",
+    "United States",
+    "Israel",
+    "Global oil markets"
+   ],
+   "inside": "Iran and neighboring Gulf states face disrupted oil exports, heightened risk to commercial vessels, and economic fallout from a near‑closed strait.",
+   "beyond": "The restriction threatens worldwide oil supply, pushes up energy prices, and could draw major powers into the dispute, affecting economies and energy security globally.",
+   "category": "Politics & law",
+   "importance": 84,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-OceanDay-2.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168804"
+    }
+   ],
+   "published": "2026-11-13T12:00:00+00:00",
+   "updated": "2026-11-14T00:53:52.906854+00:00"
+  },
+  {
+   "id": "87b616dc442c",
+   "headline": "COP31 underscores climate‑finance shortfall and urges polluters to fund adaptation",
+   "summary": "UN Secretary‑General António Guterres warned that even a three‑fold increase in adaptation funding would cover less than a third of the needs of vulnerable nations. Delegates at COP31 pressed wealthy countries and major polluters to step up financing, highlighting a large gap between pledged money and required support.",
+   "country": "Global",
+   "regions": [
+    "Developing nations",
+    "Global South",
+    "Wealthy nations"
+   ],
+   "inside": "People in vulnerable and low‑income countries risk lacking the resources needed to adapt to climate impacts, threatening lives, livelihoods and infrastructure.",
+   "beyond": "Rich countries and large polluting corporations face growing diplomatic and financial pressure to increase contributions, influencing international budget allocations and climate‑policy negotiations.",
+   "category": "Climate & disasters",
+   "importance": 76,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 7,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/13-11-2026_COP-31-03.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168802",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31: Climate finance falls short as calls grow for polluters to pay",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168802"
+    }
+   ],
+   "published": "2026-11-13T12:00:00+00:00",
+   "updated": "2026-11-14T00:53:52.906854+00:00"
+  },
   {
    "id": "bdd0e4592905",
    "headline": "Iran claims it struck US radar in Bahrain in retaliation for US airstrike",
