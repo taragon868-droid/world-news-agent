@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-14T08:58:54.960544+00:00",
+ "updated": "2026-11-14T16:37:22.890839+00:00",
  "stories": [
+  {
+   "id": "ce2a35d9b8c2",
+   "headline": "U.S., Chinese and Russian leaders to hold first trilateral summit in China",
+   "summary": "President Trump, President Xi and President Putin will meet in Shenzhen during the APEC summit, marking the first ever three‑way summit of the three powers. The agenda is expected to cover nuclear weapons reduction and the United States' conflict with Iran, while the war in Ukraine is likely to be omitted. Observers warn the gathering could reshape global power balances.",
+   "country": "Global",
+   "regions": [
+    "United States",
+    "China",
+    "Russia",
+    "Iran",
+    "Ukraine"
+   ],
+   "inside": "Chinese citizens may experience heightened diplomatic activity and potential policy shifts stemming from any agreements on nuclear arms or regional conflicts discussed at the summit.",
+   "beyond": "Decisions made could alter nuclear arms policies, affect U.S. and Russian strategies toward Iran, and influence the broader security environment for Ukraine and other nations.",
+   "category": "Politics & law",
+   "importance": 91,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 10,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/d6e9de44-dfd0-11f1-a098-5f54d898a954/w:1024/p:16x9/AP26267449248594.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
+     "url": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-14T05:09:23+00:00",
+   "updated": "2026-11-14T16:37:22.890839+00:00"
+  },
+  {
+   "id": "8d01153a3f27",
+   "headline": "US reportedly suggests Ukraine trade Donbas for NATO membership, says Zelensky",
+   "summary": "Ukrainian President Volodymyr Zelensky says US envoys have floated a proposal that Ukraine cede the Donbas region to Russia in return for NATO membership. He rejected the idea, warning that such a deal would reshape Europe's security architecture and could spark further conflicts. The claim highlights ongoing diplomatic efforts to end the war.",
+   "country": "Ukraine",
+   "regions": [
+    "Russia",
+    "United States",
+    "NATO member states",
+    "Europe"
+   ],
+   "inside": "If accepted, the proposal would mean Ukraine losing control over the Donbas, affecting millions of residents through potential displacement, loss of governance, and continued insecurity.",
+   "beyond": "A deal linking Donbas to NATO membership would alter the security balance in Europe, potentially encouraging Russian aggression and reshaping NATO's eastward expansion, impacting US and European foreign policy.",
+   "category": "Conflict",
+   "importance": 86,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/70cfdcca-e012-11f1-8f8f-5f54d898a954/w:1024/p:16x9/AP26316802067115.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
+    },
+    {
+     "name": "BBC News",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-14T10:30:04+00:00",
+   "updated": "2026-11-14T16:37:22.890839+00:00"
+  },
   {
    "id": "6bfb2c5371ec",
    "headline": "Germany grants intelligence agencies expanded powers to counter hybrid threats",
