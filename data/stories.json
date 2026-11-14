@@ -1,6 +1,118 @@
 {
- "updated": "2026-11-14T16:37:22.890839+00:00",
+ "updated": "2026-11-14T22:25:10.556225+00:00",
  "stories": [
+  {
+   "id": "76b99879a97e",
+   "headline": "Italy imposes €805 million fine on Meta for unauthorized access to users' photos",
+   "summary": "Italy's data protection authority fined Meta roughly €805 million after finding that the company accessed the photos of about 20 million Italian users without proper consent. The regulator cited Meta's lack of cooperation and the large number of affected individuals as reasons for the hefty penalty.",
+   "country": "Italy",
+   "regions": [
+    "European Union",
+    "United States"
+   ],
+   "inside": "Around 20 million Italians had their personal photos accessed by Meta without being informed, raising serious privacy concerns.",
+   "beyond": "The fine signals stricter enforcement of EU data‑privacy rules and may compel Meta to adjust its practices worldwide, affecting users and regulators in other countries.",
+   "category": "Politics & law",
+   "importance": 66,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 5,
+    "durability": 6
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "Italy fines Meta $880m over photo privacy",
+     "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Italy fines Meta €805m over accessing users' photos",
+     "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-14T16:16:15+00:00",
+   "updated": "2026-11-14T22:25:10.556225+00:00"
+  },
+  {
+   "id": "19d41ee06577",
+   "headline": "US FAA experiences longest nationwide ground stop in 25 years due to telecom equipment failure",
+   "summary": "A failure in aging telecommunications equipment during a system upgrade forced the US Federal Aviation Administration to halt all flights for nearly five hours, the longest nationwide ground stop since 9/11. The stoppage triggered widespread delays and the Transportation Secretary said officials will be held accountable.",
+   "country": "United States",
+   "regions": [
+    "Canada",
+    "Mexico",
+    "International airlines"
+   ],
+   "inside": "Travelers across the United States faced flight cancellations and long delays, disrupting business, personal travel and causing economic losses.",
+   "beyond": "The shutdown also impacted international flights, affecting airlines and passengers in neighboring countries and other destinations worldwide.",
+   "category": "Economy & trade",
+   "importance": 61,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 4,
+    "durability": 4
+   },
+   "image": "https://s.france24.com/media/display/24754d74-e049-11f1-92be-5f54d898a954/w:1024/p:16x9/2026-11-14T154753Z-749061195-RC2ONOA67Q43-RTRMADP-3-USA-FAA-GROUND-STOP.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
+     "url": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
+     "url": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-14T16:35:52+00:00",
+   "updated": "2026-11-14T22:25:10.556225+00:00"
+  },
+  {
+   "id": "86afcb44d97a",
+   "headline": "UN warns of looming drought in Central America's Dry Corridor and urges preparation",
+   "summary": "The United Nations highlights a growing risk of drought across Central America's Dry Corridor, where farming families depend on seasonal rains. It calls for regional preparation and support to protect livelihoods and food security as rains become increasingly unreliable.",
+   "country": "Honduras",
+   "regions": [
+    "Guatemala",
+    "El Salvador",
+    "Nicaragua",
+    "Costa Rica"
+   ],
+   "inside": "Honduran farmers face crop failures, loss of income, and heightened food insecurity as the rainy season becomes erratic.",
+   "beyond": "The drought threatens regional food supplies, may spur migration to neighboring countries, and could strain cross‑border trade and aid resources.",
+   "category": "Climate & disasters",
+   "importance": 70,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 5,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Graphics%20Library/2026/11/Anastacio-WFPHonduras-1.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168776",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "When the rains fail: Preparing for drought in Central America",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168776"
+    }
+   ],
+   "published": "2026-11-14T12:00:00+00:00",
+   "updated": "2026-11-14T22:25:10.556225+00:00"
+  },
   {
    "id": "ce2a35d9b8c2",
    "headline": "U.S., Chinese and Russian leaders to hold first trilateral summit in China",
