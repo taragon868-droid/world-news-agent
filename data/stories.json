@@ -1,6 +1,56 @@
 {
- "updated": "2026-11-15T06:34:02.428509+00:00",
+ "updated": "2026-11-15T15:40:06.271809+00:00",
  "stories": [
+  {
+   "id": "4592e808467b",
+   "headline": "Iran launches drone attacks on US base in Bahrain",
+   "summary": "Iran's Islamic Revolutionary Guard Corps said it sent six drones at a U.S. radar installation at an air base in Bahrain, which the Bahraini military intercepted. The strikes heighten tensions between the United States and Iran and raise concerns over security in the Strait of Hormuz.",
+   "country": "Bahrain",
+   "regions": [
+    "Iran",
+    "United States",
+    "Gulf Cooperation Council states",
+    "Strait of Hormuz"
+   ],
+   "inside": "Bahraini residents faced air‑defence alerts and the risk of further attacks, while the presence of U.S. forces on the island heightened local security concerns.",
+   "beyond": "The attacks risk escalating U.S.–Iran tensions, could disrupt oil shipments through the Strait of Hormuz, and affect global energy markets and diplomatic relations across the Middle East.",
+   "category": "Conflict",
+   "importance": 75,
+   "confidence": 9,
+   "scores": {
+    "scale": 6,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/3bb0cb5a-e0d8-11f1-a866-3f371022a770/w:1024/p:16x9/000-99GY7E6-1.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Iran claims attack on US military airbase in Bahrain",
+     "url": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Iran targets US military base in Bahrain with drone attack",
+     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "Iran claims drone attack on US military base in Bahrain",
+     "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
+    }
+   ],
+   "published": "2026-11-15T09:57:35+00:00",
+   "updated": "2026-11-15T15:40:06.271809+00:00"
+  },
   {
    "id": "22c97f639549",
    "headline": "Netanyahu urges opposition leader Eisenkot to join an Israeli unity government",
