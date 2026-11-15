@@ -1,6 +1,44 @@
 {
- "updated": "2026-11-14T22:25:10.556225+00:00",
+ "updated": "2026-11-15T06:34:02.428509+00:00",
  "stories": [
+  {
+   "id": "22c97f639549",
+   "headline": "Netanyahu urges opposition leader Eisenkot to join an Israeli unity government",
+   "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu publicly appealed to opposition leader Gadi Eisenkot to form a national unity government, but Eisenkot dismissed the request as a political ploy. The call comes amid ongoing negotiations to establish a new administration and could shape Israel's domestic stability and regional relations.",
+   "country": "Israel",
+   "regions": [
+    "Palestinian territories",
+    "Middle East"
+   ],
+   "inside": "Israeli citizens face uncertainty over policy direction, security measures, and economic decisions as the country remains without a fully formed government.",
+   "beyond": "Neighbouring states and the broader Middle East monitor Israel's political stability, which can influence peace negotiations, security coordination, and regional diplomatic dynamics.",
+   "category": "Politics & law",
+   "importance": 72,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 6,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/e9d87c1e-e06a-11f1-b45a-f71d22e7fea9/w:1024/p:16x9/eb428c66bf6978a929203d6ac1afd3964fb560b1.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+     "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Netanyahu sends plea to Eisenkot for unity government",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-14T20:35:22+00:00",
+   "updated": "2026-11-15T06:34:02.428509+00:00"
+  },
   {
    "id": "76b99879a97e",
    "headline": "Italy imposes €805 million fine on Meta for unauthorized access to users' photos",
