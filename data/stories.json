@@ -1,6 +1,133 @@
 {
- "updated": "2026-11-15T15:40:06.271809+00:00",
+ "updated": "2026-11-15T21:03:11.477857+00:00",
  "stories": [
+  {
+   "id": "a196be0119f8",
+   "headline": "Estonia Shuts Russian Border Following Alleged Sabotage at Drone Factory",
+   "summary": "Estonia announced it will close all border crossings with Russia starting December 1. The decision follows the arrest of eight individuals linked to an attempted arson at an Estonian defense drone manufacturer. Estonian officials attributed the suspected sabotage to Russian military intelligence.",
+   "country": "Estonia",
+   "regions": [
+    "Russia"
+   ],
+   "inside": "Residents and travelers in Estonia will no longer be able to cross the land border into Russia starting December 1. The nation is also responding to heightened national security concerns following an alleged foreign intelligence attack on domestic defense infrastructure.",
+   "beyond": "Cross-border traffic between Russia and Estonia will be completely halted, further straining diplomatic and logistical relations between Russia and the European Union.",
+   "category": "Conflict",
+   "importance": 59,
+   "confidence": 9,
+   "scores": {
+    "scale": 5,
+    "severity": 6,
+    "cross_border": 7,
+    "durability": 6
+   },
+   "image": "https://s.france24.com/media/display/13c60f24-e114-11f1-9b5e-29048b396e03/w:1024/p:16x9/AP25285374646326.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
+     "url": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Estonia to close border crossings with Russia after attack on drone maker",
+     "url": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+     "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Estonia to close border crossings with Russia after alleged arson attack",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-15T17:05:14+00:00",
+   "updated": "2026-11-15T21:03:11.477857+00:00"
+  },
+  {
+   "id": "96e3b3873fda",
+   "headline": "Israel kills senior Hamas commander in Gaza strike",
+   "summary": "Israeli forces killed Samir Abu Younis, the commander of Hamas's Rafah brigade, in a strike on a Gaza camp. Both the Israeli military and Hamas confirmed his death, noting his role in planning the Oct. 7 attacks. The killing marks a notable blow to Hamas's military leadership amid the ongoing conflict.",
+   "country": "Israel",
+   "regions": [
+    "Palestinian territories (Gaza)",
+    "Middle East"
+   ],
+   "inside": "Residents of Gaza and Israelis face heightened security concerns and the risk of retaliation following the targeted killing of a senior Hamas commander.",
+   "beyond": "The strike may increase regional tensions, prompting reactions from neighboring states and influencing international diplomatic and security calculations.",
+   "category": "Conflict",
+   "importance": 68,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 5,
+    "durability": 7
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
+     "url": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike"
+    }
+   ],
+   "published": "2026-11-15T08:17:41+00:00",
+   "updated": "2026-11-15T21:03:11.477857+00:00"
+  },
+  {
+   "id": "380758cb22f0",
+   "headline": "Yemeni forces shift troops from Bab al-Mandeb to protect Aden as Houthis close in",
+   "summary": "Yemen's internationally recognised government has withdrawn its last troops from the Bab al‑Mandeb Strait to reinforce the temporary capital of Aden as Houthi forces advance within 60 km. The redeployment highlights the escalating battle for control of the southern coast and a key maritime chokepoint.",
+   "country": "Yemen",
+   "regions": [
+    "Saudi Arabia",
+    "Oman",
+    "Eritrea",
+    "Djibouti",
+    "Red Sea region",
+    "global shipping lanes"
+   ],
+   "inside": "Yemeni civilians face heightened insecurity, possible displacement, and reduced access to the vital Bab al‑Mandeb crossing, which affects trade and aid flows within the country.",
+   "beyond": "The shift threatens international shipping through the Bab al‑Mandeb Strait, potentially disrupting oil and cargo traffic and raising security concerns for neighboring states and global markets.",
+   "category": "Conflict",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/92e0513c-e12a-11f1-8ab7-3f371022a770/w:1024/p:16x9/2026-11-15T135302Z-1473180222-RC26OOADAAUR-RTRMADP-3-IRAN-CRISIS-YEMEN-DETAINEES.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "Yemeni government forces redeploy from Bab al-Mandeb to defend Aden",
+     "url": "https://www.aljazeera.com/news/2026/11/15/yemeni-government-forces-redeploy-from-bab-al-mandeb-to-defend-aden?traffic_source=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+    }
+   ],
+   "published": "2026-11-15T17:33:00+00:00",
+   "updated": "2026-11-15T21:03:11.477857+00:00"
+  },
   {
    "id": "4592e808467b",
    "headline": "Iran launches drone attacks on US base in Bahrain",
