@@ -1,6 +1,366 @@
 {
- "updated": "2026-11-16T09:45:36.127212+00:00",
+ "updated": "2026-11-16T20:29:51.535534+00:00",
  "stories": [
+  {
+   "id": "ee3a36df6fad",
+   "headline": "Saudi Arabia replaces coalition commander as Houthi forces advance in Yemen",
+   "summary": "Saudi Arabia has dismissed the commander of its Yemen coalition after Houthi rebels made gains toward the interim capital Aden, prompting a leadership reshuffle amid criticism of the coalition’s strategy. The change underscores mounting pressure on Saudi-backed forces and raises concerns over the security of the Red Sea shipping corridor.",
+   "country": "Saudi Arabia",
+   "regions": [
+    "Yemen",
+    "Red Sea",
+    "Bab al-Mandab Strait",
+    "Gulf Cooperation Council states",
+    "global shipping routes"
+   ],
+   "inside": "The dismissal signals a shift in Saudi Arabia's war leadership, affecting public opinion and military planning at home, while Yemenis near Aden face heightened risk of displacement and casualties as Houthi forces close in.",
+   "beyond": "Houthi advances threaten the Bab al-Mandab strait, a chokepoint for global oil and trade, potentially disrupting shipping and raising security concerns for nations that depend on Red Sea routes.",
+   "category": "Conflict",
+   "importance": 79,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/6b41e21e-e1c8-11f1-9bf2-5f54d898a954/w:1024/p:16x9/AP24318399053564.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Saudi Arabia dismisses commander of anti-Houthi coalition as rebels advance",
+     "url": "https://www.france24.com/en/yemen/20261116-saudi-arabia-dismisses-commander-of-anti-houthi-coalition-as-rebels-advance"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Saudi Arabia strategy challenged by anti-Houthi forces in Yemen",
+     "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+     "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-16T14:42:44+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "25181e535952",
+   "headline": "Trump, Xi and Putin meet at APEC as leaders discuss wars, AI and Indo‑Pacific security",
+   "summary": "President Donald Trump is set to meet Chinese President Xi Jinping and Russian President Vladimir Putin at the APEC summit in Shenzhen, while Australian Prime Minister Anthony Albanese will meet Trump at a Quad gathering in the Philippines. The talks are expected to address the conflicts in Iran and Ukraine, AI technology protection, and broader Indo‑Pacific stability.",
+   "country": "United States",
+   "regions": [
+    "China",
+    "Russia",
+    "Australia",
+    "Japan",
+    "Philippines",
+    "Iran",
+    "Ukraine",
+    "Indo‑Pacific region"
+   ],
+   "inside": "U.S. citizens could feel the impact of any new trade, security or technology agreements that emerge from the summit, influencing jobs, prices and national safety.",
+   "beyond": "Decisions made at the meetings could reshape relations with China and Russia, affect the course of the wars in Iran and Ukraine, and alter security dynamics across the Indo‑Pacific, influencing many other nations.",
+   "category": "Politics & law",
+   "importance": 84,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://i.guim.co.uk/img/media/b57480f6f6d59b1e608fcb68882810c017ea2e92/499_0_4985_3988/master/4985.jpg?width=140&quality=85&auto=format&fit=max&s=dcd65629c0528069bb39b7b12ba209c6",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+   "sources": [
+    {
+     "name": "NPR",
+     "title": "What to expect from Trump and Xi's upcoming meeting in China",
+     "url": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+     "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars"
+    }
+   ],
+   "published": "2026-11-15T22:11:26+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "dd0fd43506cb",
+   "headline": "FAA flight ground stop disrupts thousands of flights as Trump meets Asian leaders",
+   "summary": "A nationwide FAA ground stop has grounded thousands of flights, causing widespread travel disruptions across the United States. At the same time, President Trump traveled to Asia for a trilateral summit with Chinese President Xi and Russian President Putin, denying any involvement in the FAA issue.",
+   "country": "United States",
+   "regions": [
+    "China",
+    "Russia",
+    "Asia"
+   ],
+   "inside": "U.S. travelers are facing canceled or delayed flights, leading to inconvenience, lost time, and economic costs.",
+   "beyond": "The summit with Xi and Putin may shape U.S. diplomatic and trade relations with China and Russia, influencing broader international dynamics.",
+   "category": "Politics & law",
+   "importance": 57,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 5,
+    "cross_border": 6,
+    "durability": 4
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "NPR",
+     "title": "FAA ground stop still affecting thousands of flights. And, Trump meets Xi, Putin in Asia",
+     "url": "https://www.npr.org/2026/11/16/g-s1-153841/up-first-newsletter-faa-ground-stop-democratic-leaders-congress-trump-asia-trip"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Trump denies responsibility for FAA nationwide ground stop",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-denies-responsibility-for-faa-nationwide-ground-stop?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-16T12:08:14+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "8d5a143784b6",
+   "headline": "EU nations plan Rwanda hub for rejected asylum seekers",
+   "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a joint \"return hub\" in Rwanda for asylum seekers whose claims are denied. The proposal has drawn criticism from aid, trade union and human‑rights groups, highlighting concerns over migrants' safety and the legality of the scheme.",
+   "country": "Rwanda",
+   "regions": [
+    "Germany",
+    "Denmark",
+    "Austria",
+    "Greece",
+    "Netherlands"
+   ],
+   "inside": "Rwanda would host a centre where rejected asylum seekers are transferred, potentially bringing thousands of migrants to its territory and raising local security and humanitarian concerns.",
+   "beyond": "The policy could influence asylum practices across the EU, prompt reactions from other destination countries, and affect Rwanda's diplomatic relations with the EU and the wider international community.",
+   "category": "Politics & law",
+   "importance": 70,
+   "confidence": 9,
+   "scores": {
+    "scale": 6,
+    "severity": 8,
+    "cross_border": 7,
+    "durability": 7
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Five EU countries announce migrant deportation centre in Rwanda",
+     "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
+     "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-16T16:27:24+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "7847f1dc76db",
+   "headline": "UN official urges humanitarian workers to balance aid and safety on Ukraine’s frontlines",
+   "summary": "The top UN official in Ukraine says humanitarian teams must manage the risk of operating in active combat zones while continuing to support communities on the front line. The statement highlights the tension between delivering essential aid and protecting staff in a volatile war environment.",
+   "country": "Ukraine",
+   "regions": [
+    "Russia",
+    "Poland",
+    "Romania",
+    "Hungary"
+   ],
+   "inside": "People living in Ukraine’s frontline areas rely on humanitarian assistance, but the proximity of fighting puts both them and aid workers at heightened risk.",
+   "beyond": "The conflict’s spill‑over effects influence neighboring states, regional security, and international humanitarian funding and policy.",
+   "category": "Conflict",
+   "importance": 84,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-01-2025-UNOCHA-Ukraine-03.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168807",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "First Person: Managing risk on Ukraine’s frontline",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168807"
+    }
+   ],
+   "published": "2026-11-15T12:00:00+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "8f70f0373fb4",
+   "headline": "UN says Syria's fragile progress threatened by war remnants and funding gaps",
+   "summary": "UN officials told the Security Council that Syria is showing undeniable signs of progress two years after the conflict, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those gains, especially for children. The gains remain fragile and could be undone without continued support.",
+   "country": "Syria",
+   "regions": [],
+   "inside": "Syrians, particularly young people, face danger from unexploded ordnance and a lack of humanitarian funding, putting recent improvements in health, education and safety at risk.",
+   "beyond": "",
+   "category": "Conflict",
+   "importance": 64,
+   "confidence": 7,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 2,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/syria-chemicalweapons-1498841400.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168814",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168814"
+    }
+   ],
+   "published": "2026-11-16T12:00:00+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "d48345666a91",
+   "headline": "COP31 reaches critical week as climate finance and fossil‑fuel issues remain unresolved while AI and green industry initiatives gain attention",
+   "summary": "Negotiators at COP31 face a political test as talks on climate finance, fossil‑fuel phase‑out, and adaptation remain deadlocked. At the same time, new AI and green‑industrialisation projects are being highlighted as tools for climate action.",
+   "country": "Global",
+   "regions": [],
+   "inside": "People worldwide will feel the impact of any decisions on climate finance, fossil‑fuel policies and adaptation measures, which affect livelihoods, health and economic stability.",
+   "beyond": "",
+   "category": "Climate & disasters",
+   "importance": 84,
+   "confidence": 7,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/16-11-2026_COP-31_01.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168812",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31 enters decisive week as climate talks face political test and AI initiatives gather pace",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168812"
+    }
+   ],
+   "published": "2026-11-16T12:00:00+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "556fea894aab",
+   "headline": "UN warns funding cuts increase trafficking risk for refugee children",
+   "summary": "The United Nations says sharp reductions in humanitarian funding are weakening protection systems for refugees, especially children. As a result, the risk of trafficking, exploitation and abuse is rising for vulnerable refugee minors worldwide.",
+   "country": "Global",
+   "regions": [
+    "Multiple countries"
+   ],
+   "inside": "Refugee children are facing heightened danger of being trafficked, exploited or abused as humanitarian programs lose resources and protective services shrink.",
+   "beyond": "Host nations and neighboring states may see increased strain on social services, higher illegal migration pressures, and broader regional instability due to the weakened protection framework.",
+   "category": "Politics & law",
+   "importance": 80,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2023-UNICEF-Bangladesh.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168811",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168811"
+    }
+   ],
+   "published": "2026-11-16T12:00:00+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "3c2f058cd587",
+   "headline": "UN urges binding treaty to curb lethal autonomous weapons",
+   "summary": "UN Secretary‑General António Guterres called for a legally binding instrument to regulate lethal autonomous weapons, often called “killer robots”. Negotiations have begun in Geneva to establish international controls on these systems.",
+   "country": "Global",
+   "regions": [],
+   "inside": "If a binding treaty is adopted, it would limit the deployment of autonomous weapons, potentially reducing civilian casualties and the risk of uncontrolled lethal force in conflicts.",
+   "beyond": "A global agreement would reshape defense policies and arms‑industry practices across nations, influencing security strategies and diplomatic relations worldwide.",
+   "category": "Politics & law",
+   "importance": 76,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-UN-Abyei-Sudan-01.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168810",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Guterres calls for a legally binding instrument for ‘killer robots'",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168810"
+    }
+   ],
+   "published": "2026-11-16T12:00:00+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
+  {
+   "id": "230d4fd7ae74",
+   "headline": "UN chief urges ASEAN cooperation to resolve Myanmar crisis",
+   "summary": "At the ASEAN summit in Manila, UN Secretary‑General António Guterres called for stronger collaboration with ASEAN and an end to the ongoing crisis in Myanmar. He emphasized that regional cooperation is essential to address the humanitarian and political turmoil affecting the country.",
+   "country": "Myanmar",
+   "regions": [
+    "Philippines",
+    "ASEAN member states (Thailand, Indonesia, Malaysia, Singapore, Vietnam, Laos, Cambodia, Brunei)"
+   ],
+   "inside": "The people of Myanmar continue to suffer from conflict, displacement and human‑rights abuses, and the UN’s appeal seeks measures that could improve their safety and livelihoods.",
+   "beyond": "A resolution or escalation of the crisis would affect neighboring ASEAN countries through refugee flows, trade disruptions and regional security dynamics.",
+   "category": "Conflict",
+   "importance": 74,
+   "confidence": 7,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 6,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/15-11-2026_SG-ASEANSummit.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168809",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "At his final ASEAN Summit, Guterres upholds cooperation and action on Myanmar",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168809"
+    }
+   ],
+   "published": "2026-11-16T12:00:00+00:00",
+   "updated": "2026-11-16T20:29:51.535534+00:00"
+  },
   {
    "id": "569a6ecf55f1",
    "headline": "Spain declares migration emergency as thousands of migrants arrive in Canary Islands",
