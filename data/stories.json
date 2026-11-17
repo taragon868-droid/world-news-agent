@@ -1,6 +1,219 @@
 {
- "updated": "2026-11-17T16:00:25.866652+00:00",
+ "updated": "2026-11-17T23:30:31.356531+00:00",
  "stories": [
+  {
+   "id": "399fd9cdcf1c",
+   "headline": "72-year-old Palestinian woman killed in West Bank settlement attack near Jericho",
+   "summary": "A 72‑year‑old Palestinian woman was shot dead by Israeli settlers in the village of al‑Duyuk al‑Tahta near Jericho, according to witnesses and the Palestinian health ministry. The killing comes amid rising settler activity and tensions in the occupied West Bank.",
+   "country": "Palestine",
+   "regions": [
+    "Israel",
+    "Middle East"
+   ],
+   "inside": "Palestinian residents of the West Bank face heightened fear and anger as civilian casualties from settler violence directly threaten their safety and daily life.",
+   "beyond": "The incident is likely to increase Israeli‑Palestinian tensions, draw international criticism, and influence diplomatic discussions across the region.",
+   "category": "Conflict",
+   "importance": 56,
+   "confidence": 9,
+   "scores": {
+    "scale": 4,
+    "severity": 7,
+    "cross_border": 5,
+    "durability": 7
+   },
+   "image": "https://i.guim.co.uk/img/media/b7d5959fd9dbbbea50ccb8f11198cd72513b020c/971_535_2513_2011/master/2513.jpg?width=140&quality=85&auto=format&fit=max&s=920a9cba3e838b02498259fbaa396d37",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Palestinian woman shot dead by Israeli settlers near Jericho, witnesses say",
+     "url": "https://www.theguardian.com/world/2026/nov/17/palestinian-woman-shot-dead-israeli-settlers-near-jericho-witnesses-say"
+    },
+    {
+     "name": "BBC News",
+     "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-17T20:21:48+00:00",
+   "updated": "2026-11-17T23:30:31.356531+00:00"
+  },
+  {
+   "id": "64916d6055ce",
+   "headline": "US loses measles elimination status as outbreak tops 5,400 cases",
+   "summary": "The United States has been stripped of its measles elimination status after more than 5,400 cases and ten deaths have been reported, marking the worst outbreak since 1991. Health officials say the disease is now endemic in the country, prompting renewed vaccination efforts and public‑health alerts.",
+   "country": "United States",
+   "regions": [
+    "Canada",
+    "Mexico",
+    "Global health community"
+   ],
+   "inside": "Over 5,400 Americans have contracted measles and ten have died, leading to heightened risk, school and travel restrictions, and intensified vaccination campaigns across the country.",
+   "beyond": "The resurgence raises concerns for neighboring nations and international travelers, increasing the likelihood of measles exportation and prompting global health agencies to revise guidance.",
+   "category": "Health",
+   "importance": 54,
+   "confidence": 9,
+   "scores": {
+    "scale": 5,
+    "severity": 6,
+    "cross_border": 4,
+    "durability": 7
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "US loses measles elimination status after 26 years amid record case numbers",
+     "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "US loses measles elimination status amid worst outbreak since 1991",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"
+    }
+   ],
+   "published": "2026-11-17T21:04:00+00:00",
+   "updated": "2026-11-17T23:30:31.356531+00:00"
+  },
+  {
+   "id": "2855efbaea82",
+   "headline": "UN reports record civilian casualties in Ukraine in 2026",
+   "summary": "The UN Human Rights Monitoring Mission says civilian deaths in Ukraine in 2026 have already surpassed any previous year since Russia's 2022 invasion. The surge underscores an intensifying humanitarian crisis amid the ongoing conflict.",
+   "country": "Ukraine",
+   "regions": [
+    "Russia",
+    "Europe"
+   ],
+   "inside": "Ukrainian civilians are facing a sharp rise in deaths and injuries, worsening daily safety and humanitarian needs across the country.",
+   "beyond": "The heightened toll fuels regional security concerns, strains international aid, and influences diplomatic and economic responses worldwide.",
+   "category": "Conflict",
+   "importance": 78,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 5,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/01-07-2026-UNOCHA-Ukraine-04.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168828",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168828"
+    }
+   ],
+   "published": "2026-11-17T12:00:00+00:00",
+   "updated": "2026-11-17T23:30:31.356531+00:00"
+  },
+  {
+   "id": "b544152bffcf",
+   "headline": "Ebola cases in DRC more than double, over 11,000 infections and 5,400 deaths reported",
+   "summary": "The World Health Organization said Ebola cases in the Democratic Republic of the Congo have more than doubled in three months, reaching more than 11,000 infections and 5,400 deaths across 67 health zones in eight provinces. The surge creates a severe public‑health emergency for the country and heightens regional concerns.",
+   "country": "Democratic Republic of the Congo",
+   "regions": [
+    "Uganda",
+    "Rwanda",
+    "Burundi",
+    "South Sudan",
+    "Central African Republic"
+   ],
+   "inside": "Thousands of Congolese have been infected and over five thousand have died, overwhelming local health services and prompting movement restrictions in affected provinces.",
+   "beyond": "The outbreak raises the risk of cross‑border transmission, leading neighboring countries to increase surveillance and consider travel or trade measures.",
+   "category": "Health",
+   "importance": 75,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 9,
+    "cross_border": 6,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/08/26-08-2026-UNOCHA-DR-Congo-ebola-03.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168827",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168827"
+    }
+   ],
+   "published": "2026-11-17T12:00:00+00:00",
+   "updated": "2026-11-17T23:30:31.356531+00:00"
+  },
+  {
+   "id": "5eaa027906f1",
+   "headline": "UN Climate Talks Highlight Ocean Protection Efforts Amid Funding Gaps at COP31",
+   "summary": "At COP31, scientists and Indigenous communities presented innovative and traditional methods to safeguard warming oceans. Negotiators, however, face persistent funding shortfalls and disagreements over fossil fuel use and climate finance, hindering the translation of ideas into action.",
+   "country": "Global",
+   "regions": [
+    "Coastal nations",
+    "Developing countries",
+    "Industrialized economies"
+   ],
+   "inside": "Coastal and marine‑dependent communities risk losing livelihoods and food security as ocean warming threatens fisheries and ecosystems.",
+   "beyond": "All nations are affected by the outcomes of climate finance and fossil‑fuel decisions made at COP31, influencing global emissions pathways and economic stability.",
+   "category": "Climate & disasters",
+   "importance": 82,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_COP31_02.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168824",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31: The push to protect warming oceans reaches the negotiating table",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168824"
+    }
+   ],
+   "published": "2026-11-17T12:00:00+00:00",
+   "updated": "2026-11-17T23:30:31.356531+00:00"
+  },
+  {
+   "id": "a4197076c9d2",
+   "headline": "UN urges civilian protection in Haiti amid escalating gang violence and security operations",
+   "summary": "The UN human rights office warned that atrocities by gangs in Haiti are worsening and called for anti‑gang operations to prioritize civilian safety. The appeal highlights the deteriorating security environment and the urgent need for stronger protection measures for the Haitian population.",
+   "country": "Haiti",
+   "regions": [
+    "Dominican Republic",
+    "Caribbean region"
+   ],
+   "inside": "Haitian civilians are facing increased violence, displacement, and risk of abuse as gangs operate with impunity and security forces intensify operations.",
+   "beyond": "The instability could spill over into the Dominican Republic and the wider Caribbean, affecting regional security and potentially prompting migration flows.",
+   "category": "Conflict",
+   "importance": 72,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 4,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-08-2024-UNOCHA-Haiti-09.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168823",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priortise civilian protection",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168823"
+    }
+   ],
+   "published": "2026-11-17T12:00:00+00:00",
+   "updated": "2026-11-17T23:30:31.356531+00:00"
+  },
   {
    "id": "0a0e369d3f8b",
    "headline": "UK imposes sanctions on Israeli firms building West Bank settlements",
