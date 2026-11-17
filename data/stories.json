@@ -1,6 +1,157 @@
 {
- "updated": "2026-11-16T20:29:51.535534+00:00",
+ "updated": "2026-11-17T04:29:05.082764+00:00",
  "stories": [
+  {
+   "id": "9d990a16befd",
+   "headline": "Ukrainian drone strike temporarily halts traffic on Crimea's Kerch bridge",
+   "summary": "A Ukrainian kamikaze drone hit an arch of the Kerch bridge linking Russia to occupied Crimea, forcing a temporary road closure and stranding thousands of drivers. The attack serves as a symbolic escalation in the Russia‑Ukraine war and raises regional security concerns.",
+   "country": "Russia",
+   "regions": [
+    "Ukraine",
+    "Crimea",
+    "NATO countries"
+   ],
+   "inside": "Road users in Russia and Crimea faced sudden traffic bans, with thousands of vehicles left stranded and disruption to a key supply route.",
+   "beyond": "The strike heightens tensions between Russia and Ukraine, prompting reactions from NATO and other neighboring states and potentially affecting regional trade and energy logistics.",
+   "category": "Conflict",
+   "importance": 74,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 8,
+    "durability": 6
+   },
+   "image": "https://i.guim.co.uk/img/media/5d9bc8ebc5b7c43c5302bea08323e6024d72f453/860_0_4299_3439/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=7704ea25baced0d528d3fa4575ad26ad",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+     "url": "https://www.theguardian.com/world/2026/nov/16/ukraine-drone-kerch-bridge-russia-occupied-crimea"
+    },
+    {
+     "name": "France 24",
+     "title": "Ukraine hits key Crimea bridge with drones",
+     "url": "https://www.france24.com/en/video/20261116-ukraine-hits-key-crimea-bridge-with-drones"
+    }
+   ],
+   "published": "2026-11-16T12:45:09+00:00",
+   "updated": "2026-11-17T04:29:05.082764+00:00"
+  },
+  {
+   "id": "958d7fb3fb0a",
+   "headline": "US blocks remote AI chip access to China and imposes export licences on several Asian and South American nations",
+   "summary": "The United States announced new export‑licence requirements to prevent China from remotely accessing advanced AI chips, a move spurred by controversy surrounding Nvidia. The policy also extends to Malaysia, Thailand, Indonesia, Singapore and Brazil, underscoring the growing US‑China rivalry in artificial intelligence.",
+   "country": "United States",
+   "regions": [
+    "China",
+    "Malaysia",
+    "Thailand",
+    "Indonesia",
+    "Singapore",
+    "Brazil"
+   ],
+   "inside": "US chip makers and exporters must obtain licences before selling AI chips that could be used remotely by China, limiting business opportunities and affecting workers in the domestic semiconductor sector.",
+   "beyond": "The restrictions aim to curb China's AI development and impact the technology supply chains of the listed Asian and South American countries, potentially reshaping global AI competition and trade relations.",
+   "category": "Politics & law",
+   "importance": 70,
+   "confidence": 7,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 8,
+    "durability": 7
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "DW",
+     "title": "Nvidia scandal: China's chips dilemma, US rivalry shape AI race",
+     "url": "https://www.dw.com/en/nvidia-scandal-china-s-chips-dilemma-us-rivalry-shape-ai-race/a-79961766?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+     "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-16T16:32:00+00:00",
+   "updated": "2026-11-17T04:29:05.082764+00:00"
+  },
+  {
+   "id": "b72ec2876e05",
+   "headline": "UK seeks closer EU ties while France deepens defence and mineral partnership with Malaysia",
+   "summary": "The United Kingdom’s prime minister has said the country lost more than it gained from Brexit and is now looking to strengthen its relationship with the European Union. At the same time, French President Emmanuel Macron is visiting Malaysia to forge a strategic partnership on defence, trade, energy and critical minerals. Both moves signal a shift toward renewed cooperation after periods of disengagement.",
+   "country": "United Kingdom",
+   "regions": [
+    "European Union",
+    "France",
+    "Malaysia",
+    "Southeast Asia"
+   ],
+   "inside": "British businesses and consumers could benefit from smoother trade, regulatory alignment and potential economic growth if the UK re‑engages more closely with the EU.",
+   "beyond": "EU members may see increased market access and political cooperation, while France and Malaysia aim to secure rare‑earth supplies and defence collaboration that could reshape global supply chains and security ties.",
+   "category": "Politics & law",
+   "importance": 72,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 7,
+    "durability": 6
+   },
+   "image": "https://s.france24.com/media/display/7f1d673a-e1ec-11f1-9596-f71d22e7fea9/w:1024/p:16x9/7f6d81c95ab87a584e5082fe94983065fe1e7685.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "UK seeks closer ties with EU after Brexit fail",
+     "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "Macron visits Malaysia as France seeks closer defence and rare earths ties",
+     "url": "https://www.france24.com/en/asia-pacific/20261117-macron-malaysia-france-defence-rare-earths-trade-energy"
+    }
+   ],
+   "published": "2026-11-17T00:30:21+00:00",
+   "updated": "2026-11-17T04:29:05.082764+00:00"
+  },
+  {
+   "id": "ee89ee71c8bf",
+   "headline": "WHO says many nations are drafting AMR strategies but gaps leave billions vulnerable",
+   "summary": "New WHO data show that while more countries are creating plans to combat antimicrobial resistance, critical gaps in testing and treatment persist. As a result, billions of people remain at risk from super‑bugs, highlighting the need for stronger implementation.",
+   "country": "Global",
+   "regions": [],
+   "inside": "People worldwide face heightened risk of untreatable infections because many health systems lack adequate AMR testing and treatment capacity.",
+   "beyond": "The spread of resistant microbes does not respect borders, threatening global health security, trade, and travel, and requiring coordinated international action.",
+   "category": "Health",
+   "importance": 84,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/assets/2017/03/26806/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168819",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "‘An unfulfilled plan helps no one’: Superbug plans have doubled, but few countries are delivering",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168819"
+    }
+   ],
+   "published": "2026-11-16T12:00:00+00:00",
+   "updated": "2026-11-17T04:29:05.082764+00:00"
+  },
   {
    "id": "ee3a36df6fad",
    "headline": "Saudi Arabia replaces coalition commander as Houthi forces advance in Yemen",
