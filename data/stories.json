@@ -1,6 +1,88 @@
 {
- "updated": "2026-11-17T23:30:31.356531+00:00",
+ "updated": "2026-11-18T07:29:47.271532+00:00",
  "stories": [
+  {
+   "id": "6010abf0a7f6",
+   "headline": "Israeli Parliament Elects Matan Kahana as Speaker, Advancing Efforts to Replace Netanyahu",
+   "summary": "According to reports from France 24, The Guardian, and Al Jazeera, the Israeli Knesset has elected Matan Kahana as its new speaker with backing from opposition and Arab parties. Kahana is an ally of Gadi Eisenkot, who is attempting to assemble a coalition to succeed Prime Minister Benjamin Netanyahu. The appointment represents a pivotal move toward unwinding legislative initiatives passed under Netanyahu's administration.",
+   "country": "Israel",
+   "regions": [],
+   "inside": "The installation of a new speaker allows opponents of the current administration to begin rolling back prior legislative policies and shaping domestic governance.",
+   "beyond": "The provided reports focus on internal coalition building and do not detail specific impacts on other countries.",
+   "category": "Politics & law",
+   "importance": 54,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 5,
+    "cross_border": 4,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/855e62f8-e290-11f1-bec3-6d75ed565170/w:1024/p:16x9/AP26321467242182.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Israeli parliament elects Eisenkot ally Matan Kahana as speaker in blow for Netanyahu",
+     "url": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker"
+    },
+    {
+     "name": "France 24",
+     "title": "🔴Israeli parliament elects Eisenkot ally Matan Kahana as new Knesset speaker",
+     "url": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+     "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-17T21:24:31+00:00",
+   "updated": "2026-11-18T07:29:47.271532+00:00"
+  },
+  {
+   "id": "cf4b064fa705",
+   "headline": "Mary Peltola becomes first Alaska Native US Senator after close race",
+   "summary": "Mary Peltola won Alaska's U.S. Senate seat, becoming the first Alaska Native to serve in the Senate. The victory shifts the state's partisan balance and brings Indigenous representation to the federal legislature, though the result may face legal challenges.",
+   "country": "United States",
+   "regions": [
+    "Alaska"
+   ],
+   "inside": "Alaskans and other U.S. voters gain a new Senate voice that may prioritize Indigenous issues and regional concerns, influencing legislation that affects daily life and resources.",
+   "beyond": "The change in Senate composition could subtly affect U.S. foreign policy and trade decisions, but direct impacts on other countries are limited.",
+   "category": "Politics & law",
+   "importance": 56,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 6,
+    "cross_border": 2,
+    "durability": 8
+   },
+   "image": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=8869a08f117f3b859f3c91649b07cac0",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+     "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
+     "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
+    }
+   ],
+   "published": "2026-11-18T03:28:41+00:00",
+   "updated": "2026-11-18T07:29:47.271532+00:00"
+  },
   {
    "id": "399fd9cdcf1c",
    "headline": "72-year-old Palestinian woman killed in West Bank settlement attack near Jericho",
