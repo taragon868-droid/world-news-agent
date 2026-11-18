@@ -1,6 +1,254 @@
 {
- "updated": "2026-11-18T07:29:47.271532+00:00",
+ "updated": "2026-11-18T17:16:03.620442+00:00",
  "stories": [
+  {
+   "id": "6f0341433f3c",
+   "headline": "Trump, Xi and Putin set for historic trilateral summit",
+   "summary": "U.S. President Donald Trump will meet Chinese President Xi Jinping and Russian President Vladimir Putin in a first‑of‑its‑kind three‑way summit. The gathering is expected to address security issues such as the war in Ukraine and could reshape diplomatic and economic ties among the three powers. Observers warn that any agreements or tensions emerging from the talks could have far‑reaching global consequences.",
+   "country": "Global",
+   "regions": [
+    "United States",
+    "China",
+    "Russia",
+    "Ukraine",
+    "Europe",
+    "Asia‑Pacific",
+    "International community"
+   ],
+   "inside": "For citizens of the United States, China and Russia, the summit could lead to shifts in foreign policy, trade arrangements and security postures that affect jobs, consumer prices and national safety.",
+   "beyond": "Decisions made at the meeting may influence the course of the Ukraine conflict, alter global energy and commodity markets, and reshape alliances across Europe, Asia and the broader international system.",
+   "category": "Politics & law",
+   "importance": 78,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+     "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "NPR",
+     "title": "Trump to meet with Russia's Putin and China's Xi for historic joint meeting",
+     "url": "https://www.npr.org/2026/11/18/nx-s1-6027645/trump-to-meet-with-russias-putin-and-chinas-xi-for-historic-joint-meeting"
+    },
+    {
+     "name": "France 24",
+     "title": "Xi welcomes Trump to China ahead of high-stakes Putin meeting",
+     "url": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting"
+    }
+   ],
+   "published": "2026-11-18T08:33:32+00:00",
+   "updated": "2026-11-18T17:16:03.620442+00:00"
+  },
+  {
+   "id": "b7e66338729b",
+   "headline": "US, China and Russia leaders meet in China for historic summit",
+   "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin gathered in Shenzhen for a first‑ever three‑way summit. The meeting is seen as a diplomatic milestone that could shape the course of the war in Ukraine and broader global security dynamics.",
+   "country": "United States",
+   "regions": [
+    "China",
+    "Russia",
+    "Ukraine",
+    "Europe",
+    "Asia‑Pacific"
+   ],
+   "inside": "American citizens could feel the impact of any new agreements on U.S. foreign policy, trade, and the United States' role in the Ukraine conflict, potentially affecting security and economic conditions at home.",
+   "beyond": "The summit influences China and Russia directly, and its outcomes could affect Ukraine's war, European security, and trade relations across the Asia‑Pacific region.",
+   "category": "Politics & law",
+   "importance": 81,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b2/live/72c78770-e36f-11f1-a094-5fdc692f3e33.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+     "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+     "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-18T10:53:21+00:00",
+   "updated": "2026-11-18T17:16:03.620442+00:00"
+  },
+  {
+   "id": "fe4c1daff70c",
+   "headline": "Iranian attacks on Kuwait and Bahrain follow US strike on Qeshm island",
+   "summary": "Iran launched missile attacks on Kuwait and Bahrain after the United States struck a missile launch site on Iran's Qeshm island. The exchange marks a sharp escalation in Gulf tensions, involving US forces and several Gulf states, and raises concerns about broader regional security.",
+   "country": "Kuwait",
+   "regions": [
+    "Bahrain",
+    "Iran",
+    "United States",
+    "Oman",
+    "Qatar"
+   ],
+   "inside": "Kuwait's military reported repelling the first Iranian attack in two months, prompting alerts and defensive actions that directly affect its civilian population's safety.",
+   "beyond": "The clash heightens security concerns across the Gulf, drawing in the United States and neighboring states such as Bahrain, Oman, and Qatar, and could influence wider Middle‑East geopolitics.",
+   "category": "Conflict",
+   "importance": 76,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 6
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "US strikes Iranian island after Tehran targets Bahrain",
+     "url": "https://www.france24.com/en/video/20261118-us-strikes-iranian-island-after-tehran-targets-bahrain"
+    }
+   ],
+   "published": "2026-11-18T13:04:48+00:00",
+   "updated": "2026-11-18T17:16:03.620442+00:00"
+  },
+  {
+   "id": "41e3b7b27342",
+   "headline": "North Korea completes extension of Yongbyon uranium enrichment plant, IAEA says",
+   "summary": "The International Atomic Energy Agency reports that external construction of a new extension to North Korea’s Yongbyon uranium enrichment facility was finished in mid‑October. The IAEA chief warned that the ongoing expansion of Pyongyang’s enrichment program remains a serious concern for regional and global security.",
+   "country": "North Korea",
+   "regions": [
+    "South Korea",
+    "Japan",
+    "United States",
+    "China",
+    "Russia",
+    "International community"
+   ],
+   "inside": "The expanded facility could increase North Korea’s nuclear capability, affecting the safety, political climate, and daily lives of its citizens through heightened security measures and potential economic sanctions.",
+   "beyond": "The development raises security concerns for neighboring states and may trigger diplomatic, economic, or military responses from the United States, regional powers, and the broader international community.",
+   "category": "Politics & law",
+   "importance": 71,
+   "confidence": 9,
+   "scores": {
+    "scale": 4,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/7f75f314-e354-11f1-b7f3-c5c0357b2a0c/w:1024/p:16x9/000-B4XF9KF.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "North Korea completes external works on enrichment facility extension, says IAEA",
+     "url": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea"
+    },
+    {
+     "name": "DW",
+     "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+     "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf"
+    }
+   ],
+   "published": "2026-11-18T13:46:57+00:00",
+   "updated": "2026-11-18T17:16:03.620442+00:00"
+  },
+  {
+   "id": "48dc592f6430",
+   "headline": "Israel launches new military operation in central Gaza, prompting Palestinian displacement",
+   "summary": "Israeli forces began a targeted operation in central Gaza, using tanks and air strikes near a refugee camp, killing at least three Palestinians and forcing residents to flee. The assault is aimed at Hamas infrastructure outside the Israeli‑controlled zone, intensifying the ongoing conflict.",
+   "country": "Israel",
+   "regions": [
+    "Gaza Strip",
+    "Middle East",
+    "Egypt",
+    "Jordan",
+    "Lebanon"
+   ],
+   "inside": "Palestinian civilians in Gaza are being displaced from their homes, facing casualties and a heightened threat to their safety as Israeli forces advance.",
+   "beyond": "The operation raises regional tensions, potentially drawing in neighboring countries such as Egypt, Jordan and Lebanon and influencing international diplomatic and humanitarian responses.",
+   "category": "Conflict",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/8f0f71fe-e36a-11f1-82d9-1ba7ddfab527/w:1024/p:16x9/EN-20261118-170112-170442-CS.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "Israel begins new military operation in Gaza",
+     "url": "https://www.france24.com/en/video/20261118-israel-begins-new-military-operation-in-gaza"
+    }
+   ],
+   "published": "2026-11-18T14:39:09+00:00",
+   "updated": "2026-11-18T17:16:03.620442+00:00"
+  },
+  {
+   "id": "3bd694259d88",
+   "headline": "UNICEF urges protection of children as fighting in Yemen kills dozens",
+   "summary": "Renewed fighting between Houthi rebels and Yemeni government forces has entered its third month, resulting in dozens of child deaths. UNICEF has called on all parties to safeguard children amid the escalating hostilities.",
+   "country": "Yemen",
+   "regions": [],
+   "inside": "The conflict has directly caused the deaths of many children and threatens the safety and rights of the broader civilian population in Yemen.",
+   "beyond": "",
+   "category": "Conflict",
+   "importance": 65,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 9,
+    "cross_border": 2,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/22-09-2026_UNICEF_Yemen.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Dozens more children killed in Yemen amid escalating hostilities",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168830"
+    }
+   ],
+   "published": "2026-11-18T12:00:00+00:00",
+   "updated": "2026-11-18T17:16:03.620442+00:00"
+  },
   {
    "id": "6010abf0a7f6",
    "headline": "Israeli Parliament Elects Matan Kahana as Speaker, Advancing Efforts to Replace Netanyahu",
