@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-19T00:23:49.026460+00:00",
+ "updated": "2026-11-19T10:21:57.634796+00:00",
  "stories": [
+  {
+   "id": "23d5709759ee",
+   "headline": "South Korea tightens security for university entrance exam after AI cheating scandal",
+   "summary": "South Korea has introduced extraordinary security measures for the Suneung university entrance exam after a top scorer admitted using a hidden camera and AI to cheat. More than 550,000 candidates will be subject to extra supervision, glass inspections and stickered devices, raising concerns about exam integrity and future AI misuse.",
+   "country": "South Korea",
+   "regions": [],
+   "inside": "Students taking the Suneung exam will face stricter checks, additional supervisors, and restrictions on personal devices, increasing stress but aiming to protect the fairness of the test that determines university admission.",
+   "beyond": "The scandal may prompt other nations to review and tighten security for high‑stakes examinations and consider regulations on AI‑assisted cheating tools.",
+   "category": "Politics & law",
+   "importance": 60,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 3,
+    "durability": 5
+   },
+   "image": "https://i.guim.co.uk/img/media/291cc6ecd5e65b702c8158243baa0233602cba73/501_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=508a09f51a91f0a82c9b0fcf2109c3eb",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
+     "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures"
+    },
+    {
+     "name": "France 24",
+     "title": "South Korea tightens security for national exam over AI cheating scandal",
+     "url": "https://www.france24.com/en/south-korea-tightens-security-for-national-exam-over-ai-cheating-scandal"
+    }
+   ],
+   "published": "2026-11-18T02:03:27+00:00",
+   "updated": "2026-11-19T10:21:57.634796+00:00"
+  },
+  {
+   "id": "f7c34df723c2",
+   "headline": "World Court to Decide Myanmar Rohingya Genocide Case",
+   "summary": "The International Court of Justice will issue a verdict on whether Myanmar's military actions in Rakhine State amount to genocide against the Rohingya. The ruling, the court's first genocide decision in more than a decade, could have far‑reaching legal and political consequences.",
+   "country": "Myanmar",
+   "regions": [
+    "Bangladesh",
+    "Southeast Asia",
+    "International community"
+   ],
+   "inside": "The decision could lead to accountability measures, reparations, or policy changes that directly affect the safety, rights, and future of the Rohingya and other Myanmar citizens.",
+   "beyond": "The verdict may set a precedent for international genocide law, shape diplomatic relations with Myanmar, and impact neighboring Bangladesh, which hosts large numbers of Rohingya refugees.",
+   "category": "Politics & law",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "DW",
+     "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+     "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-18T14:27:00+00:00",
+   "updated": "2026-11-19T10:21:57.634796+00:00"
+  },
+  {
+   "id": "ee7b14dff891",
+   "headline": "U.S. Defense Secretary Pete Hegseth Visits Venezuela to Highlight Alleged Capture of Maduro",
+   "summary": "During his first trip to Venezuela, U.S. Defense Secretary Pete Hegseth claimed that U.S. special forces had abducted former President Nicolás Maduro, calling it the most sophisticated military operation in Latin America. The visit underscores a new U.S.-Venezuela military deal and raises questions about regional security and U.S. influence.",
+   "country": "Venezuela",
+   "regions": [
+    "United States",
+    "Latin America"
+   ],
+   "inside": "Venezuelans could face heightened U.S. military presence and potential political upheaval as a result of the alleged operation and new defense ties.",
+   "beyond": "The move signals increased U.S. involvement in the region, prompting reactions from neighboring countries and affecting broader hemispheric security dynamics.",
+   "category": "Politics & law",
+   "importance": 74,
+   "confidence": 5,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 8,
+    "durability": 6
+   },
+   "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+     "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
+     "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-18T20:24:19+00:00",
+   "updated": "2026-11-19T10:21:57.634796+00:00"
+  },
+  {
+   "id": "e714c84be9f5",
+   "headline": "Ukraine allies convene in Berlin after Trump‑Putin‑Xi summit to bolster support for Kyiv",
+   "summary": "Allies of Ukraine gathered in Berlin to coordinate diplomatic and material backing for Kyiv following a historic trilateral summit of US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen. The meeting highlights Europe’s determination to stay engaged in the war and to seek a seat at any future peace negotiations.",
+   "country": "Ukraine",
+   "regions": [
+    "United States",
+    "Russia",
+    "China",
+    "Poland",
+    "Germany",
+    "European Union"
+   ],
+   "inside": "Ukrainians receive renewed diplomatic backing and the prospect of increased aid, which directly impacts their security, reconstruction efforts, and hopes for a role in peace talks.",
+   "beyond": "The summit and Berlin meeting shape relations among the US, Russia and China, affect European security policy, and have broader implications for global geopolitical stability.",
+   "category": "Politics & law",
+   "importance": 87,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/17c5f5fe-e3f7-11f1-9c2e-6d75ed565170/w:1024/p:16x9/000-78MX2G3.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/europe/20261119-european-leaders-to-meet-in-berlin-to-support-for-ukraine-after-trump-putin-xi-talks",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Ukraine's allies to meet in Berlin to rally support for Kyiv after Trump-Putin-Xi talks",
+     "url": "https://www.france24.com/en/europe/20261119-european-leaders-to-meet-in-berlin-to-support-for-ukraine-after-trump-putin-xi-talks"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+    }
+   ],
+   "published": "2026-11-19T02:55:20+00:00",
+   "updated": "2026-11-19T10:21:57.634796+00:00"
+  },
+  {
+   "id": "8944b9bf2f7d",
+   "headline": "Crimean bridge suffers another attack, halting traffic",
+   "summary": "A fresh assault hit the Kerch bridge linking Russia with the occupied Crimean peninsula, forcing a suspension of road traffic and rail services. The damage is being assessed after a series of strikes that have already knocked out sections of the bridge, underscoring the strategic importance of the crossing in the Russia‑Ukraine conflict.",
+   "country": "Russia",
+   "regions": [
+    "Ukraine",
+    "Black Sea region",
+    "NATO member states"
+   ],
+   "inside": "Residents and businesses in Crimea and Russia lose a vital transport link, disrupting commuting, freight movement and supply chains that rely on the bridge.",
+   "beyond": "The attacks heighten tensions between Russia and Ukraine, draw international attention, and could influence NATO and regional security calculations.",
+   "category": "Conflict",
+   "importance": 74,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Crimean Bridge attacked again, Russia says",
+     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+     "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+    }
+   ],
+   "published": "2026-11-19T07:32:06+00:00",
+   "updated": "2026-11-19T10:21:57.634796+00:00"
+  },
   {
    "id": "cf9062f00bc8",
    "headline": "Israeli army conducts ground incursion into central Gaza beyond Yellow Line",
