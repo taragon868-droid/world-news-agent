@@ -1,6 +1,236 @@
 {
- "updated": "2026-11-19T10:21:57.634796+00:00",
+ "updated": "2026-11-19T20:38:14.352770+00:00",
  "stories": [
+  {
+   "id": "036f155d9099",
+   "headline": "UN top court rules Myanmar responsible for genocide against Rohingya",
+   "summary": "The International Court of Justice found Myanmar guilty of genocide for its 2017 military campaign against the Rohingya minority, ordering reparations and the safe return of refugees. The ruling marks the first time a state has been declared genocidal by an international court and sets a precedent for future accountability.",
+   "country": "Myanmar",
+   "regions": [
+    "Bangladesh",
+    "International community"
+   ],
+   "inside": "Rohingya survivors and other Myanmar citizens may benefit from reparations and the prospect of safe repatriation, while the government faces heightened legal and diplomatic pressure.",
+   "beyond": "Bangladesh, which hosts over a million Rohingya refugees, will be affected by potential repatriation and international aid commitments, and the decision influences global norms on state responsibility for genocide.",
+   "category": "Politics & law",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-01-2026-ICJ-Gambia-Myanmar-01.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+   "sources": [
+    {
+     "name": "DW",
+     "title": "Myanmar committed genocide against Rohingya, top UN court rules",
+     "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "UN News",
+     "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168836"
+    },
+    {
+     "name": "NPR",
+     "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+     "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+     "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+    },
+    {
+     "name": "The Guardian",
+     "title": "‘Everyone struggled for this justice’: tears in court as Rohingya vindicated in Myanmar genocide ruling",
+     "url": "https://www.theguardian.com/global-development/2026/nov/19/everyone-struggled-for-this-justice-tears-in-court-as-rohingya-vindicated-in-myanmar-genocide-ruling"
+    },
+    {
+     "name": "BBC News",
+     "title": "Rohingya genocide: What was said in court and what happens now?",
+     "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-19T11:39:00+00:00",
+   "updated": "2026-11-19T20:38:14.352770+00:00"
+  },
+  {
+   "id": "e54ccd81a143",
+   "headline": "US, China and Russia leaders hold first trilateral summit at APEC meeting in Shenzhen",
+   "summary": "President Donald Trump, President Xi Jinping and President Vladimir Putin met on the sidelines of the APEC summit, marking the first three‑way summit of the three powers. They discussed Ukraine and broader geopolitical tensions, but the gathering produced few concrete agreements. The meeting drew intense media attention and highlighted the shifting dynamics among the world’s biggest economies.",
+   "country": "Global",
+   "regions": [
+    "United States",
+    "China",
+    "Russia",
+    "Europe (Ukraine)",
+    "Asia‑Pacific"
+   ],
+   "inside": "In China, the summit placed Shenzhen in the global spotlight and underscored the country's role as a diplomatic host; in the United States, the president’s conduct at the event sparked domestic criticism, while Russian officials used the platform to signal a willingness to engage with rivals.",
+   "beyond": "The talks have implications for US‑China and US‑Russia relations, affect the strategic calculus of European nations involved in the Ukraine conflict, and could influence global markets and security arrangements across the Asia‑Pacific region.",
+   "category": "Politics & law",
+   "importance": 84,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
+     "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+    },
+    {
+     "name": "France 24",
+     "title": "Trump, Xi, Putin summit: What was it all about?",
+     "url": "https://www.france24.com/en/trump-xi-putin-summit-what-was-it-all-about"
+    },
+    {
+     "name": "The Guardian",
+     "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+     "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Trump and Putin ‘hijacked’ China summit",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Trump-Xi-Putin summit: Five things you need to know",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-18T17:48:24+00:00",
+   "updated": "2026-11-19T20:38:14.352770+00:00"
+  },
+  {
+   "id": "6f4f64ce6000",
+   "headline": "AI firm Anthropic launches on Nasdaq in record $81 billion IPO",
+   "summary": "Anthropic, an artificial‑intelligence company, completed an $81 billion initial public offering on the Nasdaq, making it the largest IPO in U.S. history and surpassing SpaceX. The listing provides the firm with massive new capital and highlights strong investor appetite for AI businesses.",
+   "country": "United States",
+   "regions": [
+    "Global investors",
+    "Technology sector worldwide"
+   ],
+   "inside": "U.S. investors, Anthropic employees, and AI customers see fresh capital, potential growth, and heightened stock‑market activity directly affecting their financial interests and job prospects.",
+   "beyond": "The unprecedented size of the IPO reverberates through global financial markets, influencing valuations of AI and tech firms worldwide and shaping investment strategies across many countries.",
+   "category": "Economy & trade",
+   "importance": 59,
+   "confidence": 9,
+   "scores": {
+    "scale": 5,
+    "severity": 6,
+    "cross_border": 7,
+    "durability": 6
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "🔴 AI firm Anthropic begins trading on Nasdaq, aiming to raise $81 billion in biggest IPO on record",
+     "url": "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Anthropic starts trading in the US after blockbuster IPO",
+     "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-19T14:31:00+00:00",
+   "updated": "2026-11-19T20:38:14.352770+00:00"
+  },
+  {
+   "id": "84d7ad1fe702",
+   "headline": "US Senate defeats resolution to curb Trump's war powers over Iran",
+   "summary": "The Senate voted 48‑51 to reject a war‑powers resolution that would have forced President Trump to halt military actions against Iran. Three Republican senators broke ranks, but the measure failed, keeping existing war‑power authority intact.",
+   "country": "United States",
+   "regions": [
+    "Iran",
+    "Middle East",
+    "Global"
+   ],
+   "inside": "The decision leaves U.S. policymakers and the public without new limits on presidential war powers, meaning any escalation with Iran could proceed under existing authority.",
+   "beyond": "It sustains the risk of heightened U.S.–Iran tensions, potentially destabilizing the Middle East and affecting global oil markets and diplomatic relations.",
+   "category": "Politics & law",
+   "importance": 63,
+   "confidence": 9,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 6,
+    "durability": 6
+   },
+   "image": "https://i.guim.co.uk/img/media/e9cf75dcb88b9e08a70020610023fdba0e0a45c4/671_0_6707_5366/master/6707.jpg?width=140&quality=85&auto=format&fit=max&s=b1fd399afc2a4e336a197ce308a55145",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+     "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-19T20:24:09+00:00",
+   "updated": "2026-11-19T20:38:14.352770+00:00"
+  },
+  {
+   "id": "a13eaecc4d91",
+   "headline": "Fossil‑fuel language removed from COP31 draft climate agreement",
+   "summary": "At COP31, civil‑society activists highlighted that the latest draft of the climate deal no longer contains explicit references to phasing out fossil fuels. Ministers are still negotiating the text as the summit nears its close, raising concerns about the ambition of global climate action.",
+   "country": "Global",
+   "regions": [
+    "Azerbaijan",
+    "United Nations member states",
+    "International community"
+   ],
+   "inside": "The host nation and other participating countries see a weakening of the agreement, which could limit domestic policy momentum on clean energy transitions.",
+   "beyond": "The omission reduces the pressure on all nations to cut fossil‑fuel use, potentially slowing global emissions reductions and affecting climate‑related economic and health outcomes worldwide.",
+   "category": "Climate & disasters",
+   "importance": 84,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_COP31.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168839"
+    }
+   ],
+   "published": "2026-11-19T12:00:00+00:00",
+   "updated": "2026-11-19T20:38:14.352770+00:00"
+  },
   {
    "id": "23d5709759ee",
    "headline": "South Korea tightens security for university entrance exam after AI cheating scandal",
