@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-18T17:16:03.620442+00:00",
+ "updated": "2026-11-19T00:23:49.026460+00:00",
  "stories": [
+  {
+   "id": "cf9062f00bc8",
+   "headline": "Israeli army conducts ground incursion into central Gaza beyond Yellow Line",
+   "summary": "The Israeli military launched a rare ground operation in central Gaza, crossing the Yellow Line that separates Israeli and Hamas‑controlled areas. The move forced many Gazans to abandon tents and shelters as Israeli tanks advanced near the Nuseirat refugee camp, prompting Hamas to denounce the action as a ceasefire breach.",
+   "country": "Palestine",
+   "regions": [
+    "Israel",
+    "Egypt",
+    "Jordan",
+    "Lebanon",
+    "United States"
+   ],
+   "inside": "Gazans in central Gaza were compelled to flee their shelters and face heightened risk of casualties as Israeli forces moved into the area.",
+   "beyond": "The incursion escalates tensions across the region, drawing reactions from Israel's neighbors and the international community, and could influence diplomatic and security dynamics beyond the immediate battlefield.",
+   "category": "Conflict",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/291a44ea-e375-11f1-8738-6d75ed565170/w:1024/p:16x9/2026-11-18T145851Z-876917872-RC2DQOALE3WH-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
+     "url": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line"
+    },
+    {
+     "name": "France 24",
+     "title": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
+     "url": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
+    },
+    {
+     "name": "BBC News",
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-18T16:03:21+00:00",
+   "updated": "2026-11-19T00:23:49.026460+00:00"
+  },
+  {
+   "id": "2dc489ec5e85",
+   "headline": "France's secret military mission in Ukraine raises questions of direct involvement",
+   "summary": "French public radio RFI disclosed a covert French army operation called \"Volia\" that has been active in Ukraine for months, suggesting French troops are on the ground. Russia has seized on the report to accuse France of direct participation in the war, sparking diplomatic tension and debate over France's role.",
+   "country": "Ukraine",
+   "regions": [
+    "France",
+    "Russia",
+    "European Union"
+   ],
+   "inside": "If French personnel are indeed present, French soldiers could become combatants, exposing them to injury or death and influencing public opinion and political decisions within France.",
+   "beyond": "The revelation could heighten tensions between France and Russia, affect NATO cohesion, and influence broader European security and diplomatic relations.",
+   "category": "Conflict",
+   "importance": 82,
+   "confidence": 7,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/8cecea6e-e36a-11f1-b640-7908c4e1a3c7/w:1024/p:16x9/French-troops-Ukraine-10.png",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "War in Ukraine: Is France in direct conflict with Russia?",
+     "url": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia"
+    },
+    {
+     "name": "BBC News",
+     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-18T16:57:36+00:00",
+   "updated": "2026-11-19T00:23:49.026460+00:00"
+  },
+  {
+   "id": "0ef9e9ce09ec",
+   "headline": "US Defence Secretary visits Venezuela to restart military cooperation",
+   "summary": "US Defence Secretary Pete Hegseth made an unannounced trip to Caracas, announcing a renewal of military cooperation with Venezuela that will include joint training and intelligence sharing and a pledge to crack down on drug traffickers. The visit marks the highest‑level US engagement with Venezuela since Maduro’s ouster, signalling a shift in bilateral relations.",
+   "country": "United States",
+   "regions": [
+    "Venezuela",
+    "Latin America",
+    "Caribbean"
+   ],
+   "inside": "Venezuelan citizens could experience increased US military activity and a more aggressive anti‑drug campaign, while US personnel and policymakers will be directly involved in the new partnership.",
+   "beyond": "The agreement may reshape regional security, affect drug‑trafficking routes, and influence how other Latin American nations interact with both the US and Venezuela.",
+   "category": "Politics & law",
+   "importance": 66,
+   "confidence": 9,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 8,
+    "durability": 5
+   },
+   "image": "https://s.france24.com/media/display/2904ad80-e382-11f1-9862-c5c0357b2a0c/w:1024/p:16x9/599f3f4f72051259cd9b18e30eeb84323754b49b.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Hegseth makes surprise trip to Venezuela, renews military cooperation",
+     "url": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-18T18:59:20+00:00",
+   "updated": "2026-11-19T00:23:49.026460+00:00"
+  },
+  {
+   "id": "72d232176f17",
+   "headline": "COP31 deadlock continues as nations launch climate reality check",
+   "summary": "At COP31 in Antalya, countries introduced a global \"climate reality check\" to assess whether climate pledges are being met, while ministers remain split over financing, the speed of the fossil‑fuel phase‑out, and climate justice for poorer nations. The stalemate leaves the summit without clear agreements on how to fund and accelerate the transition.",
+   "country": "Turkey",
+   "regions": [
+    "Global",
+    "Developing countries",
+    "Developed countries"
+   ],
+   "inside": "Citizens in Turkey see the summit’s deadlock delay concrete climate actions that could affect local air quality, energy costs, and job creation in green sectors.",
+   "beyond": "The impasse influences climate finance, technology transfer, and emission‑reduction pathways worldwide, creating uncertainty for both developed and developing nations.",
+   "category": "Climate & disasters",
+   "importance": 85,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_COP31.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168833",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168833"
+    }
+   ],
+   "published": "2026-11-18T12:00:00+00:00",
+   "updated": "2026-11-19T00:23:49.026460+00:00"
+  },
+  {
+   "id": "3987956c2ac1",
+   "headline": "Antibiotic resistance worsens, leaving patients with fewer treatment options",
+   "summary": "The WHO warns that common bacteria are becoming highly resistant to both frontline and last‑resort antibiotics, a situation worse than in 2019. This escalation means infections are harder to treat worldwide, putting patients at greater risk of severe illness or death.",
+   "country": "Global",
+   "regions": [
+    "Worldwide"
+   ],
+   "inside": "Patients around the world are facing infections that may no longer respond to standard antibiotics, increasing illness severity and mortality.",
+   "beyond": "The spread of resistant bacteria threatens global health systems, trade, travel and requires coordinated international action.",
+   "category": "Health",
+   "importance": 88,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-03-2023-WHO-antimicrobial.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168832",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Patients running out of options as antibiotics stop working against common infections",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168832"
+    }
+   ],
+   "published": "2026-11-18T12:00:00+00:00",
+   "updated": "2026-11-19T00:23:49.026460+00:00"
+  },
   {
    "id": "6f0341433f3c",
    "headline": "Trump, Xi and Putin set for historic trilateral summit",
