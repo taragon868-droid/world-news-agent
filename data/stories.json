@@ -1,6 +1,45 @@
 {
- "updated": "2026-11-19T20:38:14.352770+00:00",
+ "updated": "2026-11-20T03:16:18.907232+00:00",
  "stories": [
+  {
+   "id": "7a9c705eae85",
+   "headline": "Regional Conflict Escalates With Strikes on Persian Gulf Shipping and Saudi Capital",
+   "summary": "According to reporting from NPR and Al Jazeera, regional hostilities involving Iran have escalated through strikes against vessels in the Strait of Hormuz and across multiple Persian Gulf states. Al Jazeera also reports that Houthi missile strikes have hit the financial district of Riyadh, causing significant disruption to global energy supplies.",
+   "country": "Saudi Arabia",
+   "regions": [
+    "Iran",
+    "Persian Gulf",
+    "Middle East"
+   ],
+   "inside": "People in Riyadh face direct threats to safety and disruptions to daily business following missile strikes on the city's financial centre.",
+   "beyond": "Commercial shipping in the Strait of Hormuz and neighbouring Persian Gulf countries face airstrikes and maritime attacks, creating lasting consequences for international energy markets.",
+   "category": "Conflict",
+   "importance": 82,
+   "confidence": 7,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "NPR",
+     "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+     "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-19T09:46:24+00:00",
+   "updated": "2026-11-20T03:16:18.907232+00:00"
+  },
   {
    "id": "036f155d9099",
    "headline": "UN top court rules Myanmar responsible for genocide against Rohingya",
