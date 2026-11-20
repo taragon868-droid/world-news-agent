@@ -1,6 +1,147 @@
 {
- "updated": "2026-11-20T03:16:18.907232+00:00",
+ "updated": "2026-11-20T12:54:14.265310+00:00",
  "stories": [
+  {
+   "id": "c4176800e835",
+   "headline": "El Salvador's President Bukele seeks a third term after constitutional amendment removes term limits",
+   "summary": "President Nayib Bukele is pursuing a third presidential term after the Salvadoran constitution was altered to eliminate term limits. The move has sparked criticism that it creates a de‑facto one‑party state and raises human‑rights concerns, while his popular security policies keep him widely supported at home.",
+   "country": "El Salvador",
+   "regions": [
+    "United States",
+    "Central America"
+   ],
+   "inside": "The constitutional change could allow Bukele to stay in power indefinitely, affecting governance, civil liberties, and public policy for the roughly 6.5 million Salvadorans.",
+   "beyond": "The shift may strain relations with the United States, influence migration flows to the region, and set a precedent for other Latin American leaders considering similar constitutional tweaks.",
+   "category": "Politics & law",
+   "importance": 66,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 4,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/86fc3e64-e4d9-11f1-a0c6-ebb478925cf0/w:1024/p:16x9/Salvador-00-01-50-03-Still001.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "El Salvador’s Bukele seeks third term after constitution change",
+     "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "El Salvador: Nayib Bukele, self-proclaimed “coolest dictator on earth”, is seeking a third term",
+     "url": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term"
+    }
+   ],
+   "published": "2026-11-20T08:21:34+00:00",
+   "updated": "2026-11-20T12:54:14.265310+00:00"
+  },
+  {
+   "id": "6edc9b97feb8",
+   "headline": "UK and EU hold summit to rebuild post‑Brexit ties",
+   "summary": "UK Prime Minister Andy Burnham met with EU officials in Brussels to discuss ways to strengthen relations after Brexit. The summit aims to improve political cooperation and address trade and regulatory issues affecting both sides.",
+   "country": "United Kingdom",
+   "regions": [
+    "European Union"
+   ],
+   "inside": "Britons could see changes to trade rules, travel arrangements and regulatory alignment that affect everyday commerce and mobility.",
+   "beyond": "EU member states may experience adjustments in trade flows, regulatory cooperation and diplomatic relations as the UK seeks closer ties.",
+   "category": "Politics & law",
+   "importance": 74,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 8,
+    "durability": 6
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "NPR",
+     "title": "The U.K. and EU hold a rare summit to strengthen ties",
+     "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit"
+    },
+    {
+     "name": "DW",
+     "title": "EU and UK hold a rare summit in bid to 'rebuild ties'",
+     "url": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-rdf"
+    }
+   ],
+   "published": "2026-11-20T09:14:41+00:00",
+   "updated": "2026-11-20T12:54:14.265310+00:00"
+  },
+  {
+   "id": "b970ff7c29b5",
+   "headline": "Control of GPS and radio signals threatens civilian safety worldwide",
+   "summary": "Increasing interference with GPS, satellite navigation and traditional radio transmissions is making it harder for aid convoys, passenger aircraft and cargo ships to travel safely. Civilians are bearing the cost as journeys become riskier and navigation systems are spoofed or blocked.",
+   "country": "Global",
+   "regions": [
+    "conflict zones",
+    "international airspace",
+    "global maritime routes"
+   ],
+   "inside": "People relying on GPS for everyday travel, emergency aid deliveries, and navigation of ships and planes face heightened danger and potential delays.",
+   "beyond": "The manipulation of navigation signals can disrupt international trade, aviation, and humanitarian operations across multiple countries, affecting global supply chains and safety standards.",
+   "category": "Technology",
+   "importance": 85,
+   "confidence": 7,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_Adobe_Mexico_satellite.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168843",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Battle to control GPS and radio signals raises civilian safety concerns",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168843"
+    }
+   ],
+   "published": "2026-11-19T12:00:00+00:00",
+   "updated": "2026-11-20T12:54:14.265310+00:00"
+  },
+  {
+   "id": "cf3cacd40078",
+   "headline": "UN warns AI is giving predators new tools to target children",
+   "summary": "Senior UN officials say artificial intelligence is providing predators and criminal groups with novel methods to groom, extort and exploit children. Current protective measures are lagging behind the rapid evolution of AI‑driven abuse tactics.",
+   "country": "Global",
+   "regions": [
+    "Worldwide"
+   ],
+   "inside": "Children worldwide are increasingly vulnerable to AI‑facilitated grooming, extortion and exploitation, putting their safety and rights at risk.",
+   "beyond": "The same AI tools can be used by transnational criminal networks, spreading the threat across borders and affecting multiple countries simultaneously.",
+   "category": "Technology",
+   "importance": 83,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/29-06-2026-AdobeStock_AI_06.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168841",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "‘Losing the battle’: AI hands predators new ways to target children",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168841"
+    }
+   ],
+   "published": "2026-11-19T12:00:00+00:00",
+   "updated": "2026-11-20T12:54:14.265310+00:00"
+  },
   {
    "id": "7a9c705eae85",
    "headline": "Regional Conflict Escalates With Strikes on Persian Gulf Shipping and Saudi Capital",
@@ -2977,297 +3118,6 @@
    ],
    "published": "2026-11-13T12:00:00+00:00",
    "updated": "2026-11-13T19:43:38.668017+00:00"
-  },
-  {
-   "id": "6307c8deb173",
-   "headline": "UN launches platform to mobilize $3 bn for climate disaster risk financing",
-   "summary": "UN agencies unveiled a joint platform at COP31 to secure more than $3 billion in risk financing, aiming to protect 75 million people and their livelihoods from climate‑related shocks and natural hazards by 2030. The initiative seeks to provide pre‑disaster funding mechanisms that can be deployed quickly across vulnerable regions.",
-   "country": "Global",
-   "regions": [
-    "Developing nations",
-    "Climate‑vulnerable regions"
-   ],
-   "inside": "People in climate‑vulnerable countries will gain access to pre‑disaster financing, helping safeguard their livelihoods and reduce the impact of extreme weather events.",
-   "beyond": "The platform will shape international climate‑finance flows, influencing donor countries, global financial markets, and multilateral climate agreements.",
-   "category": "Climate & disasters",
-   "importance": 68,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 7,
-    "cross_border": 6,
-    "durability": 5
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/19-02-2026-WFP_MOZ_Martim-Pereira_DSC01926.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168794",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "New platform aims to get money moving before disaster strikes",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168794"
-    }
-   ],
-   "published": "2026-11-12T12:00:00+00:00",
-   "updated": "2026-11-13T12:19:53.641728+00:00"
-  },
-  {
-   "id": "bbb154b9ce3d",
-   "headline": "US officials meet Putin and Zelenskyy after Abu Dhabi talks, agree prisoner swap and plan European involvement",
-   "summary": "U.S. envoys met Russian President Vladimir Putin in Moscow following Abu Dhabi peace talks that produced a Russia‑Ukraine prisoner‑exchange agreement. The meetings set the stage for further negotiations, including the prospect of European participation in the next round of talks.",
-   "country": "Ukraine",
-   "regions": [
-    "Russia",
-    "United States",
-    "European Union",
-    "Ireland"
-   ],
-   "inside": "Ukrainians could see the release of captured soldiers and civilians, easing personal suffering and raising hopes for a broader de‑escalation of the war.",
-   "beyond": "The talks involve the United States and Europe, influencing NATO strategy, EU security policy, and the overall geopolitical balance between Russia and the West.",
-   "category": "Politics & law",
-   "importance": 82,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 8,
-    "durability": 7
-   },
-   "sources": [
-    {
-     "name": "NPR",
-     "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks"
-    },
-    {
-     "name": "NPR",
-     "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
-     "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
-    },
-    {
-     "name": "DW",
-     "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
-     "url": "https://www.dw.com/en/what-have-the-talks-with-russia-and-the-us-in-abu-dhabi-achieved-for-ukraine/a-79930613?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-     "name": "DW",
-     "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
-     "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-     "name": "BBC News",
-     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-     "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "name": "France 24",
-     "title": "'Big development' in peace talks as Ukraine says Europe to join Russia negotiations",
-     "url": "https://www.france24.com/en/video/20261113-big-development-in-peace-talks-as-ukraine-says-europe-to-join-russia-negotiations"
-    }
-   ],
-   "published": "2026-11-12T09:38:46+00:00",
-   "updated": "2026-11-13T12:06:11.682050+00:00"
-  },
-  {
-   "id": "15c4515e563c",
-   "headline": "Global Microsoft outage disrupts email, collaboration tools in 74 countries",
-   "summary": "Microsoft’s Outlook, Teams and Copilot services suffered a widespread outage affecting users in 74 countries. The disruption halted email, online meetings and school communications for businesses, governments and educational institutions, and the company attributes the issue to elevated infrastructure loads.",
-   "country": "Global",
-   "regions": [
-    "Various (74 countries)"
-   ],
-   "inside": "People in the affected nations lost access to email, online meetings and school platforms, interrupting daily work, education and government communications.",
-   "beyond": "The outage hampered international business and cross‑border collaboration, delaying communications and transactions that rely on Microsoft’s cloud services worldwide.",
-   "category": "Technology",
-   "importance": 70,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 6,
-    "cross_border": 8,
-    "durability": 5
-   },
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Live: Local services, schools hit by global Microsoft outage as disruption continues",
-     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Microsoft hit by global outages: What happened and why?",
-     "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss"
-    },
-    {
-     "name": "BBC News",
-     "title": "What we know about the global Microsoft outage",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Live: Microsoft struggles to restore services as outage hits global users",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-13T03:44:22+00:00",
-   "updated": "2026-11-13T12:06:11.682050+00:00"
-  },
-  {
-   "id": "df288b099f8e",
-   "headline": "Israeli airstrike hits Gaza's Nasser Hospital, killing six and injuring dozens",
-   "summary": "An Israeli airstrike struck the Nasser Hospital in Khan Younis, Gaza, killing six people—including a surgeon—and wounding around 28 others. The attack caused extensive damage to one of the few remaining medical facilities in the enclave, worsening the humanitarian crisis.",
-   "country": "Palestine",
-   "regions": [
-    "Israel",
-    "Middle East"
-   ],
-   "inside": "Gaza residents lost six lives and dozens were injured, and the hospital's ability to treat patients has been severely compromised.",
-   "beyond": "The strike escalates tensions between Israel and the broader Arab world, drawing international condemnation and raising the risk of wider regional conflict.",
-   "category": "Conflict",
-   "importance": 80,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 7,
-    "durability": 8
-   },
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168796"
-    },
-    {
-     "name": "The Guardian",
-     "title": "Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others",
-     "url": "https://www.theguardian.com/world/2026/nov/12/israeli-airstrike-nasser-hospital-gaza-kills-surgeon"
-    }
-   ],
-   "published": "2026-11-12T12:00:00+00:00",
-   "updated": "2026-11-13T12:06:11.682050+00:00"
-  },
-  {
-   "id": "15c4515e563c",
-   "headline": "Microsoft works to restore global Outlook and Teams outage affecting businesses and public services",
-   "summary": "Microsoft is scrambling to fix a widespread outage that has taken down Outlook, Teams and other services for users worldwide. The disruption has impacted hospitals, schools, police forces and many businesses, though the company says there is no evidence of a cyber‑attack.",
-   "country": "Global",
-   "regions": [
-    "United Kingdom"
-   ],
-   "inside": "In the UK the outage halted email for hospitals, general practitioners, schools and police, forcing staff to rely on alternative communication methods and delaying routine operations.",
-   "beyond": "The outage affected millions of users in other countries, interrupting corporate communications, remote work and online collaboration across the globe.",
-   "category": "Technology",
-   "importance": 74,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 7,
-    "cross_border": 9,
-    "durability": 4
-   },
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "🔴 Live: Microsoft 'not aware of any malicious activity' behind global Outlook outage",
-     "url": "https://www.france24.com/en/technology/20261113-major-microsoft-outlook-outage-disrupts-services-in-74-countries"
-    },
-    {
-     "name": "The Guardian",
-     "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-     "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
-    }
-   ],
-   "published": "2026-11-13T09:18:23+00:00",
-   "updated": "2026-11-13T12:06:11.682050+00:00"
-  },
-  {
-   "id": "ff8180ddaf74",
-   "headline": "WFP chief warns funding cuts deepen hunger crisis for millions in Sudan",
-   "summary": "The new Executive Director of the World Food Programme says that reduced funding is worsening the hunger emergency in Sudan after visiting displaced families. Millions of Sudanese face severe food insecurity and rely on aid as the crisis deepens.",
-   "country": "Sudan",
-   "regions": [
-    "South Sudan",
-    "Chad",
-    "Ethiopia"
-   ],
-   "inside": "Sudanese families, especially those displaced by conflict, are experiencing worsening food shortages and heightened risk of starvation without increased aid.",
-   "beyond": "The deteriorating humanitarian situation could trigger larger refugee flows and regional instability, affecting neighboring countries and international aid commitments.",
-   "category": "Health",
-   "importance": 74,
-   "confidence": 8,
-   "scores": {
-    "scale": 9,
-    "severity": 9,
-    "cross_border": 4,
-    "durability": 7
-   },
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168793"
-    }
-   ],
-   "published": "2026-11-12T12:00:00+00:00",
-   "updated": "2026-11-13T12:06:11.682050+00:00"
-  },
-  {
-   "id": "11f8b08f00bc",
-   "headline": "World leaders at COP31 focus on cities and climate impacts amid activist pressure",
-   "summary": "At COP31, UN officials highlighted the human cost of climate change, from flooded homes to melting Himalayan glaciers, and urged action to protect cities and vulnerable communities. Activists pressed governments for stronger commitments, while leaders discussed policies to address urban climate risks.",
-   "country": "Global",
-   "regions": [],
-   "inside": "Communities worldwide are experiencing flooding, glacier melt and other climate‑related hazards that were emphasized at the summit.",
-   "beyond": "Decisions taken at COP31 will influence climate policies, financing and adaptation measures in many nations, shaping emissions trajectories and city resilience across borders.",
-   "category": "Climate & disasters",
-   "importance": 87,
-   "confidence": 7,
-   "scores": {
-    "scale": 9,
-    "severity": 9,
-    "cross_border": 9,
-    "durability": 7
-   },
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "COP31: Cities rise up the climate agenda as leaders face demands for action",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168792"
-    }
-   ],
-   "published": "2026-11-12T12:00:00+00:00",
-   "updated": "2026-11-13T12:06:11.682050+00:00"
-  },
-  {
-   "id": "304879f3b6f1",
-   "headline": "UN report says over 1,000 killed in Haiti in third quarter amid gang violence",
-   "summary": "A United Nations human‑rights report says more than 1,000 people were killed in Haiti between July and September as armed gangs continue to terrorise Port‑au‑Prince and other areas. The killings highlight a deepening security and humanitarian crisis on the island.",
-   "country": "Haiti",
-   "regions": [
-    "Dominican Republic",
-    "Caribbean region"
-   ],
-   "inside": "Haitians are living under constant threat from armed gangs, with thousands killed and many more displaced, disrupting daily life and basic services.",
-   "beyond": "The violence risks spilling over borders, prompting refugee flows to the Dominican Republic and raising regional security concerns.",
-   "category": "Conflict",
-   "importance": 70,
-   "confidence": 8,
-   "scores": {
-    "scale": 7,
-    "severity": 9,
-    "cross_border": 4,
-    "durability": 8
-   },
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168789"
-    }
-   ],
-   "published": "2026-11-12T12:00:00+00:00",
-   "updated": "2026-11-13T12:06:11.682050+00:00"
   }
  ]
 }
