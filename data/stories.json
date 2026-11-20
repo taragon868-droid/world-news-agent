@@ -1,6 +1,220 @@
 {
- "updated": "2026-11-20T12:54:14.265310+00:00",
+ "updated": "2026-11-20T21:50:08.424722+00:00",
  "stories": [
+  {
+   "id": "7c408c6ff522",
+   "headline": "EU and UK reach landmark agreement on trade, youth mobility and carbon quotas",
+   "summary": "The European Union and the United Kingdom have signed a landmark deal covering youth mobility, streamlined food export checks, trade facilitation and carbon‑emission quota coordination. Leaders said the pact marks a fresh start in rebuilding post‑Brexit relations between the bloc and Britain.",
+   "country": "United Kingdom",
+   "regions": [
+    "European Union"
+   ],
+   "inside": "British citizens will benefit from easier travel and work opportunities for young people, smoother food imports and potential economic gains from reduced trade barriers.",
+   "beyond": "EU member states will see improved market access for British goods, coordinated carbon‑quota mechanisms and increased mobility for their own youth, strengthening overall EU‑UK economic ties.",
+   "category": "Economy & trade",
+   "importance": 74,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 8,
+    "durability": 6
+   },
+   "image": "https://s.france24.com/media/display/9c262fdc-e4ef-11f1-b8c1-6b451f569414/w:1024/p:16x9/burnham-00-00-07-21-Still001.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
+   "sources": [
+    {
+     "name": "DW",
+     "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+     "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "France 24",
+     "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
+     "url": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit"
+    }
+   ],
+   "published": "2026-11-20T14:30:00+00:00",
+   "updated": "2026-11-20T21:50:08.424722+00:00"
+  },
+  {
+   "id": "5cb09b8a8cc2",
+   "headline": "Russia Launches Deadly Strikes Across Ukraine as Missiles Land in Poland",
+   "summary": "Russia carried out widespread missile strikes across Ukraine, killing at least six people in the capital of Kyiv. Neighboring Poland, a NATO member, reported that Russian missiles landed within its borders during the barrage, labeling the incident a provocation though no injuries or damage were reported.",
+   "country": "Ukraine",
+   "regions": [
+    "Poland",
+    "Russia"
+   ],
+   "inside": "Residents in Kyiv and across Ukraine experienced intense bombardment, resulting in at least six confirmed deaths in the capital.",
+   "beyond": "Missiles landed in southeastern Poland, prompting the NATO member state to accuse Moscow of a provocation and raising international security concerns.",
+   "category": "Conflict",
+   "importance": 72,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 8,
+    "cross_border": 8,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/eee66c42-e4ee-11f1-9776-13439ca2fe89/w:1024/p:16x9/EN-20261120-150718-151143-CS.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Russia pummels Ukraine with massive strikes, missile hits Poland",
+     "url": "https://www.france24.com/en/video/20261120-russia-pummels-ukraine-with-massive-strikes-missile-hits-poland"
+    },
+    {
+     "name": "BBC News",
+     "title": "What we know about the latest Russian missile strikes on Ukraine",
+     "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+     "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-20T14:36:48+00:00",
+   "updated": "2026-11-20T21:50:08.424722+00:00"
+  },
+  {
+   "id": "c8aa98c984c0",
+   "headline": "UN reports record settler attacks on West Bank olive harvest, urges protection for farmers",
+   "summary": "UN agencies and humanitarian NGOs say more than 400 attacks by Israeli settlers have targeted Palestinian olive growers during this season’s harvest, causing injuries and damage to crops and equipment. The agencies are calling on Israel to ensure the safety of the farmers and protect their livelihoods.",
+   "country": "Israel",
+   "regions": [
+    "Palestinian territories",
+    "Jordan",
+    "Gaza Strip"
+   ],
+   "inside": "Palestinian farmers in the West Bank are losing harvests, facing injuries and property damage, and living in heightened fear during the crucial olive season.",
+   "beyond": "The violence heightens tensions between Israel and the Palestinian population, drawing international criticism and potentially affecting regional diplomatic relations.",
+   "category": "Conflict",
+   "importance": 62,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 5,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_OCHA_Palestine_olive_grove.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168849"
+    }
+   ],
+   "published": "2026-11-20T12:00:00+00:00",
+   "updated": "2026-11-20T21:50:08.424722+00:00"
+  },
+  {
+   "id": "6a53385fc1ba",
+   "headline": "UNICEF warns of record child casualties and harsh winter conditions in war‑torn Ukraine",
+   "summary": "UNICEF reported that Ukraine is experiencing its deadliest year for children, with rising casualties and severe hardships such as destroyed playgrounds, power outages and freezing classrooms during a brutal winter. The conflict is jeopardizing the safety, health and education of millions of Ukrainian youngsters.",
+   "country": "Ukraine",
+   "regions": [
+    "Poland",
+    "Romania",
+    "Hungary",
+    "Moldova"
+   ],
+   "inside": "Ukrainian children are facing destroyed schools and kindergartens, prolonged power cuts, extreme cold, and a surge in injuries and deaths, directly threatening their safety and right to education.",
+   "beyond": "Neighbouring countries are coping with large numbers of Ukrainian child refugees and heightened humanitarian assistance needs, straining regional resources and prompting international aid responses.",
+   "category": "Conflict",
+   "importance": 76,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 5,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/17-10-2025-UNICEF-Ukraine-03.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168847",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168847"
+    }
+   ],
+   "published": "2026-11-20T12:00:00+00:00",
+   "updated": "2026-11-20T21:50:08.424722+00:00"
+  },
+  {
+   "id": "de0c6d311e75",
+   "headline": "World Food Programme Seeks Over $12 Billion to Support 91 Million Facing Hunger",
+   "summary": "The World Food Programme has announced it needs $12.1 billion to provide food assistance to 91 million people next year. The agency warned that persistent funding shortages threaten to leave millions more without aid amid a worsening global hunger crisis.",
+   "country": "Global",
+   "regions": [],
+   "inside": "Tens of millions of people facing severe food insecurity depend on international aid to avoid hunger and malnutrition.",
+   "beyond": "International donor governments face calls to supply billions of dollars to prevent widespread food crises worldwide.",
+   "category": "Health",
+   "importance": 83,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-08-2023_WFP_Yemen-01.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168846",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "WFP plans to assist 91 million in 2027 as hunger crisis deepens",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168846"
+    }
+   ],
+   "published": "2026-11-20T12:00:00+00:00",
+   "updated": "2026-11-20T21:50:08.424722+00:00"
+  },
+  {
+   "id": "e2a13b8cf530",
+   "headline": "Countries push for stronger climate action as COP31 negotiations near conclusion",
+   "summary": "A coalition of nations from Europe, Africa, Latin America and the Pacific is challenging the draft COP31 agreement, demanding explicit cuts to fossil‑fuel use and greater climate finance. With the summit’s final day approaching, activists warn of a possible failure while negotiators scramble for a deal that can satisfy nearly 200 governments.",
+   "country": "Global",
+   "regions": [
+    "Europe",
+    "Africa",
+    "Latin America",
+    "Pacific"
+   ],
+   "inside": "People in the participating regions could see stricter emissions regulations and increased funding for climate adaptation, directly influencing daily life, economic activities and public health.",
+   "beyond": "The final COP31 outcome will shape global climate policy, affecting economies, energy markets and environmental conditions worldwide, especially in countries dependent on fossil fuels.",
+   "category": "Climate & disasters",
+   "importance": 84,
+   "confidence": 7,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/55662349225_208649f008_k.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168845",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168845"
+    }
+   ],
+   "published": "2026-11-20T12:00:00+00:00",
+   "updated": "2026-11-20T21:50:08.424722+00:00"
+  },
   {
    "id": "c4176800e835",
    "headline": "El Salvador's President Bukele seeks a third term after constitutional amendment removes term limits",
@@ -2978,146 +3192,6 @@
    ],
    "published": "2026-11-13T12:00:00+00:00",
    "updated": "2026-11-14T00:53:52.906854+00:00"
-  },
-  {
-   "id": "bdd0e4592905",
-   "headline": "Iran claims it struck US radar in Bahrain in retaliation for US airstrike",
-   "summary": "Iran's Islamic Revolutionary Guard Corps says it destroyed a US early‑warning radar in Bahrain as retaliation for a US strike on a communications tower in the Strait of Hormuz. The United States reported intercepting the attack, and the incident heightens regional tensions over the strategic waterway.",
-   "country": "Iran",
-   "regions": [
-    "Bahrain",
-    "United States",
-    "Gulf states",
-    "Strait of Hormuz"
-   ],
-   "inside": "The attack puts US personnel and infrastructure in Bahrain at risk and signals Iran's willingness to engage directly with US forces, affecting Iranian public perception of its military strength.",
-   "beyond": "The strike escalates Iran‑US tensions and could disrupt oil shipments through the Strait of Hormuz, impacting global energy markets and neighboring Gulf countries.",
-   "category": "Conflict",
-   "importance": 74,
-   "confidence": 7,
-   "scores": {
-    "scale": 7,
-    "severity": 8,
-    "cross_border": 8,
-    "durability": 6
-   },
-   "image": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
-   "sources": [
-    {
-     "name": "The Guardian",
-     "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
-     "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
-    },
-    {
-     "name": "DW",
-     "title": "Iran targeted US radar system in Bahrain",
-     "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf"
-    }
-   ],
-   "published": "2026-11-13T13:52:11+00:00",
-   "updated": "2026-11-13T19:43:38.668017+00:00"
-  },
-  {
-   "id": "103108477fca",
-   "headline": "UN urges rapid delivery of winter aid to Gaza amid deadly rains",
-   "summary": "The United Nations and partner agencies issued an urgent appeal for winter humanitarian supplies to be allowed into the Gaza Strip after deadly rainfall caused casualties and damage. They warned that lives are at stake and called for swift entry of food, water, medical and shelter aid.",
-   "country": "Palestine",
-   "regions": [
-    "Israel",
-    "Egypt",
-    "Middle East"
-   ],
-   "inside": "Residents of Gaza need immediate food, water, medical care and shelter as the recent rains have caused deaths, injuries and infrastructure damage.",
-   "beyond": "The humanitarian crisis adds pressure on neighboring Israel and Egypt, potentially affecting regional stability and prompting international diplomatic responses.",
-   "category": "Other",
-   "importance": 74,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 5,
-    "durability": 7
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/07-11-2026-UNNews-Gaza-Winter.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168799",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168799"
-    }
-   ],
-   "published": "2026-11-13T12:00:00+00:00",
-   "updated": "2026-11-13T19:43:38.668017+00:00"
-  },
-  {
-   "id": "5863602333ba",
-   "headline": "UN launches initiative to ensure reliable climate information from AI",
-   "summary": "The United Nations announced new guidance under COP31 to help people obtain trustworthy climate‑change data from artificial intelligence and to understand AI’s environmental impact. The effort aims to improve the quality of climate information worldwide.",
-   "country": "Global",
-   "regions": [],
-   "inside": "People worldwide will receive clearer, more reliable climate data through AI tools, helping them make informed personal and community decisions about adaptation and mitigation.",
-   "beyond": "The guidance supports international cooperation by standardising climate‑information practices, aiding governments and organizations across borders in their climate strategies.",
-   "category": "Climate & disasters",
-   "importance": 65,
-   "confidence": 7,
-   "scores": {
-    "scale": 7,
-    "severity": 5,
-    "cross_border": 8,
-    "durability": 6
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/09/14-09-2026_Adobe_AI.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168798",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "COP31: New initiative targets AI and reliable climate change information",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168798"
-    }
-   ],
-   "published": "2026-11-13T12:00:00+00:00",
-   "updated": "2026-11-13T19:43:38.668017+00:00"
-  },
-  {
-   "id": "3f7bf1b8e45a",
-   "headline": "Armed attacks hinder Ebola response in DRC, worsening outbreak",
-   "summary": "The United Nations says the Ebola outbreak in the Democratic Republic of Congo is expanding as armed groups repeatedly target civilians and frontline health workers, blocking containment measures. The violence endangers thousands of Congolese and raises the risk of the disease spreading to neighboring states.",
-   "country": "Democratic Republic of the Congo",
-   "regions": [
-    "Uganda",
-    "Rwanda",
-    "Burundi",
-    "South Sudan",
-    "Central African Republic"
-   ],
-   "inside": "Congolese communities face a higher chance of infection and reduced access to medical care as health workers are attacked and health facilities are disrupted.",
-   "beyond": "The outbreak threatens neighboring countries, which could see cross‑border transmission and must allocate resources to prevent spread, while regional stability is undermined by the ongoing conflict.",
-   "category": "Health",
-   "importance": 78,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 6,
-    "durability": 8
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/27-10-2026_WHO_DRC_Ebola_Survivor.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168797",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168797"
-    }
-   ],
-   "published": "2026-11-13T12:00:00+00:00",
-   "updated": "2026-11-13T19:43:38.668017+00:00"
   }
  ]
 }
