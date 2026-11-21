@@ -1,6 +1,117 @@
 {
- "updated": "2026-11-21T12:39:51.935657+00:00",
+ "updated": "2026-11-21T20:32:02.261159+00:00",
  "stories": [
+  {
+   "id": "221cd0d83698",
+   "headline": "Mexican forces capture top cartel leader known as “El Chapo Isidro”",
+   "summary": "Mexican military special‑forces raided Sinaloa and arrested Fausto Isidro Meza Flores, a top drug‑trafficking boss on the FBI’s most‑wanted list. The arrest triggered gun battles and heightened violence in the region, and it is expected to influence U.S. drug‑enforcement efforts.",
+   "country": "Mexico",
+   "regions": [
+    "United States",
+    "Central America"
+   ],
+   "inside": "Residents of Sinaloa face increased security operations and a surge in violence as rival groups react to the power vacuum left by the arrest.",
+   "beyond": "The United States, which had listed the suspect among its most‑wanted fugitives, may see shifts in drug‑trafficking routes and a need for heightened border‑security measures.",
+   "category": "Politics & law",
+   "importance": 64,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 7,
+    "cross_border": 6,
+    "durability": 5
+   },
+   "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=140&quality=85&auto=format&fit=max&s=8e424ac24ad3eb43602b54fde7ef7bfb",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+     "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested"
+    },
+    {
+     "name": "NPR",
+     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+    }
+   ],
+   "published": "2026-11-21T16:03:16+00:00",
+   "updated": "2026-11-21T20:32:02.261159+00:00"
+  },
+  {
+   "id": "286cc01f5f7e",
+   "headline": "Russia launches large‑scale drone and missile barrage on Ukraine, killing at least nine",
+   "summary": "Russia fired more than 400 drones and 110 missiles across Ukraine, striking Kyiv and President Zelensky’s hometown. The attacks killed at least nine people and wounded dozens, highlighting the ongoing conflict and Ukraine’s push to join NATO.",
+   "country": "Ukraine",
+   "regions": [
+    "Russia",
+    "NATO"
+   ],
+   "inside": "The strikes caused civilian deaths, dozens of injuries, and widespread fear and disruption for residents of Kyiv and central Ukraine.",
+   "beyond": "The attacks heighten security concerns for neighboring states and NATO members, reinforcing the geopolitical tension surrounding Ukraine’s NATO aspirations.",
+   "category": "Conflict",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://s.france24.com/media/display/a1864982-e5d3-11f1-8806-1bac47ab2f5d/w:1024/p:16x9/EN-20261121-180653-181143-CS-01.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
+   "sources": [
+    {
+     "name": "Al Jazeera",
+     "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "Russia launches ballistic missile attack on Zelensky's hometown in central Ukraine",
+     "url": "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine"
+    }
+   ],
+   "published": "2026-11-21T18:42:38+00:00",
+   "updated": "2026-11-21T20:32:02.261159+00:00"
+  },
+  {
+   "id": "fd52e88d6863",
+   "headline": "Widespread Gang Violence and Climate Shocks Leave Millions Hungry in Haiti",
+   "summary": "Persistent insecurity, armed gang violence, and economic instability have combined with climate shocks to severely impact Haiti's agricultural sector. As a consequence of failed harvests and displacement, millions of Haitians are currently unable to meet their basic food needs.",
+   "country": "Haiti",
+   "regions": [],
+   "inside": "Millions of residents face acute hunger and displacement, while farmers are forced to abandon homes and grapple with damaged harvests under the threat of armed gangs.",
+   "beyond": "",
+   "category": "Conflict",
+   "importance": 56,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 0,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/20-05-2024-UNICEF-Haiti-12.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168834"
+    }
+   ],
+   "published": "2026-11-21T12:00:00+00:00",
+   "updated": "2026-11-21T20:32:02.261159+00:00"
+  },
   {
    "id": "1deeaf75e425",
    "headline": "US and global powers respond cautiously to ICJ ruling holding Myanmar liable for Rohingya genocide",
@@ -3022,92 +3133,6 @@
    ],
    "published": "2026-11-14T12:00:00+00:00",
    "updated": "2026-11-14T22:25:10.556225+00:00"
-  },
-  {
-   "id": "ce2a35d9b8c2",
-   "headline": "U.S., Chinese and Russian leaders to hold first trilateral summit in China",
-   "summary": "President Trump, President Xi and President Putin will meet in Shenzhen during the APEC summit, marking the first ever three‑way summit of the three powers. The agenda is expected to cover nuclear weapons reduction and the United States' conflict with Iran, while the war in Ukraine is likely to be omitted. Observers warn the gathering could reshape global power balances.",
-   "country": "Global",
-   "regions": [
-    "United States",
-    "China",
-    "Russia",
-    "Iran",
-    "Ukraine"
-   ],
-   "inside": "Chinese citizens may experience heightened diplomatic activity and potential policy shifts stemming from any agreements on nuclear arms or regional conflicts discussed at the summit.",
-   "beyond": "Decisions made could alter nuclear arms policies, affect U.S. and Russian strategies toward Iran, and influence the broader security environment for Ukraine and other nations.",
-   "category": "Politics & law",
-   "importance": 91,
-   "confidence": 9,
-   "scores": {
-    "scale": 9,
-    "severity": 9,
-    "cross_border": 10,
-    "durability": 8
-   },
-   "image": "https://s.france24.com/media/display/d6e9de44-dfd0-11f1-a098-5f54d898a954/w:1024/p:16x9/AP26267449248594.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "China to host first-ever trilateral meeting between Trump, Xi and Putin next week",
-     "url": "https://www.france24.com/en/asia-pacific/20261114-china-to-host-first-ever-trilateral-meeting-between-trump-xi-and-putin-next-week-us-says"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss"
-    },
-    {
-     "name": "BBC News",
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
-    }
-   ],
-   "published": "2026-11-14T05:09:23+00:00",
-   "updated": "2026-11-14T16:37:22.890839+00:00"
-  },
-  {
-   "id": "8d01153a3f27",
-   "headline": "US reportedly suggests Ukraine trade Donbas for NATO membership, says Zelensky",
-   "summary": "Ukrainian President Volodymyr Zelensky says US envoys have floated a proposal that Ukraine cede the Donbas region to Russia in return for NATO membership. He rejected the idea, warning that such a deal would reshape Europe's security architecture and could spark further conflicts. The claim highlights ongoing diplomatic efforts to end the war.",
-   "country": "Ukraine",
-   "regions": [
-    "Russia",
-    "United States",
-    "NATO member states",
-    "Europe"
-   ],
-   "inside": "If accepted, the proposal would mean Ukraine losing control over the Donbas, affecting millions of residents through potential displacement, loss of governance, and continued insecurity.",
-   "beyond": "A deal linking Donbas to NATO membership would alter the security balance in Europe, potentially encouraging Russian aggression and reshaping NATO's eastward expansion, impacting US and European foreign policy.",
-   "category": "Conflict",
-   "importance": 86,
-   "confidence": 8,
-   "scores": {
-    "scale": 9,
-    "severity": 9,
-    "cross_border": 8,
-    "durability": 8
-   },
-   "image": "https://s.france24.com/media/display/70cfdcca-e012-11f1-8f8f-5f54d898a954/w:1024/p:16x9/AP26316802067115.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
-     "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership"
-    },
-    {
-     "name": "BBC News",
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
-    }
-   ],
-   "published": "2026-11-14T10:30:04+00:00",
-   "updated": "2026-11-14T16:37:22.890839+00:00"
   }
  ]
 }
