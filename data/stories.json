@@ -1,6 +1,133 @@
 {
- "updated": "2026-11-21T03:13:59.000011+00:00",
+ "updated": "2026-11-21T12:39:51.935657+00:00",
  "stories": [
+  {
+   "id": "1deeaf75e425",
+   "headline": "US and global powers respond cautiously to ICJ ruling holding Myanmar liable for Rohingya genocide",
+   "summary": "The International Court of Justice ruled that Myanmar is responsible for genocide against the Rohingya and ordered restitution and reparations. The United States welcomed the decision with caution, while China warned of judicial overreach, underscoring deep international divisions over the ruling and its implementation.",
+   "country": "Myanmar",
+   "regions": [
+    "United States",
+    "China",
+    "European Union",
+    "Bangladesh"
+   ],
+   "inside": "The ruling offers a legal acknowledgment of the atrocities faced by the Rohingya, raising hopes for justice but also highlighting the long road to tangible change for those still displaced within Myanmar and neighboring countries.",
+   "beyond": "The decision influences global diplomatic dynamics, prompting reactions from major powers and potentially shaping future international legal actions, aid policies, and regional stability.",
+   "category": "Politics & law",
+   "importance": 70,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 9,
+    "cross_border": 6,
+    "durability": 5
+   },
+   "image": "https://i.guim.co.uk/img/media/5988d82b73797347e49b6c59007fbef9ae747fbb/264_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3d3d5da12d382fb35136edd4ce049ed7",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
+     "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
+    },
+    {
+     "name": "DW",
+     "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+     "url": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "France 24",
+     "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
+     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu"
+    },
+    {
+     "name": "The Guardian",
+     "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
+     "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories"
+    }
+   ],
+   "published": "2026-11-20T11:57:43+00:00",
+   "updated": "2026-11-21T12:39:51.935657+00:00"
+  },
+  {
+   "id": "8dbe631aa2db",
+   "headline": "UN extends talks on AI weapon regulations without binding agreement",
+   "summary": "Delegates at the UN's Convention on Certain Conventional Weapons failed to adopt legally binding rules for lethal autonomous weapons, opting instead to keep discussions open for another two years and aim for more detailed rules by 2028. The outcome leaves the development and deployment of AI‑driven killer robots largely unchecked for the near future.",
+   "country": "Global",
+   "regions": [
+    "United Nations member states"
+   ],
+   "inside": "Citizens in each nation could eventually face the deployment of autonomous weapons that operate without human oversight, raising concerns for personal safety, civil liberties, and the risk of unintended casualties.",
+   "beyond": "The lack of a binding framework may accelerate an international arms race in AI‑driven weaponry, affect diplomatic relations, and increase security tensions among countries worldwide.",
+   "category": "Politics & law",
+   "importance": 80,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "NPR",
+     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+     "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-21T08:08:01+00:00",
+   "updated": "2026-11-21T12:39:51.935657+00:00"
+  },
+  {
+   "id": "b18d2ecc8787",
+   "headline": "Russian projectiles strike Poland, raising NATO tensions",
+   "summary": "Three Russian munitions, including a jet‑powered drone and missiles, landed in Poland near the Ukrainian border, prompting NATO to condemn a violation of Polish airspace. The incidents have heightened tensions between Russia and NATO and raised questions about a possible collective defence response.",
+   "country": "Poland",
+   "regions": [
+    "Russia",
+    "Ukraine",
+    "NATO member states",
+    "Europe"
+   ],
+   "inside": "Polish citizens face heightened security alerts and the risk of further attacks, with military exercises and civilian areas potentially disrupted.",
+   "beyond": "The strikes strain relations between Russia and NATO, influencing security postures across Europe and affecting Ukraine's ongoing conflict dynamics.",
+   "category": "Conflict",
+   "importance": 70,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 8,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/e70ff4a2-e58e-11f1-ba7b-6b451f569414/w:1024/p:16x9/EN-20261121-100222-100408-CS.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Russian projectiles hit Poland as NATO tensions rise",
+     "url": "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+     "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-21T09:47:05+00:00",
+   "updated": "2026-11-21T12:39:51.935657+00:00"
+  },
   {
    "id": "9b9ee78ddf96",
    "headline": "UN General Assembly President urges action on genocide ruling during visit to Rohingya camps in Bangladesh",
@@ -2981,83 +3108,6 @@
    ],
    "published": "2026-11-14T10:30:04+00:00",
    "updated": "2026-11-14T16:37:22.890839+00:00"
-  },
-  {
-   "id": "6bfb2c5371ec",
-   "headline": "Germany grants intelligence agencies expanded powers to counter hybrid threats",
-   "summary": "Germany's parliament approved legislation giving its foreign and domestic intelligence services broader authority to combat espionage, terrorism and sabotage, following a foiled airport attack linked to Russia. The new powers aim to boost national security but raise concerns about civil liberties.",
-   "country": "Germany",
-   "regions": [
-    "Russia",
-    "European Union"
-   ],
-   "inside": "German citizens may face increased surveillance and stronger protection against foreign espionage, terrorism and sabotage.",
-   "beyond": "The legislation could heighten tensions with Russia and affect security cooperation with other European nations.",
-   "category": "Politics & law",
-   "importance": 72,
-   "confidence": 9,
-   "scores": {
-    "scale": 7,
-    "severity": 8,
-    "cross_border": 6,
-    "durability": 8
-   },
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg",
-   "image_credit": "BBC News",
-   "image_link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    {
-     "name": "BBC News",
-     "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-     "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "German spies granted sweeping new powers",
-     "url": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-13T15:42:52+00:00",
-   "updated": "2026-11-14T08:58:54.960544+00:00"
-  },
-  {
-   "id": "78407fc29898",
-   "headline": "Microsoft restores global services after day‑long outage",
-   "summary": "Microsoft confirmed that all its services, including Teams, Outlook and Copilot, are back online after a worldwide outage that lasted over 24 hours and disrupted communications for businesses and governments. The issue has been resolved and authorities said there was no link to the US air‑traffic stoppage.",
-   "country": "Global",
-   "regions": [
-    "United States",
-    "Europe",
-    "Asia"
-   ],
-   "inside": "People and organizations in affected countries lost access to email, video meetings and collaboration tools for a full day, hampering work and government operations.",
-   "beyond": "The outage underscored the global reliance on cloud platforms, prompting concerns about digital infrastructure resilience and prompting discussions among governments and firms worldwide.",
-   "category": "Technology",
-   "importance": 74,
-   "confidence": 9,
-   "scores": {
-    "scale": 9,
-    "severity": 7,
-    "cross_border": 9,
-    "durability": 2
-   },
-   "image": "https://s.france24.com/media/display/847567e0-dfef-11f1-93ed-695cb59fade5/w:1024/p:16x9/AP26313848301021.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Microsoft says all services 'fully recovered' after global outage",
-     "url": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving"
-    },
-    {
-     "name": "BBC News",
-     "title": "Microsoft says services fully restored after day-long global outage",
-     "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-    }
-   ],
-   "published": "2026-11-14T06:07:56+00:00",
-   "updated": "2026-11-14T08:58:54.960544+00:00"
   }
  ]
 }
