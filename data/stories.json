@@ -1,6 +1,77 @@
 {
- "updated": "2026-11-22T09:51:04.831124+00:00",
+ "updated": "2026-11-22T17:50:02.520485+00:00",
  "stories": [
+  {
+   "id": "a13ce2be8e70",
+   "headline": "COP31 climate summit ends without deal following rejection of draft text",
+   "summary": "The COP31 UN climate negotiations in Turkey concluded without an agreement after several participants rejected the final draft. The European Union, the United Kingdom, and developing allies opposed the text because it omitted any reference to fossil fuels following pushback from oil-producing nations.",
+   "country": "Global",
+   "regions": [
+    "Turkey",
+    "European Union",
+    "United Kingdom"
+   ],
+   "inside": "The failure to adopt a consensus text stalls international climate action and coordinated emission reduction goals across participating nations.",
+   "beyond": "Diplomatic rifts between oil-producing countries and a coalition comprising the EU, the UK, and developing nations have left future multilateral climate commitments in uncertainty.",
+   "category": "Climate & disasters",
+   "importance": 75,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 6,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Cop31 climate talks break down as key deal rejected",
+     "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+     "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-22T16:14:46+00:00",
+   "updated": "2026-11-22T17:50:02.520485+00:00"
+  },
+  {
+   "id": "0e71b2d3ffbf",
+   "headline": "COP31 ends without a climate agreement, UN chief stresses clear scientific consensus",
+   "summary": "The United Nations climate summit COP31 concluded without a new pact, as negotiators could not bridge divisions over fossil‑fuel policies. UN Secretary‑General António Guterres called the outcome a deeply disappointing setback despite clear scientific evidence of climate urgency.",
+   "country": "Global",
+   "regions": [
+    "All countries"
+   ],
+   "inside": "People worldwide continue to face heightened climate risks and uncertainty about future emissions reductions due to the lack of new commitments.",
+   "beyond": "The failure to reach a deal hampers international cooperation, influencing national climate policies, investment decisions, and diplomatic relations across nations.",
+   "category": "Climate & disasters",
+   "importance": 84,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_COP31-Close1.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168855"
+    }
+   ],
+   "published": "2026-11-22T12:00:00+00:00",
+   "updated": "2026-11-22T17:50:02.520485+00:00"
+  },
   {
    "id": "f908da6e29c9",
    "headline": "South Korean education minister resigns amid AI‑assisted exam cheating scandal",
@@ -3001,56 +3072,6 @@
    ],
    "published": "2026-11-15T17:33:00+00:00",
    "updated": "2026-11-15T21:03:11.477857+00:00"
-  },
-  {
-   "id": "4592e808467b",
-   "headline": "Iran launches drone attacks on US base in Bahrain",
-   "summary": "Iran's Islamic Revolutionary Guard Corps said it sent six drones at a U.S. radar installation at an air base in Bahrain, which the Bahraini military intercepted. The strikes heighten tensions between the United States and Iran and raise concerns over security in the Strait of Hormuz.",
-   "country": "Bahrain",
-   "regions": [
-    "Iran",
-    "United States",
-    "Gulf Cooperation Council states",
-    "Strait of Hormuz"
-   ],
-   "inside": "Bahraini residents faced air‑defence alerts and the risk of further attacks, while the presence of U.S. forces on the island heightened local security concerns.",
-   "beyond": "The attacks risk escalating U.S.–Iran tensions, could disrupt oil shipments through the Strait of Hormuz, and affect global energy markets and diplomatic relations across the Middle East.",
-   "category": "Conflict",
-   "importance": 75,
-   "confidence": 9,
-   "scores": {
-    "scale": 6,
-    "severity": 8,
-    "cross_border": 9,
-    "durability": 7
-   },
-   "image": "https://s.france24.com/media/display/3bb0cb5a-e0d8-11f1-a866-3f371022a770/w:1024/p:16x9/000-99GY7E6-1.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Iran claims attack on US military airbase in Bahrain",
-     "url": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Iran targets US military radar in Bahrain in ‘retaliatory’ drone strikes",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/iran-targets-us-military-radar-in-bahrain-in-retaliatory-drone-strikes?traffic_source=rss"
-    },
-    {
-     "name": "BBC News",
-     "title": "Iran targets US military base in Bahrain with drone attack",
-     "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "name": "France 24",
-     "title": "Iran claims drone attack on US military base in Bahrain",
-     "url": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain"
-    }
-   ],
-   "published": "2026-11-15T09:57:35+00:00",
-   "updated": "2026-11-15T15:40:06.271809+00:00"
   }
  ]
 }
