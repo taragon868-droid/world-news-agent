@@ -1,6 +1,74 @@
 {
- "updated": "2026-11-22T02:14:35.247766+00:00",
+ "updated": "2026-11-22T09:51:04.831124+00:00",
  "stories": [
+  {
+   "id": "f908da6e29c9",
+   "headline": "South Korean education minister resigns amid AI‑assisted exam cheating scandal",
+   "summary": "South Korea's education minister stepped down after a scandal involving AI‑driven cheating during the nation’s crucial university entrance exams. The incident exposed gaps in exam security and prompted emergency measures that caused widespread disruption.",
+   "country": "South Korea",
+   "regions": [],
+   "inside": "Students and their families face uncertainty over exam fairness and future university placements, while schools scramble to tighten security and restore confidence.",
+   "beyond": "The scandal may prompt other countries to review their own exam security protocols, but direct effects remain limited.",
+   "category": "Politics & law",
+   "importance": 52,
+   "confidence": 9,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 2,
+    "durability": 5
+   },
+   "image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=b27cbf562e91080e6b506b93ff0b44c3",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+     "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+    },
+    {
+     "name": "BBC News",
+     "title": "South Korea education minister resigns over exam cheating scandal",
+     "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-22T05:04:39+00:00",
+   "updated": "2026-11-22T09:51:04.831124+00:00"
+  },
+  {
+   "id": "af765c390991",
+   "headline": "Midwife flees as fighting intensifies in Yemen, leaving clinic destroyed",
+   "summary": "Escalating fighting around Taiz in southwestern Yemen forced midwife Anisa Fadhl to abandon her home and clinic, which were later looted and destroyed. The loss of maternal health services underscores the dire humanitarian situation for pregnant women in the war zone.",
+   "country": "Yemen",
+   "regions": [
+    "Saudi Arabia",
+    "Oman"
+   ],
+   "inside": "Yemeni residents, especially pregnant women, lose access to essential maternity care as clinics are destroyed and health workers flee, exposing them to life‑threatening conditions.",
+   "beyond": "The conflict drives displacement and refugee flows into neighboring Saudi Arabia and Oman, increasing regional humanitarian burdens and security concerns.",
+   "category": "Conflict",
+   "importance": 76,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 4,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/19-11-2026_UNFPA_Yemen-01.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168851",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168851"
+    }
+   ],
+   "published": "2026-11-21T12:00:00+00:00",
+   "updated": "2026-11-22T09:51:04.831124+00:00"
+  },
   {
    "id": "221cd0d83698",
    "headline": "Mexican forces capture top cartel leader known as “El Chapo Isidro”",
@@ -2983,44 +3051,6 @@
    ],
    "published": "2026-11-15T09:57:35+00:00",
    "updated": "2026-11-15T15:40:06.271809+00:00"
-  },
-  {
-   "id": "22c97f639549",
-   "headline": "Netanyahu urges opposition leader Eisenkot to join an Israeli unity government",
-   "summary": "Israeli caretaker Prime Minister Benjamin Netanyahu publicly appealed to opposition leader Gadi Eisenkot to form a national unity government, but Eisenkot dismissed the request as a political ploy. The call comes amid ongoing negotiations to establish a new administration and could shape Israel's domestic stability and regional relations.",
-   "country": "Israel",
-   "regions": [
-    "Palestinian territories",
-    "Middle East"
-   ],
-   "inside": "Israeli citizens face uncertainty over policy direction, security measures, and economic decisions as the country remains without a fully formed government.",
-   "beyond": "Neighbouring states and the broader Middle East monitor Israel's political stability, which can influence peace negotiations, security coordination, and regional diplomatic dynamics.",
-   "category": "Politics & law",
-   "importance": 72,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 7,
-    "cross_border": 6,
-    "durability": 8
-   },
-   "image": "https://s.france24.com/media/display/e9d87c1e-e06a-11f1-b45a-f71d22e7fea9/w:1024/p:16x9/eb428c66bf6978a929203d6ac1afd3964fb560b1.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
-     "url": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Netanyahu sends plea to Eisenkot for unity government",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-14T20:35:22+00:00",
-   "updated": "2026-11-15T06:34:02.428509+00:00"
   }
  ]
 }
