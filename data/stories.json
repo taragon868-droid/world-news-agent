@@ -1,6 +1,276 @@
 {
- "updated": "2026-11-23T07:39:45.235598+00:00",
+ "updated": "2026-11-23T20:14:26.189494+00:00",
  "stories": [
+  {
+   "id": "b5b81b0987c1",
+   "headline": "COP31 climate summit ends without agreement, first failure in 17 years",
+   "summary": "The UN climate summit COP31 in Antalya concluded without a binding pact, marking the first collapse of the conference in 17 years. Delegates could not resolve disputes over fossil‑fuel phase‑out and financing for vulnerable nations, leaving global climate‑action targets and funding uncertain.",
+   "country": "Global",
+   "regions": [
+    "Turkey",
+    "Australia",
+    "Africa",
+    "Asia",
+    "Latin America",
+    "Small Island Developing States"
+   ],
+   "inside": "In Turkey, the host nation faces diplomatic disappointment and potential economic repercussions from the lack of climate‑finance commitments and criticism over the summit’s outcome.",
+   "beyond": "The failure delays worldwide climate finance and emissions‑reduction commitments, worsening climate risks for vulnerable countries across Africa, Asia, Latin America and small island states.",
+   "category": "Climate & disasters",
+   "importance": 85,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4edf/live/0b9a5c60-e70e-11f1-a094-5fdc692f3e33.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "What's next after no deal at COP31 climate talks?",
+     "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Five takeaways from the failed climate talks COP31",
+     "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "COP31 has failed. The climate system is working as designed",
+     "url": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Why did COP31 climate talks collapse without a deal?",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
+     "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest"
+    }
+   ],
+   "published": "2026-11-23T05:34:39+00:00",
+   "updated": "2026-11-23T20:14:26.189494+00:00"
+  },
+  {
+   "id": "84a71a80ed4c",
+   "headline": "India pledges $1.6 bn flood relief and infrastructure aid to Nepal as new prime minister seeks closer ties",
+   "summary": "India announced a $1.6 billion package for flood relief, port access and a new railway service for Nepal. Prime Minister Balendra Shah visited New Delhi, emphasizing economic cooperation while postponing contentious territorial issues.",
+   "country": "Nepal",
+   "regions": [
+    "India",
+    "South Asia"
+   ],
+   "inside": "The aid will fund reconstruction after deadly floods, improve transport links and boost trade, directly benefiting millions of Nepali citizens.",
+   "beyond": "India’s commitment deepens its strategic and economic influence in Nepal, affecting regional trade dynamics and diplomatic balances in South Asia.",
+   "category": "Politics & law",
+   "importance": 68,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 6,
+    "durability": 5
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "India pledges $1.6bn to Nepal in reset of ties",
+     "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "DW",
+     "title": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+     "url": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+     "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-23T13:39:30+00:00",
+   "updated": "2026-11-23T20:14:26.189494+00:00"
+  },
+  {
+   "id": "6e4fb4168ed0",
+   "headline": "UN chief decries failed COP31 talks, urges stronger climate action",
+   "summary": "Secretary‑General António Guterres expressed disappointment that the COP31 climate negotiations collapsed during his visit to Barbados. He called for tougher measures on fossil fuels, increased climate finance and greater support for vulnerable nations.",
+   "country": "Global",
+   "regions": [
+    "Barbados",
+    "Small island developing states",
+    "Developing countries"
+   ],
+   "inside": "People in Barbados see the UN leader highlighting their climate vulnerability and urging immediate action that could affect local policies and aid.",
+   "beyond": "The appeal is aimed at governments worldwide, seeking to shape emissions targets, finance flows and climate‑justice commitments that impact many nations.",
+   "category": "Climate & disasters",
+   "importance": 81,
+   "confidence": 7,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/22-11-2026_SG-Mottley-presser.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168856",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168856"
+    }
+   ],
+   "published": "2026-11-22T12:00:00+00:00",
+   "updated": "2026-11-23T20:14:26.189494+00:00"
+  },
+  {
+   "id": "b6f8417c285e",
+   "headline": "UN chief calls for global AI safety framework amid warnings of historic power shift",
+   "summary": "UN Secretary‑General António Guterres urged member states to start discussions on a multilateral framework to manage AI risks, saying the technology is driving the biggest transfer of power in human history. He highlighted the need for coordinated safeguards to protect societies and economies worldwide.",
+   "country": "Global",
+   "regions": [],
+   "inside": "People around the world could be directly affected by AI‑related risks to privacy, employment, and safety, making international regulation relevant to their daily lives.",
+   "beyond": "A global AI safety framework would shape how nations develop, deploy, and regulate AI, influencing economic competitiveness and security across all countries.",
+   "category": "Technology",
+   "importance": 85,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/11/23-11-2026-Barbados-Guterres-01.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168861",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168861"
+    }
+   ],
+   "published": "2026-11-23T12:00:00+00:00",
+   "updated": "2026-11-23T20:14:26.189494+00:00"
+  },
+  {
+   "id": "67d17308d9ce",
+   "headline": "UN Security Council discusses Russian attacks on Ukraine's power grid and Black Sea grain shipments",
+   "summary": "The UN Security Council convened to address Russian winter attacks on Ukraine's energy infrastructure that have left civilians without heat, power and water. It also examined strikes on Black Sea shipping that threaten the flow of Ukrainian grain to import‑dependent nations, raising global food‑security concerns.",
+   "country": "Ukraine",
+   "regions": [
+    "Russia",
+    "Black Sea region",
+    "Egypt",
+    "Turkey",
+    "Middle East",
+    "Africa"
+   ],
+   "inside": "Ukrainian civilians are experiencing cold temperatures, power outages and water shortages as Russian attacks cripple the national power grid.",
+   "beyond": "Disruptions to Black Sea grain shipments endanger food supplies for countries that rely on Ukrainian exports, potentially causing shortages and price spikes worldwide.",
+   "category": "Conflict",
+   "importance": 86,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/29-10-2026-UNHCR-Ukraine-winter.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168859",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168859"
+    }
+   ],
+   "published": "2026-11-23T12:00:00+00:00",
+   "updated": "2026-11-23T20:14:26.189494+00:00"
+  },
+  {
+   "id": "963c8811d214",
+   "headline": "Fighting in DRC's Ituri Province Disrupts Ebola Response",
+   "summary": "Intense fighting near a hospital in Ituri province has forced WHO and other Ebola responders to take cover for more than a day, halting critical treatment and surveillance. The interruption raises the risk of the outbreak spreading and endangers both patients and health workers.",
+   "country": "Democratic Republic of the Congo",
+   "regions": [
+    "Uganda",
+    "Rwanda",
+    "Burundi",
+    "South Sudan"
+   ],
+   "inside": "People in Ituri face reduced access to Ebola care, higher chances of infection, and delayed treatment as responders are unable to operate safely.",
+   "beyond": "Neighboring countries risk cross‑border transmission of Ebola and may need to strengthen their own surveillance and preparedness measures.",
+   "category": "Health",
+   "importance": 66,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 5,
+    "durability": 6
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/10/23-10-2026-WHO-DRC-ebola.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168858",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168858"
+    }
+   ],
+   "published": "2026-11-23T12:00:00+00:00",
+   "updated": "2026-11-23T20:14:26.189494+00:00"
+  },
+  {
+   "id": "786ea1605621",
+   "headline": "UN calls for investigation into attacks on Benghazi port and nearby waters",
+   "summary": "The United Nations Support Mission in Libya has urged an independent probe into recent attacks on Benghazi's port and offshore area. The mission highlighted concerns over security, civilian safety, and the disruption to a key economic hub.",
+   "country": "Libya",
+   "regions": [
+    "Mediterranean shipping lanes",
+    "Tunisia",
+    "Egypt"
+   ],
+   "inside": "Residents and workers in Benghazi face heightened safety risks and potential loss of jobs as port operations are disrupted.",
+   "beyond": "The attacks could impede regional maritime trade, prompting neighboring countries to reassess security measures for vessels transiting the eastern Mediterranean.",
+   "category": "Conflict",
+   "importance": 54,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 6,
+    "cross_border": 4,
+    "durability": 5
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/25-05-2022_OCHA_Libya.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168857",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Libya: UN mission urges probe into Benghazi port attacks",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168857"
+    }
+   ],
+   "published": "2026-11-23T12:00:00+00:00",
+   "updated": "2026-11-23T20:14:26.189494+00:00"
+  },
   {
    "id": "85c87ef6748c",
    "headline": "Drone strikes damage homes and UN building in Khartoum, killing civilians",
