@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:36:42.203339+00:00",
+ "updated": "2026-11-23T07:39:45.235598+00:00",
  "stories": [
   {
    "id": "85c87ef6748c",
@@ -2905,83 +2905,6 @@
    ],
    "published": "2026-11-16T12:00:00+00:00",
    "updated": "2026-11-16T20:29:51.535534+00:00"
-  },
-  {
-   "id": "569a6ecf55f1",
-   "headline": "Spain declares migration emergency as thousands of migrants arrive in Canary Islands",
-   "summary": "More than 2,200 migrants from West Africa have reached Spain's Canary Islands in two days, prompting authorities to declare a migration emergency. The sudden influx strains local resources and underscores broader regional migration challenges.",
-   "country": "Spain",
-   "regions": [
-    "West Africa",
-    "European Union"
-   ],
-   "inside": "The arrival of thousands of migrants overwhelms the Canary Islands' coastguard, shelters and public services, directly affecting both the newcomers and local residents.",
-   "beyond": "The surge puts pressure on Spain and the EU to address migration routes from West Africa, influencing bilateral relations and migration policy across the region.",
-   "category": "Migration",
-   "importance": 61,
-   "confidence": 9,
-   "scores": {
-    "scale": 6,
-    "severity": 7,
-    "cross_border": 5,
-    "durability": 6
-   },
-   "image": "https://s.france24.com/media/display/dfa79f7e-e112-11f1-89dc-695cb59fade5/w:1024/p:16x9/2026-11-12T193226Z-188193535-RC2HMOAF3FWG-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CANARY-ISLANDS.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss"
-    },
-    {
-     "name": "France 24",
-     "title": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
-     "url": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days"
-    }
-   ],
-   "published": "2026-11-15T17:39:23+00:00",
-   "updated": "2026-11-16T02:09:08.666182+00:00"
-  },
-  {
-   "id": "735bc3150eb4",
-   "headline": "Australia, Canada, Italy and the UK urge Israel to permit humanitarian aid into Gaza",
-   "summary": "Four Western nations called on Israel to allow the entry of tents and other critical supplies into Gaza as winter approaches, describing the humanitarian situation as dire. The joint statement urges Israel to lift restrictions that are blocking aid delivery to the densely populated enclave.",
-   "country": "Israel",
-   "regions": [
-    "Gaza",
-    "Palestinian territories",
-    "Middle East"
-   ],
-   "inside": "Residents of Gaza face severe shortages of shelter and basic supplies, especially with winter approaching, and the blockade hampers their ability to survive.",
-   "beyond": "The diplomatic pressure from Australia, Canada, Italy and the UK may affect Israel's international relations and could influence future aid coordination by other countries and NGOs.",
-   "category": "Politics & law",
-   "importance": 80,
-   "confidence": 9,
-   "scores": {
-    "scale": 9,
-    "severity": 9,
-    "cross_border": 6,
-    "durability": 7
-   },
-   "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=140&quality=85&auto=format&fit=max&s=f7bf201bcb081c3480d5b33a65ba7ba5",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-     "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss"
-    },
-    {
-     "name": "The Guardian",
-     "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
-     "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb"
-    }
-   ],
-   "published": "2026-11-15T22:06:38+00:00",
-   "updated": "2026-11-16T02:09:08.666182+00:00"
   }
  ]
 }
