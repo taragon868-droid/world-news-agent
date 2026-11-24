@@ -1,6 +1,155 @@
 {
- "updated": "2026-11-24T04:49:10.274018+00:00",
+ "updated": "2026-11-24T17:46:42.916240+00:00",
  "stories": [
+  {
+   "id": "444b8002985c",
+   "headline": "Israeli airstrike kills senior Hamas security chief and six others in Gaza",
+   "summary": "An Israeli airstrike in the Gaza Strip killed Brigadier General Naeem Abu Nahel, the head of Hamas' internal security service, along with six other people, including police officers and a teenager. The attack highlights the intensifying Israel‑Hamas conflict and raises concerns about further escalation in the region.",
+   "country": "Palestine",
+   "regions": [
+    "Israel",
+    "Egypt",
+    "Jordan",
+    "Lebanon"
+   ],
+   "inside": "Residents of Gaza face the loss of a senior security figure, additional civilian deaths, and heightened fear of continued air strikes, affecting daily safety and stability.",
+   "beyond": "The killing of a high‑ranking Hamas official may impact Israeli‑Hamas negotiations and could increase regional tensions, influencing neighboring countries that are closely monitoring the conflict.",
+   "category": "Conflict",
+   "importance": 74,
+   "confidence": 9,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 6,
+    "durability": 7
+   },
+   "image": "https://s.france24.com/media/display/627512ce-e802-11f1-ad6d-1991d4929b54/w:1024/p:16x9/000-D7J44LE.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
+     "url": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Israeli air strike kills senior Hamas security official in Gaza",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss"
+    },
+    {
+     "name": "BBC News",
+     "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-24T13:07:03+00:00",
+   "updated": "2026-11-24T17:46:42.916240+00:00"
+  },
+  {
+   "id": "ef4727089511",
+   "headline": "UN Security Council debates how AI and drones are reshaping modern warfare",
+   "summary": "The United Nations Security Council met to examine the growing role of artificial intelligence and unmanned drones in armed conflict, including their use in targeting and the spread of disinformation. Delegates discussed the need for new international rules to ensure conflict‑resolution mechanisms can keep pace with these technologies.",
+   "country": "Global",
+   "regions": [
+    "Conflict‑affected regions worldwide",
+    "All UN member states"
+   ],
+   "inside": "People living in war zones could face more precise, automated targeting and heightened exposure to AI‑driven disinformation, affecting their safety and civilian protection.",
+   "beyond": "Countries worldwide may need to revise legal frameworks, defense policies, and diplomatic strategies to address the security and ethical challenges posed by AI and drone warfare.",
+   "category": "Conflict",
+   "importance": 81,
+   "confidence": 7,
+   "scores": {
+    "scale": 8,
+    "severity": 8,
+    "cross_border": 9,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/23-10-2026_UNISFA_Abyei_Pakistan_peacekeepers.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168866",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Security Council LIVE: Can conflict resolution keep pace as AI and drones reshape war?",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168866"
+    }
+   ],
+   "published": "2026-11-24T12:00:00+00:00",
+   "updated": "2026-11-24T17:46:42.916240+00:00"
+  },
+  {
+   "id": "f00997e2ed72",
+   "headline": "WHO and Ebola responders trapped in DRC hospital as fighting escalates",
+   "summary": "World Health Organization staff and Ebola response teams are stuck inside a hospital in Ituri province, Democratic Republic of the Congo, because of heavy fighting nearby. The situation worsens an already severe Ebola outbreak and raises concerns about violence against women and girls in the area.",
+   "country": "Democratic Republic of the Congo",
+   "regions": [
+    "Uganda",
+    "Rwanda",
+    "Burundi",
+    "South Sudan",
+    "Central African Republic"
+   ],
+   "inside": "Health workers and patients are unable to receive or provide care, leaving the Ebola response crippled and exposing civilians to heightened disease risk and violence.",
+   "beyond": "The disruption could allow Ebola to spread across borders, threatening neighboring countries and adding to regional instability.",
+   "category": "Health",
+   "importance": 68,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 8,
+    "cross_border": 5,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/09/21-09-2026-WHO-DR-Congo-ebola-02.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168865",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "DR Congo: Concern for trapped Ebola workers as violence against women and girls deepens",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168865"
+    }
+   ],
+   "published": "2026-11-24T12:00:00+00:00",
+   "updated": "2026-11-24T17:46:42.916240+00:00"
+  },
+  {
+   "id": "071a95eb87ef",
+   "headline": "UN chief urges Colombia to fully implement landmark peace accord",
+   "summary": "UN Secretary‑General António Guterres praised Colombia’s progress since the 2016 Final Peace Agreement that ended more than five decades of insurgency, but warned that the country must now fully implement the deal’s provisions. He called for renewed commitment to ensure lasting peace and stability.",
+   "country": "Colombia",
+   "regions": [
+    "Venezuela",
+    "Ecuador",
+    "Panama",
+    "Latin America"
+   ],
+   "inside": "Full implementation of the peace deal will affect millions of Colombians by improving security, land restitution, political participation and economic opportunities for former combatants and affected communities.",
+   "beyond": "A stable Colombia reduces the risk of armed groups crossing borders and curbs refugee flows, contributing to greater security and stability in neighboring countries and the broader region.",
+   "category": "Politics & law",
+   "importance": 66,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 7,
+    "cross_border": 4,
+    "durability": 7
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/10/12-12-2026_Colombia_Peace_VerificationMission.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168864",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168864"
+    }
+   ],
+   "published": "2026-11-24T12:00:00+00:00",
+   "updated": "2026-11-24T17:46:42.916240+00:00"
+  },
   {
    "id": "43e2508d6326",
    "headline": "UN chief urges creation of a global AI safety framework within a year",
@@ -2496,374 +2645,6 @@
    ],
    "published": "2026-11-17T12:00:00+00:00",
    "updated": "2026-11-17T23:30:31.356531+00:00"
-  },
-  {
-   "id": "0a0e369d3f8b",
-   "headline": "UK imposes sanctions on Israeli firms building West Bank settlements",
-   "summary": "The United Kingdom announced sanctions on eight Israeli construction companies involved in building settlements in the occupied West Bank, aiming to curb settlement expansion and support a two‑state solution. The move marks a tougher British stance on Israeli actions in the territory and could affect the settlement economy and diplomatic relations.",
-   "country": "Israel",
-   "regions": [
-    "United Kingdom",
-    "Palestinian territories"
-   ],
-   "inside": "Israeli construction firms face asset freezes and trade restrictions, limiting their ability to build new settlements, which directly impacts the land and rights of Palestinians living in the West Bank.",
-   "beyond": "The sanctions signal a shift in UK foreign policy that may influence other Western governments' approaches to the Israeli‑Palestinian conflict and could strain diplomatic ties between the UK and Israel.",
-   "category": "Politics & law",
-   "importance": 64,
-   "confidence": 9,
-   "scores": {
-    "scale": 7,
-    "severity": 7,
-    "cross_border": 6,
-    "durability": 5
-   },
-   "image": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=140&quality=85&auto=format&fit=max&s=021f9a4119628590d1131a080748867b",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
-   "sources": [
-    {
-     "name": "The Guardian",
-     "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-     "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
-     "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss"
-    },
-    {
-     "name": "BBC News",
-     "title": "UK sanctions firms over Israeli West Bank settlements",
-     "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss"
-    }
-   ],
-   "published": "2026-11-17T12:18:08+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "e5d9fce6ba25",
-   "headline": "Iran denies reports of planning a dirty‑bomb attack on Washington",
-   "summary": "U.S. officials say they have received intelligence about a possible Iranian plan to use a radioactive device against officials in Washington, D.C., and President Trump says the threat is being taken seriously. Iran has dismissed the claim as fabricated, calling the reports false.",
-   "country": "United States",
-   "regions": [
-    "Iran",
-    "Global"
-   ],
-   "inside": "If the alleged plot were real, it could endanger millions of residents and workers in the Washington, D.C. area and cause widespread panic and disruption.",
-   "beyond": "The allegation heightens tensions between the United States and Iran, potentially influencing diplomatic relations and security policies in other allied nations.",
-   "category": "Politics & law",
-   "importance": 72,
-   "confidence": 6,
-   "scores": {
-    "scale": 7,
-    "severity": 8,
-    "cross_border": 7,
-    "durability": 6
-   },
-   "image": "https://s.france24.com/media/display/33aa0a04-e298-11f1-ba28-1ba7ddfab527/w:1024/p:16x9/AP26321504671499.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
-   "sources": [
-    {
-     "name": "DW",
-     "title": "Iran dismisses report of alleged 'dirty bomb' attack on Washington",
-     "url": "https://www.dw.com/en/iran-dismisses-report-of-alleged-dirty-bomb-attack-on-washington/a-79970741?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Is Iran plotting a ‘dirty bomb’ attack in the US? What we know",
-     "url": "https://www.aljazeera.com/news/2026/11/17/is-iran-plotting-a-dirty-bomb-attack-in-the-us-what-we-know?traffic_source=rss"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss"
-    },
-    {
-     "name": "France 24",
-     "title": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
-     "url": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously"
-    }
-   ],
-   "published": "2026-11-17T14:39:00+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "d01ce23ff843",
-   "headline": "Trump travels to Asia for APEC meeting with Xi and Putin, discussing Ukraine and trade amid Nvidia controversy",
-   "summary": "U.S. President Donald Trump is heading to Asia for the APEC summit, where he will meet Chinese President Xi Jinping and Russian President Vladimir Putin. The talks are expected to cover Ukraine, trade, Iran and arms control, while Silicon Valley leaders press for Nvidia CEO Jensen Huang's return. The trip comes as Trump faces domestic political backlash after the midterm elections.",
-   "country": "United States",
-   "regions": [
-    "China",
-    "Russia",
-    "Ukraine",
-    "Iran",
-    "APEC member economies"
-   ],
-   "inside": "American voters and businesses could feel the impact of any new trade policies, sanctions, or tech industry decisions that emerge from Trump's discussions, especially regarding Nvidia and broader economic ties.",
-   "beyond": "The meeting could reshape U.S.-China and U.S.-Russia relations, influence the course of the Ukraine conflict, and affect global markets and security dynamics across the Asia‑Pacific region.",
-   "category": "Politics & law",
-   "importance": 76,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 7,
-    "cross_border": 9,
-    "durability": 6
-   },
-   "image": null,
-   "image_credit": null,
-   "image_link": null,
-   "sources": [
-    {
-     "name": "NPR",
-     "title": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-     "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
-    },
-    {
-     "name": "NPR",
-     "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
-     "url": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy"
-    },
-    {
-     "name": "DW",
-     "title": "APEC summit: What Trump, Xi and Putin want",
-     "url": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf"
-    }
-   ],
-   "published": "2026-11-16T10:00:00+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "607d35342c8a",
-   "headline": "US Deploys Third Aircraft Carrier to Middle East Amid Iran Tensions",
-   "summary": "The United States has sent its third aircraft carrier, the USS Theodore Roosevelt, to the Middle East as President Trump weighs options against Iran after Tehran claimed a drone attack on a US radar system in Bahrain. The deployment heightens military presence in the region and raises the risk of further escalation.",
-   "country": "United States",
-   "regions": [
-    "Iran",
-    "Bahrain",
-    "Saudi Arabia",
-    "Israel",
-    "Gulf states"
-   ],
-   "inside": "American citizens may face the prospect of U.S. troops being drawn into a direct conflict with Iran, with potential casualties and economic repercussions, while residents of Bahrain experience heightened security threats from Iranian attacks and the presence of additional U.S. forces.",
-   "beyond": "The carrier deployment could destabilize the broader Middle East, impact global oil markets, and involve regional allies such as Saudi Arabia and Israel, potentially drawing other nations into the dispute.",
-   "category": "Conflict",
-   "importance": 76,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 8,
-    "cross_border": 7,
-    "durability": 7
-   },
-   "image": "https://i.guim.co.uk/img/media/f8920d7c62e46771a24c52857d1e30a2b7a5ef2d/494_0_4935_3948/master/4935.jpg?width=140&quality=85&auto=format&fit=max&s=e5f5afca13cfe9bfc8bbfadae70fd1db",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military",
-   "sources": [
-    {
-     "name": "The Guardian",
-     "title": "Third US aircraft carrier brings thousands more troops to Middle East",
-     "url": "https://www.theguardian.com/us-news/2026/nov/16/aircraft-middle-east-trump-military"
-    },
-    {
-     "name": "France 24",
-     "title": "Third US aircraft carrier arrives in the Middle East as Iran targets Bahrain",
-     "url": "https://www.france24.com/en/video/20261117-third-us-aircraft-carrier-arrives-in-the-middle-east-as-iran-targets-bahrain"
-    }
-   ],
-   "published": "2026-11-16T21:13:02+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "3ed305e1ffb4",
-   "headline": "Ukraine attacks key Russian bridge to Crimea with drones and missiles",
-   "summary": "Ukrainian forces carried out a coordinated drone and missile strike on a vital rail and road bridge linking Russia to occupied Crimea, which President Zelenskyy called an unprecedented operation. The attack coincided with Russia downing a record number of Ukrainian drones and striking bridges in Kyiv, heightening the intensity of the conflict.",
-   "country": "Russia",
-   "regions": [
-    "Ukraine",
-    "Crimea",
-    "Kyiv",
-    "Europe"
-   ],
-   "inside": "The strike disrupts a major transport link for Russia and the occupied Crimean peninsula, affecting civilian travel, supply chains and raising security concerns for residents in the area.",
-   "beyond": "The operation escalates tensions between Russia and Ukraine, drawing international attention and potentially influencing European security calculations and energy logistics.",
-   "category": "Conflict",
-   "importance": 67,
-   "confidence": 9,
-   "scores": {
-    "scale": 6,
-    "severity": 8,
-    "cross_border": 6,
-    "durability": 7
-   },
-   "image": "https://s.france24.com/media/display/3fef4026-e280-11f1-b561-1ba7ddfab527/w:1024/p:16x9/EN-20261117-130150-130338-CS.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/video/20261117-ukraine-strikes-major-russian-bridge-in-crimea-with-drones-and-missiles",
-   "sources": [
-    {
-     "name": "NPR",
-     "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
-     "url": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war"
-    },
-    {
-     "name": "France 24",
-     "title": "Ukraine strikes major Russian bridge in Crimea with drones and missiles",
-     "url": "https://www.france24.com/en/video/20261117-ukraine-strikes-major-russian-bridge-in-crimea-with-drones-and-missiles"
-    }
-   ],
-   "published": "2026-11-17T09:50:45+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "82ea4c937294",
-   "headline": "US President Trump lands in Philippines ahead of Quad meeting and upcoming nuclear talks with China and Russia",
-   "summary": "President Donald Trump arrived in Manila to begin a three‑day Asian tour, encountering protests and preparing for the Quad summit. He will later travel to China for a historic three‑way nuclear discussion with President Xi Jinping and President Vladimir Putin.",
-   "country": "Philippines",
-   "regions": [
-    "United States",
-    "China",
-    "Russia",
-    "Indo‑Pacific region"
-   ],
-   "inside": "Filipinos see protests and heightened security as the US president visits Manila, affecting daily life and local political sentiment.",
-   "beyond": "The planned nuclear talks and Quad meeting could reshape security dynamics among the United States, China, Russia and other Indo‑Pacific nations.",
-   "category": "Politics & law",
-   "importance": 84,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 9,
-    "durability": 7
-   },
-   "image": "https://s.france24.com/media/display/3bcbaca8-e26e-11f1-a00c-5f54d898a954/w:1024/p:16x9/EN-20261117-101225-101519-CS.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Trump arrives in Philippines to kick off Asia trip",
-     "url": "https://www.france24.com/en/video/20261117-trump-arrives-in-philippines-to-kick-off-asia-trip"
-    },
-    {
-     "name": "NPR",
-     "title": "Trump arrives in Philippines to kick off Asia trip",
-     "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
-    }
-   ],
-   "published": "2026-11-17T10:21:23+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "4b88ce23b69e",
-   "headline": "Ukraine attacks Kerch bridge linking Russia to Crimea, causing partial collapse",
-   "summary": "Ukraine launched a missile and drone assault on the Kerch Bridge, the main land link between Russia and the annexed Crimea, inflicting major damage and a partial collapse. The strike, called unprecedented by Kyiv, highlights the intensifying conflict between Russia and Ukraine.",
-   "country": "Russia",
-   "regions": [
-    "Ukraine",
-    "Crimea",
-    "Europe"
-   ],
-   "inside": "The damage disrupts travel, trade and military logistics for people in Russia and the occupied Crimean peninsula, raising safety concerns for commuters and residents.",
-   "beyond": "The attack escalates tensions between Russia and Ukraine, drawing international attention and potentially influencing diplomatic and security dynamics across the region.",
-   "category": "Conflict",
-   "importance": 76,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 8,
-    "cross_border": 7,
-    "durability": 7
-   },
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
-   "image_credit": "BBC News",
-   "image_link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    {
-     "name": "BBC News",
-     "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-     "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss"
-    },
-    {
-     "name": "BBC News",
-     "title": "How the attack on Crimean Bridge unfolded",
-     "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss"
-    }
-   ],
-   "published": "2026-11-17T13:01:11+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "209cd10fe6c0",
-   "headline": "WFP provides food aid to Kenyan families displaced by Ethiopia violence",
-   "summary": "The World Food Programme is delivering food assistance to thousands of families who have fled recent violence in Ethiopia and taken refuge in Kenya's Moyale area. The aid aims to prevent hunger and address urgent humanitarian needs among the displaced population.",
-   "country": "Kenya",
-   "regions": [
-    "Ethiopia",
-    "Horn of Africa"
-   ],
-   "inside": "Kenyan families in the Moyale border region are receiving food supplies from the WFP to alleviate hunger caused by their sudden displacement.",
-   "beyond": "The influx of refugees from Ethiopia adds pressure on Kenya's resources and highlights the regional impact of the conflict in Ethiopia.",
-   "category": "Migration",
-   "importance": 62,
-   "confidence": 8,
-   "scores": {
-    "scale": 6,
-    "severity": 7,
-    "cross_border": 5,
-    "durability": 7
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026_WFP_Kenya_Visit_Moyale_.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168822",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168822"
-    }
-   ],
-   "published": "2026-11-17T12:00:00+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
-  },
-  {
-   "id": "c0f996bc37a2",
-   "headline": "Winter rains worsen shelter and food crisis in Gaza",
-   "summary": "Heavy winter rains have flooded makeshift shelters in Gaza, destroying limited food supplies and worsening sanitation conditions. Displaced families are now struggling to stay warm and obtain enough food amid restricted access and aid cuts.",
-   "country": "Palestine",
-   "regions": [
-    "Israel",
-    "Middle East"
-   ],
-   "inside": "Gaza residents are facing flooded shelters, loss of scarce food stocks, deteriorating sanitation and a lack of heating, deepening their humanitarian emergency.",
-   "beyond": "The worsening crisis puts pressure on neighboring Israel and regional aid donors, potentially heightening tensions and increasing the need for international humanitarian assistance.",
-   "category": "Climate & disasters",
-   "importance": 72,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 4,
-    "durability": 7
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/17-11-2026-UNICEF-Gaza.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168821",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168821"
-    }
-   ],
-   "published": "2026-11-17T12:00:00+00:00",
-   "updated": "2026-11-17T16:00:25.866652+00:00"
   }
  ]
 }
