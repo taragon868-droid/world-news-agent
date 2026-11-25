@@ -1,6 +1,143 @@
 {
- "updated": "2026-11-25T02:30:39.393410+00:00",
+ "updated": "2026-11-25T14:23:23.869992+00:00",
  "stories": [
+  {
+   "id": "ed632e0b8edc",
+   "headline": "Salvadorian man at center of US deportation dispute departs for Spain",
+   "summary": "Kilmar Ábrego García, the Salvadorian figure who became a focal point in the US's Trump-era immigration controversy, has left the United States voluntarily and traveled to Spain after a Supreme Court ruling. His departure marks the end of a high‑profile legal battle that highlighted tensions over US deportation policies.",
+   "country": "United States",
+   "regions": [
+    "El Salvador",
+    "Spain"
+   ],
+   "inside": "The case has been cited by advocates and critics in the US as a symbol of the broader immigration enforcement debate, influencing public opinion and potentially shaping future policy.",
+   "beyond": "The saga drew diplomatic attention from El Salvador and Spain, underscoring international concerns over deportation practices and migrant rights.",
+   "category": "Politics & law",
+   "importance": 55,
+   "confidence": 9,
+   "scores": {
+    "scale": 7,
+    "severity": 5,
+    "cross_border": 4,
+    "durability": 6
+   },
+   "image": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=cc50a0643f2aa3990ed51abd6f550f8d",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+     "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
+    },
+    {
+     "name": "BBC News",
+     "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+     "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss"
+    }
+   ],
+   "published": "2026-11-24T23:50:31+00:00",
+   "updated": "2026-11-25T14:23:23.869992+00:00"
+  },
+  {
+   "id": "6bb1a9bf25e8",
+   "headline": "Solomon Islands ends China security pact and signs new agreement with Australia",
+   "summary": "The Solomon Islands government announced it will terminate its controversial security agreement with China and replace it with a treaty that requires consultation with Australia before any future security or infrastructure deals. The shift is intended to reduce regional uncertainty and bring the Pacific nation closer to Australian security interests.",
+   "country": "Solomon Islands",
+   "regions": [
+    "Australia",
+    "China",
+    "Pacific region"
+   ],
+   "inside": "Solomon Islanders will experience a change in foreign military and infrastructure involvement, influencing national security policy and potentially affecting local projects and sovereignty.",
+   "beyond": "The move reshapes the strategic balance in the Indo‑Pacific, affecting Australia‑China relations and broader regional security dynamics.",
+   "category": "Politics & law",
+   "importance": 71,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33d1/live/b36a7310-e87d-11f1-98e2-c97dce6bef0d.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+     "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Solomon Islands signs security deal with Australia",
+     "url": "https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-25T03:15:12+00:00",
+   "updated": "2026-11-25T14:23:23.869992+00:00"
+  },
+  {
+   "id": "732902948ae8",
+   "headline": "UN Deputy Secretary-General urges urgent action to end violence against women",
+   "summary": "UN Deputy Secretary-General Amina Mohammed warned that another woman or girl could be killed by a partner or family member before she finished speaking, calling for justice for survivors and accountability for perpetrators. She appealed to governments and societies to strengthen protections and enforce consequences for violence against women.",
+   "country": "Global",
+   "regions": [],
+   "inside": "Women and girls worldwide face the constant threat of lethal domestic violence, and the UN’s call seeks to improve legal protection, support services, and accountability in their own countries.",
+   "beyond": "The statement aims to influence member states to adopt stronger policies, allocate resources, and cooperate internationally to combat gender‑based violence.",
+   "category": "Politics & law",
+   "importance": 84,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 7,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/24-11-2026-UN-Women-GBV-03.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168868",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168868"
+    }
+   ],
+   "published": "2026-11-24T12:00:00+00:00",
+   "updated": "2026-11-25T14:23:23.869992+00:00"
+  },
+  {
+   "id": "e22d72274c3b",
+   "headline": "UN reports 47,000 women killed by partners or family in 2025, five per hour",
+   "summary": "The United Nations released data showing that about 47,000 women and girls were murdered by intimate partners or family members in 2025, averaging five deaths each hour. The figures underscore the persistent global crisis of gender‑based lethal violence.",
+   "country": "Global",
+   "regions": [],
+   "inside": "Women and girls in many nations are directly affected, facing lethal intimate‑partner or family violence that shatters families and communities.",
+   "beyond": "The magnitude of the problem shapes international human‑rights policies, funding allocations, and legal reforms across countries.",
+   "category": "Politics & law",
+   "importance": 72,
+   "confidence": 8,
+   "scores": {
+    "scale": 8,
+    "severity": 9,
+    "cross_border": 3,
+    "durability": 9
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-11-25-Unsplash-girl-hand.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168863",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Five women killed every hour by partners or family members",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168863"
+    }
+   ],
+   "published": "2026-11-24T12:00:00+00:00",
+   "updated": "2026-11-25T14:23:23.869992+00:00"
+  },
   {
    "id": "52c4d0168f9a",
    "headline": "Car bomb hits Colombian city, injuring dozens and damaging government buildings",
@@ -2491,88 +2628,6 @@
    ],
    "published": "2026-11-18T12:00:00+00:00",
    "updated": "2026-11-18T17:16:03.620442+00:00"
-  },
-  {
-   "id": "6010abf0a7f6",
-   "headline": "Israeli Parliament Elects Matan Kahana as Speaker, Advancing Efforts to Replace Netanyahu",
-   "summary": "According to reports from France 24, The Guardian, and Al Jazeera, the Israeli Knesset has elected Matan Kahana as its new speaker with backing from opposition and Arab parties. Kahana is an ally of Gadi Eisenkot, who is attempting to assemble a coalition to succeed Prime Minister Benjamin Netanyahu. The appointment represents a pivotal move toward unwinding legislative initiatives passed under Netanyahu's administration.",
-   "country": "Israel",
-   "regions": [],
-   "inside": "The installation of a new speaker allows opponents of the current administration to begin rolling back prior legislative policies and shaping domestic governance.",
-   "beyond": "The provided reports focus on internal coalition building and do not detail specific impacts on other countries.",
-   "category": "Politics & law",
-   "importance": 54,
-   "confidence": 8,
-   "scores": {
-    "scale": 6,
-    "severity": 5,
-    "cross_border": 4,
-    "durability": 7
-   },
-   "image": "https://s.france24.com/media/display/855e62f8-e290-11f1-bec3-6d75ed565170/w:1024/p:16x9/AP26321467242182.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Israeli parliament elects Eisenkot ally Matan Kahana as speaker in blow for Netanyahu",
-     "url": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker"
-    },
-    {
-     "name": "France 24",
-     "title": "🔴Israeli parliament elects Eisenkot ally Matan Kahana as new Knesset speaker",
-     "url": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker"
-    },
-    {
-     "name": "The Guardian",
-     "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
-     "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
-     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-17T21:24:31+00:00",
-   "updated": "2026-11-18T07:29:47.271532+00:00"
-  },
-  {
-   "id": "cf4b064fa705",
-   "headline": "Mary Peltola becomes first Alaska Native US Senator after close race",
-   "summary": "Mary Peltola won Alaska's U.S. Senate seat, becoming the first Alaska Native to serve in the Senate. The victory shifts the state's partisan balance and brings Indigenous representation to the federal legislature, though the result may face legal challenges.",
-   "country": "United States",
-   "regions": [
-    "Alaska"
-   ],
-   "inside": "Alaskans and other U.S. voters gain a new Senate voice that may prioritize Indigenous issues and regional concerns, influencing legislation that affects daily life and resources.",
-   "beyond": "The change in Senate composition could subtly affect U.S. foreign policy and trade decisions, but direct impacts on other countries are limited.",
-   "category": "Politics & law",
-   "importance": 56,
-   "confidence": 9,
-   "scores": {
-    "scale": 7,
-    "severity": 6,
-    "cross_border": 2,
-    "durability": 8
-   },
-   "image": "https://i.guim.co.uk/img/media/a746cc58fa65deee3aafa726758878f9bd801392/532_318_2937_2350/master/2937.jpg?width=140&quality=85&auto=format&fit=max&s=8869a08f117f3b859f3c91649b07cac0",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis",
-   "sources": [
-    {
-     "name": "Al Jazeera",
-     "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
-     "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss"
-    },
-    {
-     "name": "The Guardian",
-     "title": "‘Aarigaa!’: the triumph of Mary Peltola’s historic US Senate win and what it means for Alaska Natives",
-     "url": "https://www.theguardian.com/us-news/2026/nov/18/mary-peltola-alaska-win-analysis"
-    }
-   ],
-   "published": "2026-11-18T03:28:41+00:00",
-   "updated": "2026-11-18T07:29:47.271532+00:00"
   }
  ]
 }
