@@ -1,6 +1,81 @@
 {
- "updated": "2026-11-26T00:21:33.401804+00:00",
+ "updated": "2026-11-26T10:54:41.458663+00:00",
  "stories": [
+  {
+   "id": "ee1e34064bcb",
+   "headline": "Explosion at Bangkok oil depot creates fireball and thick smoke",
+   "summary": "A large explosion at an oil depot in Bangkok produced a massive fireball and dense black smoke, prompting authorities to order evacuations for nearby residents. While no casualties have been confirmed, the blast raises concerns about safety, air quality, and potential disruptions to fuel supplies.",
+   "country": "Thailand",
+   "regions": [
+    "Myanmar",
+    "Laos",
+    "Cambodia",
+    "Southeast Asia"
+   ],
+   "inside": "People living close to the depot were told to evacuate and faced immediate risks from fire, smoke inhalation, and possible secondary explosions.",
+   "beyond": "The incident could temporarily affect regional fuel availability and influence oil prices across Southeast Asia.",
+   "category": "Energy",
+   "importance": 52,
+   "confidence": 8,
+   "scores": {
+    "scale": 6,
+    "severity": 7,
+    "cross_border": 3,
+    "durability": 4
+   },
+   "image": "https://s.france24.com/media/display/bb241806-e975-11f1-910a-1991d4929b54/w:1024/p:16x9/AP26330310262383.jpg",
+   "image_credit": "France 24",
+   "image_link": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
+   "sources": [
+    {
+     "name": "France 24",
+     "title": "Huge explosion at oil depot in Bangkok sends fireball into sky",
+     "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Explosion rocks Bangkok oil depot",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-26T08:27:20+00:00",
+   "updated": "2026-11-26T10:54:41.458663+00:00"
+  },
+  {
+   "id": "b15305e65488",
+   "headline": "Gaza widows struggle to support families after war",
+   "summary": "Women in Gaza who lost their husbands in the recent conflict now have to provide shelter, water, and education for their children while living in tents. The story highlights their lack of rights and the heavy burden they bear.",
+   "country": "Palestine",
+   "regions": [
+    "Israel",
+    "Egypt",
+    "Jordan",
+    "Middle East"
+   ],
+   "inside": "Widows in Gaza must find shelter, secure water, and keep their children in school while living in makeshift tents, taking on double responsibilities after losing their spouses.",
+   "beyond": "The humanitarian crisis adds pressure on regional aid efforts and influences diplomatic discussions between Israel, neighboring states, and international donors.",
+   "category": "Politics & law",
+   "importance": 72,
+   "confidence": 8,
+   "scores": {
+    "scale": 7,
+    "severity": 9,
+    "cross_border": 5,
+    "durability": 8
+   },
+   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/25-11-2026_Ziad_Gaza_Widows_2.jpg/image560x340cropped.jpg",
+   "image_credit": "UN News",
+   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+   "sources": [
+    {
+     "name": "UN News",
+     "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+     "url": "https://news.un.org/feed/view/en/story/2026/11/1168875"
+    }
+   ],
+   "published": "2026-11-25T12:00:00+00:00",
+   "updated": "2026-11-26T10:54:41.458663+00:00"
+  },
   {
    "id": "7940036035fa",
    "headline": "US proposes tariffs on 14 trading partners including EU and China",
@@ -2210,389 +2285,6 @@
    ],
    "published": "2026-11-19T12:00:00+00:00",
    "updated": "2026-11-19T20:38:14.352770+00:00"
-  },
-  {
-   "id": "23d5709759ee",
-   "headline": "South Korea tightens security for university entrance exam after AI cheating scandal",
-   "summary": "South Korea has introduced extraordinary security measures for the Suneung university entrance exam after a top scorer admitted using a hidden camera and AI to cheat. More than 550,000 candidates will be subject to extra supervision, glass inspections and stickered devices, raising concerns about exam integrity and future AI misuse.",
-   "country": "South Korea",
-   "regions": [],
-   "inside": "Students taking the Suneung exam will face stricter checks, additional supervisors, and restrictions on personal devices, increasing stress but aiming to protect the fairness of the test that determines university admission.",
-   "beyond": "The scandal may prompt other nations to review and tighten security for high‑stakes examinations and consider regulations on AI‑assisted cheating tools.",
-   "category": "Politics & law",
-   "importance": 60,
-   "confidence": 8,
-   "scores": {
-    "scale": 8,
-    "severity": 7,
-    "cross_border": 3,
-    "durability": 5
-   },
-   "image": "https://i.guim.co.uk/img/media/291cc6ecd5e65b702c8158243baa0233602cba73/501_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=508a09f51a91f0a82c9b0fcf2109c3eb",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-   "sources": [
-    {
-     "name": "The Guardian",
-     "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
-     "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures"
-    },
-    {
-     "name": "France 24",
-     "title": "South Korea tightens security for national exam over AI cheating scandal",
-     "url": "https://www.france24.com/en/south-korea-tightens-security-for-national-exam-over-ai-cheating-scandal"
-    }
-   ],
-   "published": "2026-11-18T02:03:27+00:00",
-   "updated": "2026-11-19T10:21:57.634796+00:00"
-  },
-  {
-   "id": "f7c34df723c2",
-   "headline": "World Court to Decide Myanmar Rohingya Genocide Case",
-   "summary": "The International Court of Justice will issue a verdict on whether Myanmar's military actions in Rakhine State amount to genocide against the Rohingya. The ruling, the court's first genocide decision in more than a decade, could have far‑reaching legal and political consequences.",
-   "country": "Myanmar",
-   "regions": [
-    "Bangladesh",
-    "Southeast Asia",
-    "International community"
-   ],
-   "inside": "The decision could lead to accountability measures, reparations, or policy changes that directly affect the safety, rights, and future of the Rohingya and other Myanmar citizens.",
-   "beyond": "The verdict may set a precedent for international genocide law, shape diplomatic relations with Myanmar, and impact neighboring Bangladesh, which hosts large numbers of Rohingya refugees.",
-   "category": "Politics & law",
-   "importance": 80,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 7,
-    "durability": 8
-   },
-   "image": null,
-   "image_credit": null,
-   "image_link": null,
-   "sources": [
-    {
-     "name": "DW",
-     "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
-     "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-     "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-18T14:27:00+00:00",
-   "updated": "2026-11-19T10:21:57.634796+00:00"
-  },
-  {
-   "id": "ee7b14dff891",
-   "headline": "U.S. Defense Secretary Pete Hegseth Visits Venezuela to Highlight Alleged Capture of Maduro",
-   "summary": "During his first trip to Venezuela, U.S. Defense Secretary Pete Hegseth claimed that U.S. special forces had abducted former President Nicolás Maduro, calling it the most sophisticated military operation in Latin America. The visit underscores a new U.S.-Venezuela military deal and raises questions about regional security and U.S. influence.",
-   "country": "Venezuela",
-   "regions": [
-    "United States",
-    "Latin America"
-   ],
-   "inside": "Venezuelans could face heightened U.S. military presence and potential political upheaval as a result of the alleged operation and new defense ties.",
-   "beyond": "The move signals increased U.S. involvement in the region, prompting reactions from neighboring countries and affecting broader hemispheric security dynamics.",
-   "category": "Politics & law",
-   "importance": 74,
-   "confidence": 5,
-   "scores": {
-    "scale": 8,
-    "severity": 7,
-    "cross_border": 8,
-    "durability": 6
-   },
-   "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-   "sources": [
-    {
-     "name": "The Guardian",
-     "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-     "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
-     "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-18T20:24:19+00:00",
-   "updated": "2026-11-19T10:21:57.634796+00:00"
-  },
-  {
-   "id": "e714c84be9f5",
-   "headline": "Ukraine allies convene in Berlin after Trump‑Putin‑Xi summit to bolster support for Kyiv",
-   "summary": "Allies of Ukraine gathered in Berlin to coordinate diplomatic and material backing for Kyiv following a historic trilateral summit of US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping in Shenzhen. The meeting highlights Europe’s determination to stay engaged in the war and to seek a seat at any future peace negotiations.",
-   "country": "Ukraine",
-   "regions": [
-    "United States",
-    "Russia",
-    "China",
-    "Poland",
-    "Germany",
-    "European Union"
-   ],
-   "inside": "Ukrainians receive renewed diplomatic backing and the prospect of increased aid, which directly impacts their security, reconstruction efforts, and hopes for a role in peace talks.",
-   "beyond": "The summit and Berlin meeting shape relations among the US, Russia and China, affect European security policy, and have broader implications for global geopolitical stability.",
-   "category": "Politics & law",
-   "importance": 87,
-   "confidence": 8,
-   "scores": {
-    "scale": 9,
-    "severity": 9,
-    "cross_border": 9,
-    "durability": 7
-   },
-   "image": "https://s.france24.com/media/display/17c5f5fe-e3f7-11f1-9c2e-6d75ed565170/w:1024/p:16x9/000-78MX2G3.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/europe/20261119-european-leaders-to-meet-in-berlin-to-support-for-ukraine-after-trump-putin-xi-talks",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Ukraine's allies to meet in Berlin to rally support for Kyiv after Trump-Putin-Xi talks",
-     "url": "https://www.france24.com/en/europe/20261119-european-leaders-to-meet-in-berlin-to-support-for-ukraine-after-trump-putin-xi-talks"
-    },
-    {
-     "name": "The Guardian",
-     "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
-    }
-   ],
-   "published": "2026-11-19T02:55:20+00:00",
-   "updated": "2026-11-19T10:21:57.634796+00:00"
-  },
-  {
-   "id": "8944b9bf2f7d",
-   "headline": "Crimean bridge suffers another attack, halting traffic",
-   "summary": "A fresh assault hit the Kerch bridge linking Russia with the occupied Crimean peninsula, forcing a suspension of road traffic and rail services. The damage is being assessed after a series of strikes that have already knocked out sections of the bridge, underscoring the strategic importance of the crossing in the Russia‑Ukraine conflict.",
-   "country": "Russia",
-   "regions": [
-    "Ukraine",
-    "Black Sea region",
-    "NATO member states"
-   ],
-   "inside": "Residents and businesses in Crimea and Russia lose a vital transport link, disrupting commuting, freight movement and supply chains that rely on the bridge.",
-   "beyond": "The attacks heighten tensions between Russia and Ukraine, draw international attention, and could influence NATO and regional security calculations.",
-   "category": "Conflict",
-   "importance": 74,
-   "confidence": 9,
-   "scores": {
-    "scale": 7,
-    "severity": 8,
-    "cross_border": 7,
-    "durability": 8
-   },
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg",
-   "image_credit": "BBC News",
-   "image_link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "sources": [
-    {
-     "name": "BBC News",
-     "title": "Crimean Bridge attacked again, Russia says",
-     "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-     "name": "The Guardian",
-     "title": "Crimea bridge has been attacked again, says Russian-installed governor",
-     "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
-    }
-   ],
-   "published": "2026-11-19T07:32:06+00:00",
-   "updated": "2026-11-19T10:21:57.634796+00:00"
-  },
-  {
-   "id": "cf9062f00bc8",
-   "headline": "Israeli army conducts ground incursion into central Gaza beyond Yellow Line",
-   "summary": "The Israeli military launched a rare ground operation in central Gaza, crossing the Yellow Line that separates Israeli and Hamas‑controlled areas. The move forced many Gazans to abandon tents and shelters as Israeli tanks advanced near the Nuseirat refugee camp, prompting Hamas to denounce the action as a ceasefire breach.",
-   "country": "Palestine",
-   "regions": [
-    "Israel",
-    "Egypt",
-    "Jordan",
-    "Lebanon",
-    "United States"
-   ],
-   "inside": "Gazans in central Gaza were compelled to flee their shelters and face heightened risk of casualties as Israeli forces moved into the area.",
-   "beyond": "The incursion escalates tensions across the region, drawing reactions from Israel's neighbors and the international community, and could influence diplomatic and security dynamics beyond the immediate battlefield.",
-   "category": "Conflict",
-   "importance": 80,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 7,
-    "durability": 8
-   },
-   "image": "https://s.france24.com/media/display/291a44ea-e375-11f1-8738-6d75ed565170/w:1024/p:16x9/2026-11-18T145851Z-876917872-RC2DQOALE3WH-RTRMADP-3-ISRAEL-PALESTINIANS-GAZA.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
-     "url": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line"
-    },
-    {
-     "name": "France 24",
-     "title": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
-     "url": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza"
-    },
-    {
-     "name": "BBC News",
-     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
-    }
-   ],
-   "published": "2026-11-18T16:03:21+00:00",
-   "updated": "2026-11-19T00:23:49.026460+00:00"
-  },
-  {
-   "id": "2dc489ec5e85",
-   "headline": "France's secret military mission in Ukraine raises questions of direct involvement",
-   "summary": "French public radio RFI disclosed a covert French army operation called \"Volia\" that has been active in Ukraine for months, suggesting French troops are on the ground. Russia has seized on the report to accuse France of direct participation in the war, sparking diplomatic tension and debate over France's role.",
-   "country": "Ukraine",
-   "regions": [
-    "France",
-    "Russia",
-    "European Union"
-   ],
-   "inside": "If French personnel are indeed present, French soldiers could become combatants, exposing them to injury or death and influencing public opinion and political decisions within France.",
-   "beyond": "The revelation could heighten tensions between France and Russia, affect NATO cohesion, and influence broader European security and diplomatic relations.",
-   "category": "Conflict",
-   "importance": 82,
-   "confidence": 7,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 8,
-    "durability": 7
-   },
-   "image": "https://s.france24.com/media/display/8cecea6e-e36a-11f1-b640-7908c4e1a3c7/w:1024/p:16x9/French-troops-Ukraine-10.png",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "War in Ukraine: Is France in direct conflict with Russia?",
-     "url": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia"
-    },
-    {
-     "name": "BBC News",
-     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-     "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss"
-    }
-   ],
-   "published": "2026-11-18T16:57:36+00:00",
-   "updated": "2026-11-19T00:23:49.026460+00:00"
-  },
-  {
-   "id": "0ef9e9ce09ec",
-   "headline": "US Defence Secretary visits Venezuela to restart military cooperation",
-   "summary": "US Defence Secretary Pete Hegseth made an unannounced trip to Caracas, announcing a renewal of military cooperation with Venezuela that will include joint training and intelligence sharing and a pledge to crack down on drug traffickers. The visit marks the highest‑level US engagement with Venezuela since Maduro’s ouster, signalling a shift in bilateral relations.",
-   "country": "United States",
-   "regions": [
-    "Venezuela",
-    "Latin America",
-    "Caribbean"
-   ],
-   "inside": "Venezuelan citizens could experience increased US military activity and a more aggressive anti‑drug campaign, while US personnel and policymakers will be directly involved in the new partnership.",
-   "beyond": "The agreement may reshape regional security, affect drug‑trafficking routes, and influence how other Latin American nations interact with both the US and Venezuela.",
-   "category": "Politics & law",
-   "importance": 66,
-   "confidence": 9,
-   "scores": {
-    "scale": 6,
-    "severity": 7,
-    "cross_border": 8,
-    "durability": 5
-   },
-   "image": "https://s.france24.com/media/display/2904ad80-e382-11f1-9862-c5c0357b2a0c/w:1024/p:16x9/599f3f4f72051259cd9b18e30eeb84323754b49b.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Hegseth makes surprise trip to Venezuela, renews military cooperation",
-     "url": "https://www.france24.com/en/americas/20261118-hegseth-makes-surprise-trip-to-venezuela-renews-military-cooperation"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-     "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-18T18:59:20+00:00",
-   "updated": "2026-11-19T00:23:49.026460+00:00"
-  },
-  {
-   "id": "72d232176f17",
-   "headline": "COP31 deadlock continues as nations launch climate reality check",
-   "summary": "At COP31 in Antalya, countries introduced a global \"climate reality check\" to assess whether climate pledges are being met, while ministers remain split over financing, the speed of the fossil‑fuel phase‑out, and climate justice for poorer nations. The stalemate leaves the summit without clear agreements on how to fund and accelerate the transition.",
-   "country": "Turkey",
-   "regions": [
-    "Global",
-    "Developing countries",
-    "Developed countries"
-   ],
-   "inside": "Citizens in Turkey see the summit’s deadlock delay concrete climate actions that could affect local air quality, energy costs, and job creation in green sectors.",
-   "beyond": "The impasse influences climate finance, technology transfer, and emission‑reduction pathways worldwide, creating uncertainty for both developed and developing nations.",
-   "category": "Climate & disasters",
-   "importance": 85,
-   "confidence": 9,
-   "scores": {
-    "scale": 9,
-    "severity": 8,
-    "cross_border": 9,
-    "durability": 8
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/18-11-2026_COP31.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168833",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168833"
-    }
-   ],
-   "published": "2026-11-18T12:00:00+00:00",
-   "updated": "2026-11-19T00:23:49.026460+00:00"
-  },
-  {
-   "id": "3987956c2ac1",
-   "headline": "Antibiotic resistance worsens, leaving patients with fewer treatment options",
-   "summary": "The WHO warns that common bacteria are becoming highly resistant to both frontline and last‑resort antibiotics, a situation worse than in 2019. This escalation means infections are harder to treat worldwide, putting patients at greater risk of severe illness or death.",
-   "country": "Global",
-   "regions": [
-    "Worldwide"
-   ],
-   "inside": "Patients around the world are facing infections that may no longer respond to standard antibiotics, increasing illness severity and mortality.",
-   "beyond": "The spread of resistant bacteria threatens global health systems, trade, travel and requires coordinated international action.",
-   "category": "Health",
-   "importance": 88,
-   "confidence": 8,
-   "scores": {
-    "scale": 9,
-    "severity": 9,
-    "cross_border": 9,
-    "durability": 8
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/24-03-2023-WHO-antimicrobial.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168832",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "Patients running out of options as antibiotics stop working against common infections",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168832"
-    }
-   ],
-   "published": "2026-11-18T12:00:00+00:00",
-   "updated": "2026-11-19T00:23:49.026460+00:00"
   }
  ]
 }
