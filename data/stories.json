@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-26T21:32:55.036721+00:00",
+ "updated": "2026-11-27T04:15:59.618209+00:00",
  "stories": [
+  {
+   "id": "7f5e18c1ef93",
+   "headline": "Russia builds its own satellite internet as Ukraine grapples with power shortages and the conflict spreads to maritime routes",
+   "summary": "Ukraine's war with Russia has led to severe electricity and water shortages in its capital, while Russia is developing a domestic satellite‑internet system, Rassvet, to replace the U.S. Starlink service that has aided Kyiv. Kyiv is also targeting Russian vessels in the Baltic and Mediterranean, raising concerns for global maritime trade.",
+   "country": "Ukraine",
+   "regions": [
+    "Russia",
+    "Baltic states",
+    "Mediterranean region",
+    "global maritime trade"
+   ],
+   "inside": "Ukrainian civilians in Kyiv face daily blackouts and limited water, relying on dwindling power supplies and disrupted communications, which hampers daily life and emergency services.",
+   "beyond": "Russia's launch of Rassvet could restore its military communications, while Kyiv's attacks on Russian ships threaten shipping lanes, potentially raising insurance costs and disrupting trade for European and Mediterranean economies.",
+   "category": "Conflict",
+   "importance": 86,
+   "confidence": 8,
+   "scores": {
+    "scale": 9,
+    "severity": 9,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": null,
+   "image_credit": null,
+   "image_link": null,
+   "sources": [
+    {
+     "name": "DW",
+     "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
+     "url": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "DW",
+     "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
+     "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-world-4025-rdf"
+    },
+    {
+     "name": "Al Jazeera",
+     "title": "Inside Ukraine’s power crisis amid its war with Russia",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss"
+    }
+   ],
+   "published": "2026-11-26T05:45:00+00:00",
+   "updated": "2026-11-27T04:15:59.618209+00:00"
+  },
+  {
+   "id": "b158ddd83fcd",
+   "headline": "Pablo Hernández de Cos appointed as next European Central Bank president",
+   "summary": "Former Bank of Spain governor Pablo Hernández de Cos has been chosen to succeed Christine Lagarde as president of the European Central Bank, backed by the EU's largest economies. His appointment comes as the ECB confronts high inflation, rising borrowing costs and sovereign debt challenges across the eurozone.",
+   "country": "Spain",
+   "regions": [
+    "Eurozone",
+    "European Union",
+    "Global financial markets"
+   ],
+   "inside": "Spanish citizens will see a fellow Spaniard at the helm of the ECB, potentially giving Spain greater influence over euro‑area monetary policy that directly impacts loan rates, savings and inflation at home.",
+   "beyond": "The new ECB president’s policy decisions will affect all eurozone members, shape global interest‑rate trends, and influence trade and investment flows worldwide.",
+   "category": "Economy & trade",
+   "importance": 83,
+   "confidence": 9,
+   "scores": {
+    "scale": 9,
+    "severity": 8,
+    "cross_border": 8,
+    "durability": 8
+   },
+   "image": "https://i.guim.co.uk/img/media/47d2f9781397baf313cb89ec9480624dbe557b02/1058_252_3184_2548/master/3184.jpg?width=140&quality=85&auto=format&fit=max&s=68ff7c0782ca353291a411df5d20671e",
+   "image_credit": "The Guardian",
+   "image_link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+   "sources": [
+    {
+     "name": "The Guardian",
+     "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+     "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+    },
+    {
+     "name": "France 24",
+     "title": "Spain's De Cos chosen as next ECB president",
+     "url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president"
+    }
+   ],
+   "published": "2026-11-26T17:50:54+00:00",
+   "updated": "2026-11-27T04:15:59.618209+00:00"
+  },
   {
    "id": "609da5d9e772",
    "headline": "Two Italian workers killed in drone strike in Kuwait, Iran denies involvement",
@@ -2125,45 +2209,6 @@
    ],
    "published": "2026-11-19T12:00:00+00:00",
    "updated": "2026-11-20T12:54:14.265310+00:00"
-  },
-  {
-   "id": "7a9c705eae85",
-   "headline": "Regional Conflict Escalates With Strikes on Persian Gulf Shipping and Saudi Capital",
-   "summary": "According to reporting from NPR and Al Jazeera, regional hostilities involving Iran have escalated through strikes against vessels in the Strait of Hormuz and across multiple Persian Gulf states. Al Jazeera also reports that Houthi missile strikes have hit the financial district of Riyadh, causing significant disruption to global energy supplies.",
-   "country": "Saudi Arabia",
-   "regions": [
-    "Iran",
-    "Persian Gulf",
-    "Middle East"
-   ],
-   "inside": "People in Riyadh face direct threats to safety and disruptions to daily business following missile strikes on the city's financial centre.",
-   "beyond": "Commercial shipping in the Strait of Hormuz and neighbouring Persian Gulf countries face airstrikes and maritime attacks, creating lasting consequences for international energy markets.",
-   "category": "Conflict",
-   "importance": 82,
-   "confidence": 7,
-   "scores": {
-    "scale": 8,
-    "severity": 8,
-    "cross_border": 9,
-    "durability": 8
-   },
-   "image": null,
-   "image_credit": null,
-   "image_link": null,
-   "sources": [
-    {
-     "name": "NPR",
-     "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-     "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Iran war live: Houthis escalate attacks on Saudi capital",
-     "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-19T09:46:24+00:00",
-   "updated": "2026-11-20T03:16:18.907232+00:00"
   }
  ]
 }
