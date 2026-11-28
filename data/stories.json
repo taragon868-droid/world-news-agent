@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-28T07:50:16.418155+00:00",
+ "updated": "2026-11-28T16:53:41.957289+00:00",
  "stories": [
+  {
+   "id": "8310d666859d",
+   "headline": "Israeli strike kills two Médecins Sans Frontières staff in Gaza clinic",
+   "summary": "An Israeli military strike hit a Gaza City clinic run by Doctors Without Borders, killing two of its staff members. Israel said the victims were Hamas terrorists, while the WHO and MSF condemned the attack as a violation of medical neutrality.",
+   "country": "Palestine",
+   "regions": [
+    "Israel",
+    "Middle East",
+    "United Nations"
+   ],
+   "inside": "The loss of two medical workers reduces already strained health services for Gaza residents and raises fear among humanitarian staff operating in the enclave.",
+   "beyond": "The incident has drawn international condemnation, potentially affecting diplomatic relations and aid flows to the region.",
+   "category": "Conflict",
+   "importance": 64,
+   "confidence": 9,
+   "scores": {
+    "scale": 6,
+    "severity": 8,
+    "cross_border": 5,
+    "durability": 6
+   },
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg",
+   "image_credit": "BBC News",
+   "image_link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "sources": [
+    {
+     "name": "BBC News",
+     "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "name": "France 24",
+     "title": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+     "url": "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza"
+    },
+    {
+     "name": "The Guardian",
+     "title": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says",
+     "url": "https://www.theguardian.com/world/2026/nov/28/medecins-sans-frontieres-staff-killed-gaza-israeli-strike"
+    },
+    {
+     "name": "France 24",
+     "title": "Israeli strike on Gaza kills two medics from Doctors Without Borders",
+     "url": "https://www.france24.com/en/middle-east/20261128-israeli-strike-on-gaza-kills-two-medics-from-doctors-without-borders"
+    },
+    {
+     "name": "France 24",
+     "title": "Gaza strike kills two Doctors Without Borders staff Israel links to Hamas",
+     "url": "https://www.france24.com/en/gaza-strike-kills-two-doctors-without-borders-staff-israel-links-to-hamas"
+    }
+   ],
+   "published": "2026-11-28T10:34:58+00:00",
+   "updated": "2026-11-28T16:53:41.957289+00:00"
+  },
   {
    "id": "220e5f424eb0",
    "headline": "Canada's Supreme Court Largely Upholds Quebec's Public Sector Religious Symbols Ban",
@@ -1779,133 +1833,6 @@
    ],
    "published": "2026-11-21T12:00:00+00:00",
    "updated": "2026-11-21T20:32:02.261159+00:00"
-  },
-  {
-   "id": "1deeaf75e425",
-   "headline": "US and global powers respond cautiously to ICJ ruling holding Myanmar liable for Rohingya genocide",
-   "summary": "The International Court of Justice ruled that Myanmar is responsible for genocide against the Rohingya and ordered restitution and reparations. The United States welcomed the decision with caution, while China warned of judicial overreach, underscoring deep international divisions over the ruling and its implementation.",
-   "country": "Myanmar",
-   "regions": [
-    "United States",
-    "China",
-    "European Union",
-    "Bangladesh"
-   ],
-   "inside": "The ruling offers a legal acknowledgment of the atrocities faced by the Rohingya, raising hopes for justice but also highlighting the long road to tangible change for those still displaced within Myanmar and neighboring countries.",
-   "beyond": "The decision influences global diplomatic dynamics, prompting reactions from major powers and potentially shaping future international legal actions, aid policies, and regional stability.",
-   "category": "Politics & law",
-   "importance": 70,
-   "confidence": 8,
-   "scores": {
-    "scale": 7,
-    "severity": 9,
-    "cross_border": 6,
-    "durability": 5
-   },
-   "image": "https://i.guim.co.uk/img/media/5988d82b73797347e49b6c59007fbef9ae747fbb/264_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3d3d5da12d382fb35136edd4ce049ed7",
-   "image_credit": "The Guardian",
-   "image_link": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
-   "sources": [
-    {
-     "name": "The Guardian",
-     "title": "US reacts cautiously to Myanmar genocide ruling as EU praises ‘critical’ role of UN’s top court",
-     "url": "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law"
-    },
-    {
-     "name": "DW",
-     "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
-     "url": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-rdf"
-    },
-    {
-     "name": "France 24",
-     "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
-     "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu"
-    },
-    {
-     "name": "The Guardian",
-     "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
-     "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories"
-    }
-   ],
-   "published": "2026-11-20T11:57:43+00:00",
-   "updated": "2026-11-21T12:39:51.935657+00:00"
-  },
-  {
-   "id": "8dbe631aa2db",
-   "headline": "UN extends talks on AI weapon regulations without binding agreement",
-   "summary": "Delegates at the UN's Convention on Certain Conventional Weapons failed to adopt legally binding rules for lethal autonomous weapons, opting instead to keep discussions open for another two years and aim for more detailed rules by 2028. The outcome leaves the development and deployment of AI‑driven killer robots largely unchecked for the near future.",
-   "country": "Global",
-   "regions": [
-    "United Nations member states"
-   ],
-   "inside": "Citizens in each nation could eventually face the deployment of autonomous weapons that operate without human oversight, raising concerns for personal safety, civil liberties, and the risk of unintended casualties.",
-   "beyond": "The lack of a binding framework may accelerate an international arms race in AI‑driven weaponry, affect diplomatic relations, and increase security tensions among countries worldwide.",
-   "category": "Politics & law",
-   "importance": 80,
-   "confidence": 9,
-   "scores": {
-    "scale": 7,
-    "severity": 8,
-    "cross_border": 9,
-    "durability": 8
-   },
-   "image": null,
-   "image_credit": null,
-   "image_link": null,
-   "sources": [
-    {
-     "name": "NPR",
-     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-     "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
-     "url": "https://www.aljazeera.com/news/2026/11/21/nations-agree-to-draft-rules-for-killer-robots-at-arms-control-summit?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-21T08:08:01+00:00",
-   "updated": "2026-11-21T12:39:51.935657+00:00"
-  },
-  {
-   "id": "b18d2ecc8787",
-   "headline": "Russian projectiles strike Poland, raising NATO tensions",
-   "summary": "Three Russian munitions, including a jet‑powered drone and missiles, landed in Poland near the Ukrainian border, prompting NATO to condemn a violation of Polish airspace. The incidents have heightened tensions between Russia and NATO and raised questions about a possible collective defence response.",
-   "country": "Poland",
-   "regions": [
-    "Russia",
-    "Ukraine",
-    "NATO member states",
-    "Europe"
-   ],
-   "inside": "Polish citizens face heightened security alerts and the risk of further attacks, with military exercises and civilian areas potentially disrupted.",
-   "beyond": "The strikes strain relations between Russia and NATO, influencing security postures across Europe and affecting Ukraine's ongoing conflict dynamics.",
-   "category": "Conflict",
-   "importance": 70,
-   "confidence": 8,
-   "scores": {
-    "scale": 6,
-    "severity": 7,
-    "cross_border": 8,
-    "durability": 7
-   },
-   "image": "https://s.france24.com/media/display/e70ff4a2-e58e-11f1-ba7b-6b451f569414/w:1024/p:16x9/EN-20261121-100222-100408-CS.jpg",
-   "image_credit": "France 24",
-   "image_link": "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
-   "sources": [
-    {
-     "name": "France 24",
-     "title": "Russian projectiles hit Poland as NATO tensions rise",
-     "url": "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise"
-    },
-    {
-     "name": "Al Jazeera",
-     "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-     "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss"
-    }
-   ],
-   "published": "2026-11-21T09:47:05+00:00",
-   "updated": "2026-11-21T12:39:51.935657+00:00"
   }
  ]
 }
