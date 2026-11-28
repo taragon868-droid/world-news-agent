@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:43:04.438605+00:00",
+ "updated": "2026-11-28T07:50:16.418155+00:00",
  "stories": [
   {
    "id": "220e5f424eb0",
@@ -1906,68 +1906,6 @@
    ],
    "published": "2026-11-21T09:47:05+00:00",
    "updated": "2026-11-21T12:39:51.935657+00:00"
-  },
-  {
-   "id": "9b9ee78ddf96",
-   "headline": "UN General Assembly President urges action on genocide ruling during visit to Rohingya camps in Bangladesh",
-   "summary": "The International Court of Justice found that Myanmar committed genocide against the Rohingya. The UN General Assembly President then visited the refugee camps in Cox’s Bazar, Bangladesh, calling on the international community to translate the ruling into concrete protection and assistance for the displaced people.",
-   "country": "Bangladesh",
-   "regions": [
-    "Myanmar"
-   ],
-   "inside": "Rohingya refugees in Bangladesh are highlighted by the UN visit, which could spur increased humanitarian aid and pressure for their safety and rights.",
-   "beyond": "The genocide judgment obliges the global community to act against Myanmar, affecting diplomatic relations, potential sanctions, and international legal responsibilities.",
-   "category": "Politics & law",
-   "importance": 79,
-   "confidence": 9,
-   "scores": {
-    "scale": 8,
-    "severity": 9,
-    "cross_border": 7,
-    "durability": 7
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/11/20-11-2026_Rahman_Rohingya_visit.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168853",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168853"
-    }
-   ],
-   "published": "2026-11-20T12:00:00+00:00",
-   "updated": "2026-11-21T03:13:59.000011+00:00"
-  },
-  {
-   "id": "e32181ae3503",
-   "headline": "Afghan restrictions block pregnant women from accessing medical care",
-   "summary": "Aid agencies warn that new restrictions in Afghanistan are preventing growing numbers of women and girls, especially pregnant women, from obtaining essential medical services. The measures constitute an escalating assault on their health rights and could lead to serious health outcomes.",
-   "country": "Afghanistan",
-   "regions": [],
-   "inside": "Pregnant women in Afghanistan are unable to seek prenatal and obstetric care, putting their health and that of their unborn children at risk.",
-   "beyond": "",
-   "category": "Health",
-   "importance": 62,
-   "confidence": 7,
-   "scores": {
-    "scale": 7,
-    "severity": 8,
-    "cross_border": 2,
-    "durability": 8
-   },
-   "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/10-06-2024-UN-Women-Afghanistan-08.jpg/image560x340cropped.jpg",
-   "image_credit": "UN News",
-   "image_link": "https://news.un.org/feed/view/en/story/2026/11/1168844",
-   "sources": [
-    {
-     "name": "UN News",
-     "title": "Afghanistan restrictions prevent pregnant women from seeking medical help",
-     "url": "https://news.un.org/feed/view/en/story/2026/11/1168844"
-    }
-   ],
-   "published": "2026-11-20T12:00:00+00:00",
-   "updated": "2026-11-21T03:13:59.000011+00:00"
   }
  ]
 }
